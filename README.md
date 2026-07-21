@@ -8,7 +8,7 @@ independently computes **OPR** and a family of component / per-shift OPR variant
 (plus OPR-over-time trends), and renders a static site with a clickable **“?”**
 explanation on every metric.
 
-**Live site:** _(GitHub Pages URL — added after first deploy)_
+**Live site:** <https://rickxu2.github.io/frc-sanya-2026/>
 
 ## What it computes
 

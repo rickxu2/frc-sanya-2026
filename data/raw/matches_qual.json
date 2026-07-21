@@ -1,0 +1,2308 @@
+{
+  "Matches": [
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 1",
+      "matchNumber": 1,
+      "scoreRedFinal": 280,
+      "scoreRedFoul": 0,
+      "scoreRedAuto": 61,
+      "scoreBlueFinal": 278,
+      "scoreBlueFoul": 0,
+      "scoreBlueAuto": 73,
+      "autoStartTime": "2026-07-20T21:06:07.387",
+      "actualStartTime": "2026-07-20T21:06:07.387",
+      "tournamentLevel": "Qualification",
+      "postResultTime": "2026-07-20T21:09:12.82",
+      "teams": [
+        {
+          "teamNumber": 9635,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 7002,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9995,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 8015,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 8810,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 5515,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 2",
+      "matchNumber": 2,
+      "scoreRedFinal": 165,
+      "scoreRedFoul": 5,
+      "scoreRedAuto": 26,
+      "scoreBlueFinal": 623,
+      "scoreBlueFoul": 0,
+      "scoreBlueAuto": 96,
+      "autoStartTime": "2026-07-20T21:17:09.63",
+      "actualStartTime": "2026-07-20T21:17:09.63",
+      "tournamentLevel": "Qualification",
+      "postResultTime": "2026-07-20T21:20:23.663",
+      "teams": [
+        {
+          "teamNumber": 6399,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6706,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 5449,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6766,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9997,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10479,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 3",
+      "matchNumber": 3,
+      "scoreRedFinal": 59,
+      "scoreRedFoul": 5,
+      "scoreRedAuto": 26,
+      "scoreBlueFinal": 212,
+      "scoreBlueFoul": 15,
+      "scoreBlueAuto": 69,
+      "autoStartTime": "2026-07-20T21:28:17.11",
+      "actualStartTime": "2026-07-20T21:28:17.11",
+      "tournamentLevel": "Qualification",
+      "postResultTime": "2026-07-20T21:32:12.273",
+      "teams": [
+        {
+          "teamNumber": 10541,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9994,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6394,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6353,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6940,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9992,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 4",
+      "matchNumber": 4,
+      "scoreRedFinal": 66,
+      "scoreRedFoul": 15,
+      "scoreRedAuto": 27,
+      "scoreBlueFinal": 217,
+      "scoreBlueFoul": 0,
+      "scoreBlueAuto": 38,
+      "autoStartTime": "2026-07-20T21:43:28.46",
+      "actualStartTime": "2026-07-20T21:43:28.46",
+      "tournamentLevel": "Qualification",
+      "postResultTime": "2026-07-20T21:46:30.443",
+      "teams": [
+        {
+          "teamNumber": 5849,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11118,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 5516,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 5823,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9597,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 11019,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 5",
+      "matchNumber": 5,
+      "scoreRedFinal": 5,
+      "scoreRedFoul": 0,
+      "scoreRedAuto": 5,
+      "scoreBlueFinal": 659,
+      "scoreBlueFoul": 30,
+      "scoreBlueAuto": 104,
+      "autoStartTime": "2026-07-20T21:55:43.697",
+      "actualStartTime": "2026-07-20T21:55:43.697",
+      "tournamentLevel": "Qualification",
+      "postResultTime": "2026-07-20T21:59:29.897",
+      "teams": [
+        {
+          "teamNumber": 9999,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9996,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 11352,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 8011,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11256,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 8214,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 6",
+      "matchNumber": 6,
+      "scoreRedFinal": 218,
+      "scoreRedFoul": 0,
+      "scoreRedAuto": 25,
+      "scoreBlueFinal": 193,
+      "scoreBlueFoul": 45,
+      "scoreBlueAuto": 21,
+      "autoStartTime": "2026-07-20T22:07:24.003",
+      "actualStartTime": "2026-07-20T22:07:24.003",
+      "tournamentLevel": "Qualification",
+      "postResultTime": "2026-07-20T22:10:26.103",
+      "teams": [
+        {
+          "teamNumber": 9991,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10711,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6907,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 10016,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6494,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6433,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 7",
+      "matchNumber": 7,
+      "scoreRedFinal": 430,
+      "scoreRedFoul": 5,
+      "scoreRedAuto": 118,
+      "scoreBlueFinal": 192,
+      "scoreBlueFoul": 0,
+      "scoreBlueAuto": 38,
+      "autoStartTime": "2026-07-20T22:19:08.027",
+      "actualStartTime": "2026-07-20T22:19:08.027",
+      "tournamentLevel": "Qualification",
+      "postResultTime": "2026-07-20T22:22:21.23",
+      "teams": [
+        {
+          "teamNumber": 11328,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6940,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6487,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 10000,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10120,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6941,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 8",
+      "matchNumber": 8,
+      "scoreRedFinal": 385,
+      "scoreRedFoul": 30,
+      "scoreRedAuto": 77,
+      "scoreBlueFinal": 342,
+      "scoreBlueFoul": 0,
+      "scoreBlueAuto": 48,
+      "autoStartTime": "2026-07-20T22:29:51.153",
+      "actualStartTime": "2026-07-20T22:29:51.153",
+      "tournamentLevel": "Qualification",
+      "postResultTime": "2026-07-20T22:33:31.017",
+      "teams": [
+        {
+          "teamNumber": 5516,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5823,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9635,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6706,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10541,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10479,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 9",
+      "matchNumber": 9,
+      "scoreRedFinal": 150,
+      "scoreRedFoul": 0,
+      "scoreRedAuto": 41,
+      "scoreBlueFinal": 73,
+      "scoreBlueFoul": 0,
+      "scoreBlueAuto": 0,
+      "autoStartTime": "2026-07-20T22:42:36.347",
+      "actualStartTime": "2026-07-20T22:42:36.347",
+      "tournamentLevel": "Qualification",
+      "postResultTime": "2026-07-20T22:45:43.257",
+      "teams": [
+        {
+          "teamNumber": 9597,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 7002,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6399,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6353,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11352,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 11256,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 10",
+      "matchNumber": 10,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-20T22:48:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 5849,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5515,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 8214,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6766,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9992,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6494,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 11",
+      "matchNumber": 11,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-20T23:00:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 6941,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9995,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10711,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 9991,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9999,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10120,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 12",
+      "matchNumber": 12,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-20T23:12:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 10000,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11118,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 5449,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 9996,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10016,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9994,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 13",
+      "matchNumber": 13,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-20T23:24:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 9997,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 8011,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 8810,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 11328,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6907,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 8015,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 14",
+      "matchNumber": 14,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-20T23:36:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 5823,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6433,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6394,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6487,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11019,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6399,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 15",
+      "matchNumber": 15,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-20T23:48:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 6940,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6941,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 5849,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6706,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9995,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6353,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 16",
+      "matchNumber": 16,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T01:00:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 6494,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10120,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10541,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 7002,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10000,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 11352,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 17",
+      "matchNumber": 17,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T01:12:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 5449,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 8015,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 5516,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 11328,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9991,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 8214,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 18",
+      "matchNumber": 18,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T01:24:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 10016,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6394,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6766,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 11256,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9996,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 8810,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 19",
+      "matchNumber": 19,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T01:36:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 11019,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10479,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 8011,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 9994,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10711,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 5515,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 20",
+      "matchNumber": 20,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T01:48:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 11118,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9997,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6907,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6487,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9999,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9635,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 21",
+      "matchNumber": 21,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T02:00:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 6433,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9992,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6941,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 9597,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5516,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10000,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 22",
+      "matchNumber": 22,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T02:12:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 8015,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10016,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10120,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6394,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5849,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6706,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 23",
+      "matchNumber": 23,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T02:24:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 9995,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6494,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6940,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 10479,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5823,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 11256,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 24",
+      "matchNumber": 24,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T02:36:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 6766,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6353,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 7002,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 11118,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 8011,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10711,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 25",
+      "matchNumber": 25,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T02:48:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 8810,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6907,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9999,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 9994,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11352,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 11019,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 26",
+      "matchNumber": 26,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T03:00:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 5515,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6433,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9991,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 8214,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10541,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9997,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 27",
+      "matchNumber": 27,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T03:12:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 9992,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9597,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6487,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 9635,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5449,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 11328,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 28",
+      "matchNumber": 28,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T03:24:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 9996,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 8015,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 11118,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6399,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6941,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6494,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 29",
+      "matchNumber": 29,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T03:36:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 6940,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10000,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6766,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6907,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5516,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 7002,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 30",
+      "matchNumber": 30,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T03:48:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 10479,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 8214,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6433,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 8810,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6353,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10120,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 31",
+      "matchNumber": 31,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T04:00:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 9999,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5515,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 8011,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6394,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5449,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9597,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 32",
+      "matchNumber": 32,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T04:12:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 9991,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6487,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 5849,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 11256,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9635,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9994,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 33",
+      "matchNumber": 33,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T04:24:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 9992,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6399,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9997,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 9995,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11019,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10016,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 34",
+      "matchNumber": 34,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T04:36:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 11352,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6706,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 11328,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 10711,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9996,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 5823,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 35",
+      "matchNumber": 35,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T04:48:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 10541,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5516,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6353,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 5449,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6494,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9999,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 36",
+      "matchNumber": 36,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T05:00:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 10479,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9635,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10000,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 8011,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6394,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6941,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 37",
+      "matchNumber": 37,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T21:00:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 8214,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6766,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9597,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6487,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9994,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9997,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 38",
+      "matchNumber": 38,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T21:12:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 5515,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11352,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10016,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6940,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 8015,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6433,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 39",
+      "matchNumber": 39,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T21:24:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 10120,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11256,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9995,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 11019,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11328,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 11118,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 40",
+      "matchNumber": 40,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T21:36:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 5823,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9992,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6706,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 7002,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 8810,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9991,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 41",
+      "matchNumber": 41,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T21:48:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 6907,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6399,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9996,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 5849,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10711,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10541,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 42",
+      "matchNumber": 42,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T22:00:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 6433,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10000,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6353,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 9999,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6766,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 8015,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 43",
+      "matchNumber": 43,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T22:12:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 9994,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9995,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 8011,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 5516,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6487,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 10016,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 44",
+      "matchNumber": 44,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T22:24:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 11352,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 10479,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6940,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 11118,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 9991,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9992,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 45",
+      "matchNumber": 45,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T22:36:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 10541,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11019,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 11256,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6941,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 8214,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6706,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 46",
+      "matchNumber": 46,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T22:48:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 5449,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5515,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9996,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 10120,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6907,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 5823,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 47",
+      "matchNumber": 47,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T23:00:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 9997,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 11328,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6394,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 6494,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 5849,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 7002,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    },
+    {
+      "isReplay": false,
+      "matchVideoLink": null,
+      "description": "Qualification 48",
+      "matchNumber": 48,
+      "scoreRedFinal": null,
+      "scoreRedFoul": null,
+      "scoreRedAuto": null,
+      "scoreBlueFinal": null,
+      "scoreBlueFoul": null,
+      "scoreBlueAuto": null,
+      "autoStartTime": "2026-07-21T23:12:00",
+      "actualStartTime": null,
+      "tournamentLevel": "Qualification",
+      "postResultTime": null,
+      "teams": [
+        {
+          "teamNumber": 9597,
+          "station": "Red1",
+          "dq": false
+        },
+        {
+          "teamNumber": 8810,
+          "station": "Red2",
+          "dq": false
+        },
+        {
+          "teamNumber": 9635,
+          "station": "Red3",
+          "dq": false
+        },
+        {
+          "teamNumber": 10711,
+          "station": "Blue1",
+          "dq": false
+        },
+        {
+          "teamNumber": 6399,
+          "station": "Blue2",
+          "dq": false
+        },
+        {
+          "teamNumber": 6940,
+          "station": "Blue3",
+          "dq": false
+        }
+      ]
+    }
+  ]
+}

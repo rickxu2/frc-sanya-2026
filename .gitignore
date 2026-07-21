@@ -1,0 +1,16 @@
+# Secrets — never commit API credentials
+.env
+.env.*
+secrets*
+*.secret
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>三亚 FRC 2026 数据分析 · Sanya REBUILT Analytics</title>
+  <meta name="description" content="2026 FRC REBUILT 三亚站 (OTSAN) 队伍数据分析：OPR、分阶段/分班次 OPR、随时间变化趋势等。" />
+  <link rel="preconnect" href="data:," />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <div class="brand">
+        <div class="t" id="brandTitle">三亚 FRC 2026 数据分析</div>
+        <div class="s" id="brandSub">加载中…</div>
+      </div>
+      <div class="spacer"></div>
+      <span class="chip" id="genChip"></span>
+      <button class="icon-btn" id="themeBtn" title="切换深浅色" aria-label="切换深浅色主题">◐</button>
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <div class="wrap">
+      <button class="tab active" data-view="overview">总览 · Overview</button>
+      <button class="tab" data-view="team">队伍详情 · Team</button>
+      <button class="tab" data-view="matches">比赛 · Matches</button>
+      <button class="tab" data-view="glossary">指标说明 · Metrics</button>
+      <button class="tab" data-view="about">方法 · Method</button>
+    </div>
+  </nav>
+
+  <main>
+    <div class="wrap">
+      <div id="loading" class="loading"><div class="spin"></div>正在加载数据…</div>
+
+      <!-- OVERVIEW -->
+      <section class="view" id="view-overview">
+        <div id="notes"></div>
+        <div class="section-head">
+          <h2>队伍排行与指标</h2>
+          <span class="muted" id="ovCount"></span>
+        </div>
+        <div class="controls">
+          <div class="grow"><input type="search" id="search" placeholder="搜索队伍编号或名称…" aria-label="搜索队伍" /></div>
+          <div class="seg" id="groupSeg" role="tablist" aria-label="指标分组"></div>
+        </div>
+        <div class="table-scroll">
+          <table class="data" id="ovTable">
+            <thead><tr id="ovHead"></tr></thead>
+            <tbody id="ovBody"></tbody>
+          </table>
+        </div>
+        <p class="small muted" style="margin-top:10px">点击任意列标题排序 · 点击表头的 <span class="help" style="cursor:default">?</span> 查看该指标含义 · 点击队伍名查看详情。绿色高亮为该列最佳。</p>
+      </section>
+
+      <!-- TEAM DETAIL -->
+      <section class="view" id="view-team">
+        <div class="back" id="teamBack">← 返回总览</div>
+        <div id="teamPicker" class="controls hidden">
+          <div class="grow"><select id="teamSelect" aria-label="选择队伍"></select></div>
+        </div>
+        <div id="teamContent"></div>
+      </section>
+
+      <!-- MATCHES -->
+      <section class="view" id="view-matches">
+        <div class="section-head"><h2>比赛记录 · Matches</h2><span class="muted" id="mCount"></span></div>
+        <div class="controls">
+          <div class="seg" id="matchSeg"></div>
+        </div>
+        <div class="table-scroll">
+          <table class="data" id="mTable"><thead id="mHead"></thead><tbody id="mBody"></tbody></table>
+        </div>
+      </section>
+
+      <!-- GLOSSARY -->
+      <section class="view" id="view-glossary">
+        <div class="section-head"><h2>指标说明 · Metrics Glossary</h2></div>
+        <p class="muted small" style="margin:-6px 0 16px">每个指标都可在表格与卡片处点击 <span class="help" style="cursor:default">?</span> 查看。下面是完整清单。</p>
+        <div class="gloss" id="glossList"></div>
+      </section>
+
+      <!-- ABOUT / METHOD -->
+      <section class="view" id="view-about">
+        <div class="section-head"><h2>方法与数据来源 · Methodology</h2></div>
+        <div class="prose" id="aboutBody"></div>
+      </section>
+    </div>
+  </main>
+
+  <div id="popover" role="dialog" aria-live="polite"></div>
+
+  <footer>
+    <div class="wrap">
+      <span id="footMeta"></span>
+      <span class="spacer" style="flex:1"></span>
+      <span>数据来源：<a id="srcLink" href="https://frc-events.firstinspires.org/" target="_blank" rel="noopener">FRC Events</a></span>
+      <span>· OPR 由本站独立计算</span>
+    </div>
+  </footer>
+
+  <script src="vendor/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "Events": [
+    {
+      "allianceCount": "EightAlliance",
+      "weekNumber": 0,
+      "announcements": [],
+      "code": "OTSAN",
+      "divisionCode": null,
+      "name": "World Robot Contest South China Championships 2026 - Sanya FRC program & China Off-Season Event Presented by TIMKEN",
+      "type": "OffSeasonWithAzureSync",
+      "districtCode": null,
+      "venue": "Sanya Bay Mangrove International Convention And Exhibition Center",
+      "city": "Sanya",
+      "stateprov": "OTH",
+      "country": "China",
+      "dateStart": "2026-07-19T00:00:00",
+      "dateEnd": "2026-07-22T23:59:59",
+      "address": "No. 155 Phoenix Road",
+      "website": null,
+      "webcasts": [],
+      "timezone": "Eastern Standard Time"
+    }
+  ],
+  "eventCount": 1
+}

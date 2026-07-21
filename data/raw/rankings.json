@@ -4,33 +4,33 @@
       "rank": 1,
       "teamNumber": 8214,
       "sortOrder1": 5.0,
-      "sortOrder2": 559.0,
-      "sortOrder3": 110.0,
+      "sortOrder2": 626.75,
+      "sortOrder3": 121.25,
       "sortOrder4": 0.0,
       "sortOrder5": 0.0,
       "sortOrder6": 0.0,
-      "wins": 3,
+      "wins": 4,
       "losses": 0,
       "ties": 0,
-      "qualAverage": 570.67,
+      "qualAverage": 638.0,
       "dq": 0,
-      "matchesPlayed": 3
+      "matchesPlayed": 4
     },
     {
       "rank": 2,
       "teamNumber": 9997,
       "sortOrder1": 5.0,
-      "sortOrder2": 524.33,
-      "sortOrder3": 65.0,
+      "sortOrder2": 600.75,
+      "sortOrder3": 87.5,
       "sortOrder4": 0.0,
       "sortOrder5": 0.0,
       "sortOrder6": 0.0,
-      "wins": 3,
+      "wins": 4,
       "losses": 0,
       "ties": 0,
-      "qualAverage": 537.67,
+      "qualAverage": 613.25,
       "dq": 0,
-      "matchesPlayed": 3
+      "matchesPlayed": 4
     },
     {
       "rank": 3,
@@ -66,6 +66,22 @@
     },
     {
       "rank": 5,
+      "teamNumber": 8810,
+      "sortOrder1": 3.75,
+      "sortOrder2": 370.75,
+      "sortOrder3": 65.0,
+      "sortOrder4": 0.0,
+      "sortOrder5": 0.0,
+      "sortOrder6": 0.0,
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "qualAverage": 378.25,
+      "dq": 0,
+      "matchesPlayed": 4
+    },
+    {
+      "rank": 6,
       "teamNumber": 11328,
       "sortOrder1": 3.67,
       "sortOrder2": 444.0,
@@ -81,36 +97,20 @@
       "matchesPlayed": 3
     },
     {
-      "rank": 6,
-      "teamNumber": 11019,
-      "sortOrder1": 3.67,
-      "sortOrder2": 299.33,
-      "sortOrder3": 41.67,
+      "rank": 7,
+      "teamNumber": 6907,
+      "sortOrder1": 3.5,
+      "sortOrder2": 354.25,
+      "sortOrder3": 55.0,
       "sortOrder4": 0.0,
       "sortOrder5": 0.0,
       "sortOrder6": 0.0,
       "wins": 3,
-      "losses": 0,
-      "ties": 0,
-      "qualAverage": 306.0,
-      "dq": 0,
-      "matchesPlayed": 3
-    },
-    {
-      "rank": 7,
-      "teamNumber": 8810,
-      "sortOrder1": 3.33,
-      "sortOrder2": 351.0,
-      "sortOrder3": 62.0,
-      "sortOrder4": 0.0,
-      "sortOrder5": 0.0,
-      "sortOrder6": 0.0,
-      "wins": 2,
       "losses": 1,
       "ties": 0,
-      "qualAverage": 361.0,
+      "qualAverage": 358.0,
       "dq": 0,
-      "matchesPlayed": 3
+      "matchesPlayed": 4
     },
     {
       "rank": 8,
@@ -194,22 +194,6 @@
     },
     {
       "rank": 13,
-      "teamNumber": 6907,
-      "sortOrder1": 3.0,
-      "sortOrder2": 329.0,
-      "sortOrder3": 48.67,
-      "sortOrder4": 0.0,
-      "sortOrder5": 0.0,
-      "sortOrder6": 0.0,
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "qualAverage": 334.0,
-      "dq": 0,
-      "matchesPlayed": 3
-    },
-    {
-      "rank": 14,
       "teamNumber": 5849,
       "sortOrder1": 3.0,
       "sortOrder2": 254.75,
@@ -221,6 +205,22 @@
       "losses": 1,
       "ties": 0,
       "qualAverage": 261.0,
+      "dq": 0,
+      "matchesPlayed": 4
+    },
+    {
+      "rank": 14,
+      "teamNumber": 10541,
+      "sortOrder1": 2.75,
+      "sortOrder2": 414.25,
+      "sortOrder3": 73.25,
+      "sortOrder4": 0.0,
+      "sortOrder5": 0.0,
+      "sortOrder6": 0.0,
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "qualAverage": 418.0,
       "dq": 0,
       "matchesPlayed": 4
     },
@@ -242,6 +242,22 @@
     },
     {
       "rank": 16,
+      "teamNumber": 11019,
+      "sortOrder1": 2.75,
+      "sortOrder2": 251.0,
+      "sortOrder3": 33.5,
+      "sortOrder4": 0.0,
+      "sortOrder5": 0.0,
+      "sortOrder6": 0.0,
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "qualAverage": 256.0,
+      "dq": 0,
+      "matchesPlayed": 4
+    },
+    {
+      "rank": 17,
       "teamNumber": 10711,
       "sortOrder1": 2.75,
       "sortOrder2": 208.25,
@@ -255,22 +271,6 @@
       "qualAverage": 223.25,
       "dq": 0,
       "matchesPlayed": 4
-    },
-    {
-      "rank": 17,
-      "teamNumber": 9991,
-      "sortOrder1": 2.67,
-      "sortOrder2": 333.67,
-      "sortOrder3": 51.67,
-      "sortOrder4": 0.0,
-      "sortOrder5": 0.0,
-      "sortOrder6": 0.0,
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "qualAverage": 333.67,
-      "dq": 0,
-      "matchesPlayed": 3
     },
     {
       "rank": 18,
@@ -322,19 +322,19 @@
     },
     {
       "rank": 21,
-      "teamNumber": 10541,
+      "teamNumber": 9991,
       "sortOrder1": 2.0,
-      "sortOrder2": 275.67,
-      "sortOrder3": 46.0,
+      "sortOrder2": 275.0,
+      "sortOrder3": 39.75,
       "sortOrder4": 0.0,
       "sortOrder5": 0.0,
       "sortOrder6": 0.0,
-      "wins": 1,
+      "wins": 2,
       "losses": 2,
       "ties": 0,
-      "qualAverage": 277.33,
+      "qualAverage": 275.0,
       "dq": 0,
-      "matchesPlayed": 3
+      "matchesPlayed": 4
     },
     {
       "rank": 22,
@@ -354,22 +354,6 @@
     },
     {
       "rank": 23,
-      "teamNumber": 5515,
-      "sortOrder1": 2.0,
-      "sortOrder2": 241.67,
-      "sortOrder3": 62.33,
-      "sortOrder4": 0.0,
-      "sortOrder5": 0.0,
-      "sortOrder6": 0.0,
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "qualAverage": 243.33,
-      "dq": 0,
-      "matchesPlayed": 3
-    },
-    {
-      "rank": 24,
       "teamNumber": 6399,
       "sortOrder1": 2.0,
       "sortOrder2": 165.0,
@@ -385,7 +369,7 @@
       "matchesPlayed": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "teamNumber": 9597,
       "sortOrder1": 2.0,
       "sortOrder2": 144.67,
@@ -399,6 +383,22 @@
       "qualAverage": 151.33,
       "dq": 0,
       "matchesPlayed": 3
+    },
+    {
+      "rank": 25,
+      "teamNumber": 9999,
+      "sortOrder1": 1.75,
+      "sortOrder2": 244.0,
+      "sortOrder3": 44.5,
+      "sortOrder4": 0.0,
+      "sortOrder5": 0.0,
+      "sortOrder6": 0.0,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "qualAverage": 244.0,
+      "dq": 0,
+      "matchesPlayed": 4
     },
     {
       "rank": 26,
@@ -434,6 +434,22 @@
     },
     {
       "rank": 28,
+      "teamNumber": 5515,
+      "sortOrder1": 1.5,
+      "sortOrder2": 206.0,
+      "sortOrder3": 47.75,
+      "sortOrder4": 0.0,
+      "sortOrder5": 0.0,
+      "sortOrder6": 0.0,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "qualAverage": 207.25,
+      "dq": 0,
+      "matchesPlayed": 4
+    },
+    {
+      "rank": 29,
       "teamNumber": 9996,
       "sortOrder1": 1.33,
       "sortOrder2": 143.67,
@@ -449,7 +465,7 @@
       "matchesPlayed": 3
     },
     {
-      "rank": 29,
+      "rank": 30,
       "teamNumber": 6706,
       "sortOrder1": 1.25,
       "sortOrder2": 238.0,
@@ -465,7 +481,7 @@
       "matchesPlayed": 4
     },
     {
-      "rank": 30,
+      "rank": 31,
       "teamNumber": 10120,
       "sortOrder1": 1.25,
       "sortOrder2": 208.5,
@@ -481,7 +497,7 @@
       "matchesPlayed": 4
     },
     {
-      "rank": 31,
+      "rank": 32,
       "teamNumber": 6353,
       "sortOrder1": 1.0,
       "sortOrder2": 167.25,
@@ -495,22 +511,6 @@
       "qualAverage": 178.5,
       "dq": 0,
       "matchesPlayed": 4
-    },
-    {
-      "rank": 32,
-      "teamNumber": 6433,
-      "sortOrder1": 1.0,
-      "sortOrder2": 138.33,
-      "sortOrder3": 26.67,
-      "sortOrder4": 0.0,
-      "sortOrder5": 0.0,
-      "sortOrder6": 0.0,
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "qualAverage": 155.0,
-      "dq": 0,
-      "matchesPlayed": 3
     },
     {
       "rank": 33,
@@ -562,6 +562,22 @@
     },
     {
       "rank": 36,
+      "teamNumber": 6433,
+      "sortOrder1": 0.75,
+      "sortOrder2": 128.5,
+      "sortOrder3": 21.0,
+      "sortOrder4": 0.0,
+      "sortOrder5": 0.0,
+      "sortOrder6": 0.0,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "qualAverage": 141.0,
+      "dq": 0,
+      "matchesPlayed": 4
+    },
+    {
+      "rank": 37,
       "teamNumber": 10000,
       "sortOrder1": 0.75,
       "sortOrder2": 109.25,
@@ -575,22 +591,6 @@
       "qualAverage": 125.5,
       "dq": 0,
       "matchesPlayed": 4
-    },
-    {
-      "rank": 37,
-      "teamNumber": 9999,
-      "sortOrder1": 0.67,
-      "sortOrder2": 182.0,
-      "sortOrder3": 34.67,
-      "sortOrder4": 0.0,
-      "sortOrder5": 0.0,
-      "sortOrder6": 0.0,
-      "wins": 0,
-      "losses": 3,
-      "ties": 0,
-      "qualAverage": 182.0,
-      "dq": 0,
-      "matchesPlayed": 3
     },
     {
       "rank": 38,
@@ -628,33 +628,33 @@
       "rank": 40,
       "teamNumber": 9994,
       "sortOrder1": 0.0,
-      "sortOrder2": 64.0,
-      "sortOrder3": 15.33,
+      "sortOrder2": 74.5,
+      "sortOrder3": 13.75,
       "sortOrder4": 0.0,
       "sortOrder5": 0.0,
       "sortOrder6": 0.0,
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "qualAverage": 65.67,
+      "qualAverage": 75.75,
       "dq": 0,
-      "matchesPlayed": 3
+      "matchesPlayed": 4
     },
     {
       "rank": 41,
       "teamNumber": 11352,
       "sortOrder1": 0.0,
-      "sortOrder2": 51.67,
-      "sortOrder3": 10.33,
+      "sortOrder2": 65.25,
+      "sortOrder3": 10.0,
       "sortOrder4": 0.0,
       "sortOrder5": 0.0,
       "sortOrder6": 0.0,
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "qualAverage": 51.67,
+      "qualAverage": 65.25,
       "dq": 0,
-      "matchesPlayed": 3
+      "matchesPlayed": 4
     }
   ]
 }

@@ -62,6 +62,21 @@ python -m http.server 8765 --directory docs
 # open http://127.0.0.1:8765
 ```
 
+## Automatic refresh
+
+[scripts/refresh.py](scripts/refresh.py) refetches the data and **commits + pushes
+only when the raw match/score data actually changed** (so no empty commits, and the
+site updates within a few minutes of each match). On this machine it runs every
+5 minutes via a Windows Scheduled Task named **`SanyaFRCRefresh`**; output is logged
+to `logs/refresh.log`.
+
+```powershell
+# see / run / disable the task
+Get-ScheduledTask SanyaFRCRefresh
+Start-ScheduledTask SanyaFRCRefresh      # run once now
+Disable-ScheduledTask SanyaFRCRefresh    # stop auto-refresh (e.g. after the event)
+```
+
 ## Notes & limitations
 
 - OPR assumes alliance score = sum of independent team contributions; it ignores

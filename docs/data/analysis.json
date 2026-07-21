@@ -9,13 +9,13 @@
   "city": "Sanya",
   "season": "2026",
   "gameName": "REBUILT presented by Haas",
-  "generatedAt": "2026-07-21T08:05:54Z",
+  "generatedAt": "2026-07-21T08:20:34Z",
   "dataSource": "FRC Events API",
   "isMock": false,
   "counts": {
    "teams": 41,
    "teamsPlayed": 41,
-   "qualPlayed": 30,
+   "qualPlayed": 31,
    "qualTotal": 48,
    "playoffPlayed": 0
   },
@@ -321,24 +321,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 231.97,
-    "autoOpr": 17.18,
-    "teleopOpr": 213.6,
+    "opr": 232.42,
+    "autoOpr": 17.09,
+    "teleopOpr": 214.16,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 230.78,
-    "fuelCountOpr": 244.64,
-    "autoFuelOpr": 17.18,
-    "teleopFuelOpr": 213.6,
-    "transitionOpr": 6.66,
-    "endgameFuelOpr": 69.31,
-    "shift1Opr": 44.97,
-    "shift2Opr": 24.29,
-    "shift3Opr": 39.26,
-    "shift4Opr": 29.11,
-    "dpr": 68.25,
-    "ccwm": 163.72,
+    "fuelOpr": 231.25,
+    "fuelCountOpr": 245.14,
+    "autoFuelOpr": 17.09,
+    "teleopFuelOpr": 214.16,
+    "transitionOpr": 6.59,
+    "endgameFuelOpr": 69.7,
+    "shift1Opr": 45.03,
+    "shift2Opr": 24.26,
+    "shift3Opr": 39.27,
+    "shift4Opr": 29.3,
+    "dpr": 69.7,
+    "ccwm": 162.72,
     "matchesPlayed": 4,
     "winRate": 100,
     "avgScore": 613.2,
@@ -421,6 +421,10 @@
      {
       "m": 30,
       "v": 232.0
+     },
+     {
+      "m": 31,
+      "v": 232.4
      }
     ],
     "autoOpr": [
@@ -495,6 +499,10 @@
      {
       "m": 30,
       "v": 17.2
+     },
+     {
+      "m": 31,
+      "v": 17.1
      }
     ],
     "teleopOpr": [
@@ -569,6 +577,10 @@
      {
       "m": 30,
       "v": 213.6
+     },
+     {
+      "m": 31,
+      "v": 214.2
      }
     ],
     "fuelOpr": [
@@ -643,6 +655,10 @@
      {
       "m": 30,
       "v": 230.8
+     },
+     {
+      "m": 31,
+      "v": 231.2
      }
     ],
     "towerOpr": [
@@ -716,6 +732,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -827,24 +847,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 378.97,
-    "autoOpr": 84.39,
-    "teleopOpr": 277.95,
+    "opr": 386.95,
+    "autoOpr": 84.22,
+    "teleopOpr": 286.38,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 362.34,
-    "fuelCountOpr": 365.4,
-    "autoFuelOpr": 84.39,
-    "teleopFuelOpr": 277.95,
-    "transitionOpr": 40.7,
-    "endgameFuelOpr": 82.32,
-    "shift1Opr": -16.15,
-    "shift2Opr": 115.23,
-    "shift3Opr": -16.16,
-    "shift4Opr": 72.02,
-    "dpr": 17.55,
-    "ccwm": 361.42,
+    "fuelOpr": 370.6,
+    "fuelCountOpr": 374.02,
+    "autoFuelOpr": 84.22,
+    "teleopFuelOpr": 286.38,
+    "transitionOpr": 39.81,
+    "endgameFuelOpr": 88.14,
+    "shift1Opr": -14.02,
+    "shift2Opr": 114.55,
+    "shift3Opr": -15.72,
+    "shift4Opr": 73.61,
+    "dpr": 34.81,
+    "ccwm": 352.15,
     "matchesPlayed": 5,
     "winRate": 100,
     "avgScore": 616.8,
@@ -939,6 +959,10 @@
      {
       "m": 30,
       "v": 379.0
+     },
+     {
+      "m": 31,
+      "v": 387.0
      }
     ],
     "autoOpr": [
@@ -1025,6 +1049,10 @@
      {
       "m": 30,
       "v": 84.4
+     },
+     {
+      "m": 31,
+      "v": 84.2
      }
     ],
     "teleopOpr": [
@@ -1111,6 +1139,10 @@
      {
       "m": 30,
       "v": 277.9
+     },
+     {
+      "m": 31,
+      "v": 286.4
      }
     ],
     "fuelOpr": [
@@ -1197,6 +1229,10 @@
      {
       "m": 30,
       "v": 362.3
+     },
+     {
+      "m": 31,
+      "v": 370.6
      }
     ],
     "towerOpr": [
@@ -1282,6 +1318,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -1411,35 +1451,35 @@
    "country": "China",
    "rank": 3,
    "record": {
-    "w": 4,
+    "w": 5,
     "l": 0,
     "t": 0
    },
    "metrics": {
-    "opr": 189.62,
-    "autoOpr": 20.35,
-    "teleopOpr": 163.45,
+    "opr": 176.0,
+    "autoOpr": 23.64,
+    "teleopOpr": 145.8,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 183.8,
-    "fuelCountOpr": 185.99,
-    "autoFuelOpr": 20.35,
-    "teleopFuelOpr": 163.45,
-    "transitionOpr": 10.65,
-    "endgameFuelOpr": 61.14,
-    "shift1Opr": 15.48,
-    "shift2Opr": 34.37,
-    "shift3Opr": 11.4,
-    "shift4Opr": 30.41,
-    "dpr": 67.99,
-    "ccwm": 121.63,
-    "matchesPlayed": 4,
+    "fuelOpr": 169.44,
+    "fuelCountOpr": 170.72,
+    "autoFuelOpr": 23.64,
+    "teleopFuelOpr": 145.8,
+    "transitionOpr": 12.98,
+    "endgameFuelOpr": 48.63,
+    "shift1Opr": 14.15,
+    "shift2Opr": 34.96,
+    "shift3Opr": 11.08,
+    "shift4Opr": 24.0,
+    "dpr": 20.22,
+    "ccwm": 155.78,
+    "matchesPlayed": 5,
     "winRate": 100,
-    "avgScore": 529.2,
-    "avgRp": 5.0,
-    "energizedRpRate": 100,
-    "superchargedRpRate": 100,
+    "avgScore": 460.6,
+    "avgRp": 4.6,
+    "energizedRpRate": 80,
+    "superchargedRpRate": 80,
     "traversalRpRate": 0,
     "climbRate": 0
    },
@@ -1516,6 +1556,10 @@
      {
       "m": 30,
       "v": 189.6
+     },
+     {
+      "m": 31,
+      "v": 176.0
      }
     ],
     "autoOpr": [
@@ -1590,6 +1634,10 @@
      {
       "m": 30,
       "v": 20.3
+     },
+     {
+      "m": 31,
+      "v": 23.6
      }
     ],
     "teleopOpr": [
@@ -1664,6 +1712,10 @@
      {
       "m": 30,
       "v": 163.5
+     },
+     {
+      "m": 31,
+      "v": 145.8
      }
     ],
     "fuelOpr": [
@@ -1738,6 +1790,10 @@
      {
       "m": 30,
       "v": 183.8
+     },
+     {
+      "m": 31,
+      "v": 169.4
      }
     ],
     "towerOpr": [
@@ -1811,6 +1867,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -1907,6 +1967,29 @@
       "tower": 0.0,
       "fuel": 442.0
      }
+    },
+    {
+     "level": "qual",
+     "num": 31,
+     "color": "Red",
+     "partners": [
+      9999,
+      5515
+     ],
+     "opponents": [
+      6394,
+      5449,
+      9597
+     ],
+     "allianceScore": 186.0,
+     "oppScore": 155.0,
+     "win": true,
+     "breakdown": {
+      "auto": 68.0,
+      "teleop": 113.0,
+      "tower": 0.0,
+      "fuel": 181.0
+     }
     }
    ]
   },
@@ -1922,24 +2005,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 172.75,
-    "autoOpr": 49.52,
-    "teleopOpr": 120.28,
+    "opr": 178.6,
+    "autoOpr": 50.66,
+    "teleopOpr": 125.08,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 169.79,
-    "fuelCountOpr": 178.64,
-    "autoFuelOpr": 49.52,
-    "teleopFuelOpr": 120.28,
-    "transitionOpr": 24.88,
-    "endgameFuelOpr": 1.47,
-    "shift1Opr": -16.58,
-    "shift2Opr": 86.3,
-    "shift3Opr": -17.25,
-    "shift4Opr": 41.45,
-    "dpr": 34.16,
-    "ccwm": 138.6,
+    "fuelOpr": 175.74,
+    "fuelCountOpr": 184.73,
+    "autoFuelOpr": 50.66,
+    "teleopFuelOpr": 125.08,
+    "transitionOpr": 24.56,
+    "endgameFuelOpr": 4.66,
+    "shift1Opr": -14.03,
+    "shift2Opr": 85.58,
+    "shift3Opr": -16.75,
+    "shift4Opr": 41.06,
+    "dpr": 39.06,
+    "ccwm": 139.55,
     "matchesPlayed": 5,
     "winRate": 100,
     "avgScore": 352.4,
@@ -2046,6 +2129,10 @@
      {
       "m": 30,
       "v": 172.8
+     },
+     {
+      "m": 31,
+      "v": 178.6
      }
     ],
     "autoOpr": [
@@ -2144,6 +2231,10 @@
      {
       "m": 30,
       "v": 49.5
+     },
+     {
+      "m": 31,
+      "v": 50.7
      }
     ],
     "teleopOpr": [
@@ -2242,6 +2333,10 @@
      {
       "m": 30,
       "v": 120.3
+     },
+     {
+      "m": 31,
+      "v": 125.1
      }
     ],
     "fuelOpr": [
@@ -2340,6 +2435,10 @@
      {
       "m": 30,
       "v": 169.8
+     },
+     {
+      "m": 31,
+      "v": 175.7
      }
     ],
     "towerOpr": [
@@ -2437,6 +2536,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -2571,24 +2674,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 121.48,
-    "autoOpr": 27.28,
-    "teleopOpr": 96.68,
+    "opr": 108.81,
+    "autoOpr": 26.11,
+    "teleopOpr": 84.85,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 123.96,
-    "fuelCountOpr": 130.86,
-    "autoFuelOpr": 27.28,
-    "teleopFuelOpr": 96.68,
-    "transitionOpr": 16.92,
-    "endgameFuelOpr": 11.73,
-    "shift1Opr": 0.19,
-    "shift2Opr": 42.81,
-    "shift3Opr": -4.17,
-    "shift4Opr": 29.19,
-    "dpr": -18.95,
-    "ccwm": 140.43,
+    "fuelOpr": 110.96,
+    "fuelCountOpr": 117.43,
+    "autoFuelOpr": 26.11,
+    "teleopFuelOpr": 84.85,
+    "transitionOpr": 17.95,
+    "endgameFuelOpr": 3.72,
+    "shift1Opr": -4.32,
+    "shift2Opr": 44.15,
+    "shift3Opr": -5.08,
+    "shift4Opr": 28.44,
+    "dpr": -37.54,
+    "ccwm": 146.35,
     "matchesPlayed": 4,
     "winRate": 75,
     "avgScore": 387.8,
@@ -2671,6 +2774,10 @@
      {
       "m": 30,
       "v": 121.5
+     },
+     {
+      "m": 31,
+      "v": 108.8
      }
     ],
     "autoOpr": [
@@ -2745,6 +2852,10 @@
      {
       "m": 30,
       "v": 27.3
+     },
+     {
+      "m": 31,
+      "v": 26.1
      }
     ],
     "teleopOpr": [
@@ -2819,6 +2930,10 @@
      {
       "m": 30,
       "v": 96.7
+     },
+     {
+      "m": 31,
+      "v": 84.9
      }
     ],
     "fuelOpr": [
@@ -2893,6 +3008,10 @@
      {
       "m": 30,
       "v": 124.0
+     },
+     {
+      "m": 31,
+      "v": 111.0
      }
     ],
     "towerOpr": [
@@ -2966,6 +3085,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -3077,24 +3200,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 153.54,
-    "autoOpr": 27.0,
-    "teleopOpr": 115.92,
+    "opr": 161.81,
+    "autoOpr": 28.46,
+    "teleopOpr": 122.89,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 142.92,
-    "fuelCountOpr": 145.36,
-    "autoFuelOpr": 27.0,
-    "teleopFuelOpr": 115.92,
-    "transitionOpr": 23.56,
-    "endgameFuelOpr": 12.04,
-    "shift1Opr": 8.16,
-    "shift2Opr": 45.76,
-    "shift3Opr": 14.16,
-    "shift4Opr": 12.23,
-    "dpr": 106.64,
-    "ccwm": 46.9,
+    "fuelOpr": 151.35,
+    "fuelCountOpr": 154.0,
+    "autoFuelOpr": 28.46,
+    "teleopFuelOpr": 122.89,
+    "transitionOpr": 23.07,
+    "endgameFuelOpr": 16.69,
+    "shift1Opr": 11.64,
+    "shift2Opr": 44.76,
+    "shift3Opr": 14.85,
+    "shift4Opr": 11.87,
+    "dpr": 114.55,
+    "ccwm": 47.27,
     "matchesPlayed": 5,
     "winRate": 60,
     "avgScore": 462.0,
@@ -3197,6 +3320,10 @@
      {
       "m": 30,
       "v": 153.5
+     },
+     {
+      "m": 31,
+      "v": 161.8
      }
     ],
     "autoOpr": [
@@ -3291,6 +3418,10 @@
      {
       "m": 30,
       "v": 27.0
+     },
+     {
+      "m": 31,
+      "v": 28.5
      }
     ],
     "teleopOpr": [
@@ -3385,6 +3516,10 @@
      {
       "m": 30,
       "v": 115.9
+     },
+     {
+      "m": 31,
+      "v": 122.9
      }
     ],
     "fuelOpr": [
@@ -3479,6 +3614,10 @@
      {
       "m": 30,
       "v": 142.9
+     },
+     {
+      "m": 31,
+      "v": 151.3
      }
     ],
     "towerOpr": [
@@ -3572,6 +3711,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -3706,24 +3849,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 181.5,
-    "autoOpr": 35.94,
-    "teleopOpr": 140.09,
+    "opr": 186.92,
+    "autoOpr": 33.59,
+    "teleopOpr": 148.25,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 176.03,
-    "fuelCountOpr": 176.3,
-    "autoFuelOpr": 35.94,
-    "teleopFuelOpr": 140.09,
-    "transitionOpr": 13.7,
-    "endgameFuelOpr": 43.87,
-    "shift1Opr": 23.53,
-    "shift2Opr": 27.92,
-    "shift3Opr": 19.64,
-    "shift4Opr": 11.42,
-    "dpr": 40.04,
-    "ccwm": 141.46,
+    "fuelOpr": 181.83,
+    "fuelCountOpr": 182.57,
+    "autoFuelOpr": 33.59,
+    "teleopFuelOpr": 148.25,
+    "transitionOpr": 12.49,
+    "endgameFuelOpr": 49.74,
+    "shift1Opr": 23.26,
+    "shift2Opr": 27.88,
+    "shift3Opr": 19.62,
+    "shift4Opr": 15.25,
+    "dpr": 65.41,
+    "ccwm": 121.51,
     "matchesPlayed": 5,
     "winRate": 60,
     "avgScore": 376.8,
@@ -3806,6 +3949,10 @@
      {
       "m": 30,
       "v": 181.5
+     },
+     {
+      "m": 31,
+      "v": 186.9
      }
     ],
     "autoOpr": [
@@ -3880,6 +4027,10 @@
      {
       "m": 30,
       "v": 35.9
+     },
+     {
+      "m": 31,
+      "v": 33.6
      }
     ],
     "teleopOpr": [
@@ -3954,6 +4105,10 @@
      {
       "m": 30,
       "v": 140.1
+     },
+     {
+      "m": 31,
+      "v": 148.2
      }
     ],
     "fuelOpr": [
@@ -4028,6 +4183,10 @@
      {
       "m": 30,
       "v": 176.0
+     },
+     {
+      "m": 31,
+      "v": 181.8
      }
     ],
     "towerOpr": [
@@ -4101,6 +4260,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -4235,24 +4398,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 180.17,
-    "autoOpr": 31.19,
-    "teleopOpr": 150.64,
+    "opr": 185.31,
+    "autoOpr": 30.14,
+    "teleopOpr": 157.09,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 181.83,
-    "fuelCountOpr": 179.18,
-    "autoFuelOpr": 31.19,
-    "teleopFuelOpr": 150.64,
-    "transitionOpr": -3.82,
-    "endgameFuelOpr": 59.39,
-    "shift1Opr": -0.57,
-    "shift2Opr": 26.34,
-    "shift3Opr": 18.06,
-    "shift4Opr": 51.23,
-    "dpr": 52.87,
-    "ccwm": 127.3,
+    "fuelOpr": 187.23,
+    "fuelCountOpr": 184.91,
+    "autoFuelOpr": 30.14,
+    "teleopFuelOpr": 157.09,
+    "transitionOpr": -4.65,
+    "endgameFuelOpr": 63.95,
+    "shift1Opr": 0.08,
+    "shift2Opr": 26.08,
+    "shift3Opr": 18.22,
+    "shift4Opr": 53.42,
+    "dpr": 69.72,
+    "ccwm": 115.6,
     "matchesPlayed": 4,
     "winRate": 75,
     "avgScore": 312.5,
@@ -4355,6 +4518,10 @@
      {
       "m": 30,
       "v": 180.2
+     },
+     {
+      "m": 31,
+      "v": 185.3
      }
     ],
     "autoOpr": [
@@ -4449,6 +4616,10 @@
      {
       "m": 30,
       "v": 31.2
+     },
+     {
+      "m": 31,
+      "v": 30.1
      }
     ],
     "teleopOpr": [
@@ -4543,6 +4714,10 @@
      {
       "m": 30,
       "v": 150.6
+     },
+     {
+      "m": 31,
+      "v": 157.1
      }
     ],
     "fuelOpr": [
@@ -4637,6 +4812,10 @@
      {
       "m": 30,
       "v": 181.8
+     },
+     {
+      "m": 31,
+      "v": 187.2
      }
     ],
     "towerOpr": [
@@ -4730,6 +4909,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -4841,24 +5024,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 60.29,
-    "autoOpr": 0.99,
-    "teleopOpr": 50.7,
+    "opr": 55.93,
+    "autoOpr": 0.9,
+    "teleopOpr": 46.29,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 51.69,
-    "fuelCountOpr": 50.04,
-    "autoFuelOpr": 0.99,
-    "teleopFuelOpr": 50.7,
-    "transitionOpr": 2.19,
-    "endgameFuelOpr": 14.2,
-    "shift1Opr": 11.42,
-    "shift2Opr": 10.28,
-    "shift3Opr": 21.51,
-    "shift4Opr": -8.89,
-    "dpr": 90.35,
-    "ccwm": -30.06,
+    "fuelOpr": 47.19,
+    "fuelCountOpr": 45.36,
+    "autoFuelOpr": 0.9,
+    "teleopFuelOpr": 46.29,
+    "transitionOpr": 2.63,
+    "endgameFuelOpr": 11.16,
+    "shift1Opr": 10.12,
+    "shift2Opr": 10.68,
+    "shift3Opr": 21.24,
+    "shift4Opr": -9.54,
+    "dpr": 82.01,
+    "ccwm": -26.08,
     "matchesPlayed": 4,
     "winRate": 75,
     "avgScore": 284.5,
@@ -4949,6 +5132,10 @@
      {
       "m": 30,
       "v": 60.3
+     },
+     {
+      "m": 31,
+      "v": 55.9
      }
     ],
     "autoOpr": [
@@ -5031,6 +5218,10 @@
      {
       "m": 30,
       "v": 1.0
+     },
+     {
+      "m": 31,
+      "v": 0.9
      }
     ],
     "teleopOpr": [
@@ -5113,6 +5304,10 @@
      {
       "m": 30,
       "v": 50.7
+     },
+     {
+      "m": 31,
+      "v": 46.3
      }
     ],
     "fuelOpr": [
@@ -5195,6 +5390,10 @@
      {
       "m": 30,
       "v": 51.7
+     },
+     {
+      "m": 31,
+      "v": 47.2
      }
     ],
     "towerOpr": [
@@ -5276,6 +5475,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -5387,24 +5590,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 172.82,
-    "autoOpr": 26.12,
-    "teleopOpr": 142.15,
+    "opr": 179.56,
+    "autoOpr": 27.37,
+    "teleopOpr": 147.76,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 168.26,
-    "fuelCountOpr": 167.12,
-    "autoFuelOpr": 26.12,
-    "teleopFuelOpr": 142.15,
-    "transitionOpr": 26.01,
-    "endgameFuelOpr": 18.18,
-    "shift1Opr": 9.61,
-    "shift2Opr": 40.58,
-    "shift3Opr": 12.96,
-    "shift4Opr": 34.81,
-    "dpr": 92.21,
-    "ccwm": 80.61,
+    "fuelOpr": 175.12,
+    "fuelCountOpr": 174.15,
+    "autoFuelOpr": 27.37,
+    "teleopFuelOpr": 147.76,
+    "transitionOpr": 25.63,
+    "endgameFuelOpr": 21.91,
+    "shift1Opr": 12.49,
+    "shift2Opr": 39.76,
+    "shift3Opr": 13.53,
+    "shift4Opr": 34.44,
+    "dpr": 98.27,
+    "ccwm": 81.29,
     "matchesPlayed": 5,
     "winRate": 60,
     "avgScore": 339.4,
@@ -5499,6 +5702,10 @@
      {
       "m": 30,
       "v": 172.8
+     },
+     {
+      "m": 31,
+      "v": 179.6
      }
     ],
     "autoOpr": [
@@ -5585,6 +5792,10 @@
      {
       "m": 30,
       "v": 26.1
+     },
+     {
+      "m": 31,
+      "v": 27.4
      }
     ],
     "teleopOpr": [
@@ -5671,6 +5882,10 @@
      {
       "m": 30,
       "v": 142.1
+     },
+     {
+      "m": 31,
+      "v": 147.8
      }
     ],
     "fuelOpr": [
@@ -5757,6 +5972,10 @@
      {
       "m": 30,
       "v": 168.3
+     },
+     {
+      "m": 31,
+      "v": 175.1
      }
     ],
     "towerOpr": [
@@ -5842,6 +6061,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -5976,24 +6199,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 32.78,
-    "autoOpr": -5.41,
-    "teleopOpr": 37.0,
+    "opr": 27.25,
+    "autoOpr": -8.25,
+    "teleopOpr": 34.36,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 31.59,
-    "fuelCountOpr": 33.43,
-    "autoFuelOpr": -5.41,
-    "teleopFuelOpr": 37.0,
-    "transitionOpr": 4.51,
-    "endgameFuelOpr": 0.63,
-    "shift1Opr": 0.99,
-    "shift2Opr": 2.1,
-    "shift3Opr": -2.21,
-    "shift4Opr": 30.99,
-    "dpr": 1.28,
-    "ccwm": 31.5,
+    "fuelOpr": 26.11,
+    "fuelCountOpr": 27.98,
+    "autoFuelOpr": -8.25,
+    "teleopFuelOpr": 34.36,
+    "transitionOpr": 4.33,
+    "endgameFuelOpr": -0.89,
+    "shift1Opr": -2.78,
+    "shift2Opr": 3.11,
+    "shift3Opr": -2.94,
+    "shift4Opr": 33.53,
+    "dpr": 7.38,
+    "ccwm": 19.87,
     "matchesPlayed": 4,
     "winRate": 75,
     "avgScore": 261.0,
@@ -6088,6 +6311,10 @@
      {
       "m": 30,
       "v": 32.8
+     },
+     {
+      "m": 31,
+      "v": 27.2
      }
     ],
     "autoOpr": [
@@ -6174,6 +6401,10 @@
      {
       "m": 30,
       "v": -5.4
+     },
+     {
+      "m": 31,
+      "v": -8.3
      }
     ],
     "teleopOpr": [
@@ -6260,6 +6491,10 @@
      {
       "m": 30,
       "v": 37.0
+     },
+     {
+      "m": 31,
+      "v": 34.4
      }
     ],
     "fuelOpr": [
@@ -6346,6 +6581,10 @@
      {
       "m": 30,
       "v": 31.6
+     },
+     {
+      "m": 31,
+      "v": 26.1
      }
     ],
     "towerOpr": [
@@ -6431,6 +6670,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -6542,24 +6785,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 122.86,
-    "autoOpr": 14.69,
-    "teleopOpr": 108.04,
+    "opr": 127.15,
+    "autoOpr": 16.02,
+    "teleopOpr": 111.02,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 122.73,
-    "fuelCountOpr": 121.53,
-    "autoFuelOpr": 14.69,
-    "teleopFuelOpr": 108.04,
-    "transitionOpr": 2.75,
-    "endgameFuelOpr": 37.74,
-    "shift1Opr": 11.18,
-    "shift2Opr": 12.27,
-    "shift3Opr": 18.38,
-    "shift4Opr": 25.73,
-    "dpr": 146.75,
-    "ccwm": -23.89,
+    "fuelOpr": 127.04,
+    "fuelCountOpr": 125.9,
+    "autoFuelOpr": 16.02,
+    "teleopFuelOpr": 111.02,
+    "transitionOpr": 2.65,
+    "endgameFuelOpr": 39.65,
+    "shift1Opr": 13.43,
+    "shift2Opr": 11.64,
+    "shift3Opr": 18.82,
+    "shift4Opr": 24.83,
+    "dpr": 147.31,
+    "ccwm": -20.17,
     "matchesPlayed": 5,
     "winRate": 60,
     "avgScore": 313.6,
@@ -6642,6 +6885,10 @@
      {
       "m": 30,
       "v": 122.9
+     },
+     {
+      "m": 31,
+      "v": 127.1
      }
     ],
     "autoOpr": [
@@ -6716,6 +6963,10 @@
      {
       "m": 30,
       "v": 14.7
+     },
+     {
+      "m": 31,
+      "v": 16.0
      }
     ],
     "teleopOpr": [
@@ -6790,6 +7041,10 @@
      {
       "m": 30,
       "v": 108.0
+     },
+     {
+      "m": 31,
+      "v": 111.0
      }
     ],
     "fuelOpr": [
@@ -6864,6 +7119,10 @@
      {
       "m": 30,
       "v": 122.7
+     },
+     {
+      "m": 31,
+      "v": 127.0
      }
     ],
     "towerOpr": [
@@ -6937,6 +7196,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -7071,24 +7334,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 95.71,
-    "autoOpr": 9.37,
-    "teleopOpr": 82.51,
+    "opr": 100.9,
+    "autoOpr": 11.58,
+    "teleopOpr": 85.49,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 91.88,
-    "fuelCountOpr": 94.13,
-    "autoFuelOpr": 9.37,
-    "teleopFuelOpr": 82.51,
-    "transitionOpr": 6.94,
-    "endgameFuelOpr": 4.39,
-    "shift1Opr": 4.64,
-    "shift2Opr": 24.74,
-    "shift3Opr": 9.55,
-    "shift4Opr": 32.24,
-    "dpr": 100.04,
-    "ccwm": -4.33,
+    "fuelOpr": 97.07,
+    "fuelCountOpr": 99.32,
+    "autoFuelOpr": 11.58,
+    "teleopFuelOpr": 85.49,
+    "transitionOpr": 6.98,
+    "endgameFuelOpr": 6.2,
+    "shift1Opr": 7.83,
+    "shift2Opr": 23.87,
+    "shift3Opr": 10.17,
+    "shift4Opr": 30.43,
+    "dpr": 97.12,
+    "ccwm": 3.79,
     "matchesPlayed": 5,
     "winRate": 80,
     "avgScore": 242.4,
@@ -7179,6 +7442,10 @@
      {
       "m": 30,
       "v": 95.7
+     },
+     {
+      "m": 31,
+      "v": 100.9
      }
     ],
     "autoOpr": [
@@ -7261,6 +7528,10 @@
      {
       "m": 30,
       "v": 9.4
+     },
+     {
+      "m": 31,
+      "v": 11.6
      }
     ],
     "teleopOpr": [
@@ -7343,6 +7614,10 @@
      {
       "m": 30,
       "v": 82.5
+     },
+     {
+      "m": 31,
+      "v": 85.5
      }
     ],
     "fuelOpr": [
@@ -7425,6 +7700,10 @@
      {
       "m": 30,
       "v": 91.9
+     },
+     {
+      "m": 31,
+      "v": 97.1
      }
     ],
     "towerOpr": [
@@ -7506,6 +7785,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -7640,24 +7923,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 124.37,
-    "autoOpr": 26.4,
-    "teleopOpr": 98.85,
+    "opr": 114.1,
+    "autoOpr": 24.99,
+    "teleopOpr": 89.77,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 125.25,
-    "fuelCountOpr": 127.53,
-    "autoFuelOpr": 26.4,
-    "teleopFuelOpr": 98.85,
-    "transitionOpr": 4.16,
-    "endgameFuelOpr": 31.82,
-    "shift1Opr": -5.11,
-    "shift2Opr": 32.83,
-    "shift3Opr": -9.41,
-    "shift4Opr": 44.56,
-    "dpr": -1.15,
-    "ccwm": 125.52,
+    "fuelOpr": 114.76,
+    "fuelCountOpr": 116.73,
+    "autoFuelOpr": 24.99,
+    "teleopFuelOpr": 89.77,
+    "transitionOpr": 4.87,
+    "endgameFuelOpr": 25.71,
+    "shift1Opr": -9.12,
+    "shift2Opr": 34.0,
+    "shift3Opr": -10.21,
+    "shift4Opr": 44.51,
+    "dpr": -13.42,
+    "ccwm": 127.52,
     "matchesPlayed": 4,
     "winRate": 50,
     "avgScore": 418.0,
@@ -7760,6 +8043,10 @@
      {
       "m": 30,
       "v": 124.4
+     },
+     {
+      "m": 31,
+      "v": 114.1
      }
     ],
     "autoOpr": [
@@ -7854,6 +8141,10 @@
      {
       "m": 30,
       "v": 26.4
+     },
+     {
+      "m": 31,
+      "v": 25.0
      }
     ],
     "teleopOpr": [
@@ -7948,6 +8239,10 @@
      {
       "m": 30,
       "v": 98.9
+     },
+     {
+      "m": 31,
+      "v": 89.8
      }
     ],
     "fuelOpr": [
@@ -8042,6 +8337,10 @@
      {
       "m": 30,
       "v": 125.3
+     },
+     {
+      "m": 31,
+      "v": 114.8
      }
     ],
     "towerOpr": [
@@ -8135,6 +8434,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -8246,24 +8549,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 97.86,
-    "autoOpr": 7.59,
-    "teleopOpr": 89.71,
+    "opr": 97.28,
+    "autoOpr": 6.68,
+    "teleopOpr": 90.09,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 97.3,
-    "fuelCountOpr": 94.64,
-    "autoFuelOpr": 7.59,
-    "teleopFuelOpr": 89.71,
-    "transitionOpr": 10.74,
-    "endgameFuelOpr": 29.89,
-    "shift1Opr": 12.62,
-    "shift2Opr": 16.21,
-    "shift3Opr": -2.1,
-    "shift4Opr": 22.34,
-    "dpr": -73.62,
-    "ccwm": 171.48,
+    "fuelOpr": 96.78,
+    "fuelCountOpr": 94.18,
+    "autoFuelOpr": 6.68,
+    "teleopFuelOpr": 90.09,
+    "transitionOpr": 10.56,
+    "endgameFuelOpr": 30.25,
+    "shift1Opr": 11.76,
+    "shift2Opr": 16.43,
+    "shift3Opr": -2.26,
+    "shift4Opr": 23.35,
+    "dpr": -69.29,
+    "ccwm": 166.56,
     "matchesPlayed": 4,
     "winRate": 75,
     "avgScore": 256.0,
@@ -8342,6 +8645,10 @@
      {
       "m": 30,
       "v": 97.9
+     },
+     {
+      "m": 31,
+      "v": 97.3
      }
     ],
     "autoOpr": [
@@ -8412,6 +8719,10 @@
      {
       "m": 30,
       "v": 7.6
+     },
+     {
+      "m": 31,
+      "v": 6.7
      }
     ],
     "teleopOpr": [
@@ -8482,6 +8793,10 @@
      {
       "m": 30,
       "v": 89.7
+     },
+     {
+      "m": 31,
+      "v": 90.1
      }
     ],
     "fuelOpr": [
@@ -8552,6 +8867,10 @@
      {
       "m": 30,
       "v": 97.3
+     },
+     {
+      "m": 31,
+      "v": 96.8
      }
     ],
     "towerOpr": [
@@ -8621,6 +8940,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -8732,24 +9055,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 54.2,
-    "autoOpr": 18.09,
-    "teleopOpr": 25.22,
+    "opr": 57.98,
+    "autoOpr": 16.22,
+    "teleopOpr": 31.16,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 43.32,
-    "fuelCountOpr": 46.39,
-    "autoFuelOpr": 18.09,
-    "teleopFuelOpr": 25.22,
-    "transitionOpr": 10.6,
-    "endgameFuelOpr": -9.72,
-    "shift1Opr": -21.64,
-    "shift2Opr": 61.07,
-    "shift3Opr": -32.85,
-    "shift4Opr": 17.76,
-    "dpr": 7.86,
-    "ccwm": 46.33,
+    "fuelOpr": 47.38,
+    "fuelCountOpr": 50.8,
+    "autoFuelOpr": 16.22,
+    "teleopFuelOpr": 31.16,
+    "transitionOpr": 9.69,
+    "endgameFuelOpr": -5.42,
+    "shift1Opr": -22.01,
+    "shift2Opr": 61.08,
+    "shift3Opr": -32.89,
+    "shift4Opr": 20.72,
+    "dpr": 26.98,
+    "ccwm": 31.0,
     "matchesPlayed": 4,
     "winRate": 75,
     "avgScore": 223.2,
@@ -8840,6 +9163,10 @@
      {
       "m": 30,
       "v": 54.2
+     },
+     {
+      "m": 31,
+      "v": 58.0
      }
     ],
     "autoOpr": [
@@ -8922,6 +9249,10 @@
      {
       "m": 30,
       "v": 18.1
+     },
+     {
+      "m": 31,
+      "v": 16.2
      }
     ],
     "teleopOpr": [
@@ -9004,6 +9335,10 @@
      {
       "m": 30,
       "v": 25.2
+     },
+     {
+      "m": 31,
+      "v": 31.2
      }
     ],
     "fuelOpr": [
@@ -9086,6 +9421,10 @@
      {
       "m": 30,
       "v": 43.3
+     },
+     {
+      "m": 31,
+      "v": 47.4
      }
     ],
     "towerOpr": [
@@ -9167,6 +9506,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -9278,24 +9621,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 111.85,
-    "autoOpr": 36.16,
-    "teleopOpr": 69.47,
+    "opr": 111.66,
+    "autoOpr": 35.64,
+    "teleopOpr": 69.84,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 105.64,
-    "fuelCountOpr": 102.9,
-    "autoFuelOpr": 36.16,
-    "teleopFuelOpr": 69.47,
-    "transitionOpr": 14.36,
-    "endgameFuelOpr": 17.15,
-    "shift1Opr": 20.27,
-    "shift2Opr": 5.46,
-    "shift3Opr": 34.03,
-    "shift4Opr": -21.78,
-    "dpr": 57.82,
-    "ccwm": 54.03,
+    "fuelOpr": 105.49,
+    "fuelCountOpr": 102.79,
+    "autoFuelOpr": 35.64,
+    "teleopFuelOpr": 69.84,
+    "transitionOpr": 14.24,
+    "endgameFuelOpr": 17.46,
+    "shift1Opr": 19.81,
+    "shift2Opr": 5.57,
+    "shift3Opr": 33.94,
+    "shift4Opr": -21.18,
+    "dpr": 60.6,
+    "ccwm": 51.06,
     "matchesPlayed": 5,
     "winRate": 60,
     "avgScore": 274.0,
@@ -9382,6 +9725,10 @@
      {
       "m": 30,
       "v": 111.9
+     },
+     {
+      "m": 31,
+      "v": 111.7
      }
     ],
     "autoOpr": [
@@ -9460,6 +9807,10 @@
      {
       "m": 30,
       "v": 36.2
+     },
+     {
+      "m": 31,
+      "v": 35.6
      }
     ],
     "teleopOpr": [
@@ -9538,6 +9889,10 @@
      {
       "m": 30,
       "v": 69.5
+     },
+     {
+      "m": 31,
+      "v": 69.8
      }
     ],
     "fuelOpr": [
@@ -9616,6 +9971,10 @@
      {
       "m": 30,
       "v": 105.6
+     },
+     {
+      "m": 31,
+      "v": 105.5
      }
     ],
     "towerOpr": [
@@ -9693,6 +10052,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -9827,24 +10190,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 53.82,
-    "autoOpr": 9.08,
-    "teleopOpr": 42.49,
+    "opr": 52.29,
+    "autoOpr": 8.51,
+    "teleopOpr": 41.54,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 51.58,
-    "fuelCountOpr": 53.43,
-    "autoFuelOpr": 9.08,
-    "teleopFuelOpr": 42.49,
-    "transitionOpr": 1.75,
-    "endgameFuelOpr": 13.99,
-    "shift1Opr": 2.58,
-    "shift2Opr": -2.59,
-    "shift3Opr": 11.71,
-    "shift4Opr": 15.06,
-    "dpr": -35.49,
-    "ccwm": 89.31,
+    "fuelOpr": 50.05,
+    "fuelCountOpr": 51.89,
+    "autoFuelOpr": 8.51,
+    "teleopFuelOpr": 41.54,
+    "transitionOpr": 1.76,
+    "endgameFuelOpr": 13.39,
+    "shift1Opr": 1.7,
+    "shift2Opr": -2.35,
+    "shift3Opr": 11.54,
+    "shift4Opr": 15.5,
+    "dpr": -35.09,
+    "ccwm": 87.39,
     "matchesPlayed": 4,
     "winRate": 50,
     "avgScore": 334.8,
@@ -9943,6 +10306,10 @@
      {
       "m": 30,
       "v": 53.8
+     },
+     {
+      "m": 31,
+      "v": 52.3
      }
     ],
     "autoOpr": [
@@ -10033,6 +10400,10 @@
      {
       "m": 30,
       "v": 9.1
+     },
+     {
+      "m": 31,
+      "v": 8.5
      }
     ],
     "teleopOpr": [
@@ -10123,6 +10494,10 @@
      {
       "m": 30,
       "v": 42.5
+     },
+     {
+      "m": 31,
+      "v": 41.5
      }
     ],
     "fuelOpr": [
@@ -10213,6 +10588,10 @@
      {
       "m": 30,
       "v": 51.6
+     },
+     {
+      "m": 31,
+      "v": 50.1
      }
     ],
     "towerOpr": [
@@ -10302,6 +10681,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -10413,24 +10796,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 79.1,
-    "autoOpr": 21.77,
-    "teleopOpr": 54.28,
+    "opr": 82.23,
+    "autoOpr": 21.19,
+    "teleopOpr": 58.14,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 76.05,
-    "fuelCountOpr": 88.6,
-    "autoFuelOpr": 21.77,
-    "teleopFuelOpr": 54.28,
-    "transitionOpr": 0.69,
-    "endgameFuelOpr": 7.72,
-    "shift1Opr": 23.01,
-    "shift2Opr": 16.66,
-    "shift3Opr": 11.07,
-    "shift4Opr": -4.88,
-    "dpr": 209.72,
-    "ccwm": -130.62,
+    "fuelOpr": 79.33,
+    "fuelCountOpr": 92.08,
+    "autoFuelOpr": 21.19,
+    "teleopFuelOpr": 58.14,
+    "transitionOpr": 0.2,
+    "endgameFuelOpr": 10.45,
+    "shift1Opr": 23.45,
+    "shift2Opr": 16.49,
+    "shift3Opr": 11.17,
+    "shift4Opr": -3.62,
+    "dpr": 219.63,
+    "ccwm": -137.4,
     "matchesPlayed": 4,
     "winRate": 50,
     "avgScore": 265.5,
@@ -10509,6 +10892,10 @@
      {
       "m": 30,
       "v": 79.1
+     },
+     {
+      "m": 31,
+      "v": 82.2
      }
     ],
     "autoOpr": [
@@ -10579,6 +10966,10 @@
      {
       "m": 30,
       "v": 21.8
+     },
+     {
+      "m": 31,
+      "v": 21.2
      }
     ],
     "teleopOpr": [
@@ -10649,6 +11040,10 @@
      {
       "m": 30,
       "v": 54.3
+     },
+     {
+      "m": 31,
+      "v": 58.1
      }
     ],
     "fuelOpr": [
@@ -10719,6 +11114,10 @@
      {
       "m": 30,
       "v": 76.0
+     },
+     {
+      "m": 31,
+      "v": 79.3
      }
     ],
     "towerOpr": [
@@ -10788,6 +11187,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -10899,24 +11302,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 61.74,
-    "autoOpr": 17.32,
-    "teleopOpr": 45.95,
+    "opr": 47.9,
+    "autoOpr": 14.15,
+    "teleopOpr": 35.09,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 63.27,
-    "fuelCountOpr": 60.18,
-    "autoFuelOpr": 17.32,
-    "teleopFuelOpr": 45.95,
-    "transitionOpr": 6.1,
-    "endgameFuelOpr": 17.76,
-    "shift1Opr": 7.11,
-    "shift2Opr": 13.92,
-    "shift3Opr": -5.15,
-    "shift4Opr": 6.22,
-    "dpr": 66.64,
-    "ccwm": -4.89,
+    "fuelOpr": 49.24,
+    "fuelCountOpr": 45.85,
+    "autoFuelOpr": 14.15,
+    "teleopFuelOpr": 35.09,
+    "transitionOpr": 6.72,
+    "endgameFuelOpr": 10.62,
+    "shift1Opr": 0.72,
+    "shift2Opr": 15.72,
+    "shift3Opr": -6.41,
+    "shift4Opr": 7.72,
+    "dpr": 57.88,
+    "ccwm": -9.97,
     "matchesPlayed": 4,
     "winRate": 75,
     "avgScore": 212.2,
@@ -11015,6 +11418,10 @@
      {
       "m": 30,
       "v": 61.7
+     },
+     {
+      "m": 31,
+      "v": 47.9
      }
     ],
     "autoOpr": [
@@ -11105,6 +11512,10 @@
      {
       "m": 30,
       "v": 17.3
+     },
+     {
+      "m": 31,
+      "v": 14.1
      }
     ],
     "teleopOpr": [
@@ -11195,6 +11606,10 @@
      {
       "m": 30,
       "v": 46.0
+     },
+     {
+      "m": 31,
+      "v": 35.1
      }
     ],
     "fuelOpr": [
@@ -11285,6 +11700,10 @@
      {
       "m": 30,
       "v": 63.3
+     },
+     {
+      "m": 31,
+      "v": 49.2
      }
     ],
     "towerOpr": [
@@ -11374,6 +11793,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -11485,24 +11908,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 146.42,
-    "autoOpr": 27.77,
-    "teleopOpr": 118.0,
+    "opr": 142.53,
+    "autoOpr": 26.54,
+    "teleopOpr": 115.32,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 145.78,
-    "fuelCountOpr": 152.11,
-    "autoFuelOpr": 27.77,
-    "teleopFuelOpr": 118.0,
-    "transitionOpr": 12.14,
-    "endgameFuelOpr": 32.02,
-    "shift1Opr": 2.27,
-    "shift2Opr": 31.87,
-    "shift3Opr": 11.29,
-    "shift4Opr": 28.42,
-    "dpr": 191.21,
-    "ccwm": -44.79,
+    "fuelOpr": 141.86,
+    "fuelCountOpr": 148.14,
+    "autoFuelOpr": 26.54,
+    "teleopFuelOpr": 115.32,
+    "transitionOpr": 12.22,
+    "endgameFuelOpr": 30.31,
+    "shift1Opr": 0.2,
+    "shift2Opr": 32.44,
+    "shift3Opr": 10.88,
+    "shift4Opr": 29.27,
+    "dpr": 190.87,
+    "ccwm": -48.34,
     "matchesPlayed": 5,
     "winRate": 40,
     "avgScore": 336.0,
@@ -11597,6 +12020,10 @@
      {
       "m": 30,
       "v": 146.4
+     },
+     {
+      "m": 31,
+      "v": 142.5
      }
     ],
     "autoOpr": [
@@ -11683,6 +12110,10 @@
      {
       "m": 30,
       "v": 27.8
+     },
+     {
+      "m": 31,
+      "v": 26.5
      }
     ],
     "teleopOpr": [
@@ -11769,6 +12200,10 @@
      {
       "m": 30,
       "v": 118.0
+     },
+     {
+      "m": 31,
+      "v": 115.3
      }
     ],
     "fuelOpr": [
@@ -11855,6 +12290,10 @@
      {
       "m": 30,
       "v": 145.8
+     },
+     {
+      "m": 31,
+      "v": 141.9
      }
     ],
     "towerOpr": [
@@ -11940,6 +12379,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -12074,24 +12517,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 58.84,
-    "autoOpr": -4.9,
-    "teleopOpr": 70.55,
+    "opr": 64.0,
+    "autoOpr": -5.89,
+    "teleopOpr": 76.96,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 65.65,
-    "fuelCountOpr": 66.57,
-    "autoFuelOpr": -4.9,
-    "teleopFuelOpr": 70.55,
-    "transitionOpr": 3.52,
-    "endgameFuelOpr": 20.32,
-    "shift1Opr": 19.3,
-    "shift2Opr": 2.51,
-    "shift3Opr": 24.42,
-    "shift4Opr": 0.48,
-    "dpr": 96.52,
-    "ccwm": -37.68,
+    "fuelOpr": 71.06,
+    "fuelCountOpr": 72.3,
+    "autoFuelOpr": -5.89,
+    "teleopFuelOpr": 76.96,
+    "transitionOpr": 2.7,
+    "endgameFuelOpr": 24.84,
+    "shift1Opr": 20.0,
+    "shift2Opr": 2.24,
+    "shift3Opr": 24.58,
+    "shift4Opr": 2.6,
+    "dpr": 113.06,
+    "ccwm": -49.06,
     "matchesPlayed": 4,
     "winRate": 50,
     "avgScore": 275.0,
@@ -12182,6 +12625,10 @@
      {
       "m": 30,
       "v": 58.8
+     },
+     {
+      "m": 31,
+      "v": 64.0
      }
     ],
     "autoOpr": [
@@ -12264,6 +12711,10 @@
      {
       "m": 30,
       "v": -4.9
+     },
+     {
+      "m": 31,
+      "v": -5.9
      }
     ],
     "teleopOpr": [
@@ -12346,6 +12797,10 @@
      {
       "m": 30,
       "v": 70.5
+     },
+     {
+      "m": 31,
+      "v": 77.0
      }
     ],
     "fuelOpr": [
@@ -12428,6 +12883,10 @@
      {
       "m": 30,
       "v": 65.6
+     },
+     {
+      "m": 31,
+      "v": 71.1
      }
     ],
     "towerOpr": [
@@ -12509,6 +12968,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -12620,24 +13083,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 115.52,
-    "autoOpr": 26.69,
-    "teleopOpr": 84.61,
+    "opr": 102.54,
+    "autoOpr": 24.2,
+    "teleopOpr": 73.89,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 111.3,
-    "fuelCountOpr": 114.37,
-    "autoFuelOpr": 26.69,
-    "teleopFuelOpr": 84.61,
-    "transitionOpr": 7.91,
-    "endgameFuelOpr": 22.75,
-    "shift1Opr": 5.57,
-    "shift2Opr": 18.78,
-    "shift3Opr": 11.82,
-    "shift4Opr": 17.78,
-    "dpr": 147.59,
-    "ccwm": -32.08,
+    "fuelOpr": 98.09,
+    "fuelCountOpr": 100.85,
+    "autoFuelOpr": 24.2,
+    "teleopFuelOpr": 73.89,
+    "transitionOpr": 8.62,
+    "endgameFuelOpr": 15.64,
+    "shift1Opr": -0.05,
+    "shift2Opr": 20.39,
+    "shift3Opr": 10.7,
+    "shift4Opr": 18.59,
+    "dpr": 136.4,
+    "ccwm": -33.86,
     "matchesPlayed": 4,
     "winRate": 50,
     "avgScore": 263.5,
@@ -12740,6 +13203,10 @@
      {
       "m": 30,
       "v": 115.5
+     },
+     {
+      "m": 31,
+      "v": 102.5
      }
     ],
     "autoOpr": [
@@ -12834,6 +13301,10 @@
      {
       "m": 30,
       "v": 26.7
+     },
+     {
+      "m": 31,
+      "v": 24.2
      }
     ],
     "teleopOpr": [
@@ -12928,6 +13399,10 @@
      {
       "m": 30,
       "v": 84.6
+     },
+     {
+      "m": 31,
+      "v": 73.9
      }
     ],
     "fuelOpr": [
@@ -13022,6 +13497,10 @@
      {
       "m": 30,
       "v": 111.3
+     },
+     {
+      "m": 31,
+      "v": 98.1
      }
     ],
     "towerOpr": [
@@ -13115,6 +13594,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -13221,35 +13704,35 @@
    "country": "USA",
    "rank": 24,
    "record": {
-    "w": 1,
+    "w": 2,
     "l": 3,
     "t": 0
    },
    "metrics": {
-    "opr": 59.05,
-    "autoOpr": 17.05,
-    "teleopOpr": 38.42,
+    "opr": 42.09,
+    "autoOpr": 19.55,
+    "teleopOpr": 18.18,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 55.47,
-    "fuelCountOpr": 56.23,
-    "autoFuelOpr": 17.05,
-    "teleopFuelOpr": 38.42,
-    "transitionOpr": 6.51,
-    "endgameFuelOpr": 15.01,
-    "shift1Opr": -12.01,
-    "shift2Opr": 28.54,
-    "shift3Opr": -18.3,
-    "shift4Opr": 18.67,
-    "dpr": 81.02,
-    "ccwm": -21.97,
-    "matchesPlayed": 4,
-    "winRate": 25,
-    "avgScore": 244.0,
-    "avgRp": 1.75,
-    "energizedRpRate": 50,
-    "superchargedRpRate": 50,
+    "fuelOpr": 37.73,
+    "fuelCountOpr": 37.51,
+    "autoFuelOpr": 19.55,
+    "teleopFuelOpr": 18.18,
+    "transitionOpr": 8.98,
+    "endgameFuelOpr": 0.81,
+    "shift1Opr": -14.9,
+    "shift2Opr": 29.58,
+    "shift3Opr": -18.94,
+    "shift4Opr": 12.66,
+    "dpr": 31.34,
+    "ccwm": 10.75,
+    "matchesPlayed": 5,
+    "winRate": 40,
+    "avgScore": 232.4,
+    "avgRp": 2.0,
+    "energizedRpRate": 40,
+    "superchargedRpRate": 40,
     "traversalRpRate": 0,
     "climbRate": 0
    },
@@ -13334,6 +13817,10 @@
      {
       "m": 30,
       "v": 59.0
+     },
+     {
+      "m": 31,
+      "v": 42.1
      }
     ],
     "autoOpr": [
@@ -13416,6 +13903,10 @@
      {
       "m": 30,
       "v": 17.1
+     },
+     {
+      "m": 31,
+      "v": 19.5
      }
     ],
     "teleopOpr": [
@@ -13498,6 +13989,10 @@
      {
       "m": 30,
       "v": 38.4
+     },
+     {
+      "m": 31,
+      "v": 18.2
      }
     ],
     "fuelOpr": [
@@ -13580,6 +14075,10 @@
      {
       "m": 30,
       "v": 55.5
+     },
+     {
+      "m": 31,
+      "v": 37.7
      }
     ],
     "towerOpr": [
@@ -13661,6 +14160,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -13757,6 +14260,638 @@
       "tower": 0.0,
       "fuel": 430.0
      }
+    },
+    {
+     "level": "qual",
+     "num": 31,
+     "color": "Red",
+     "partners": [
+      5515,
+      8011
+     ],
+     "opponents": [
+      6394,
+      5449,
+      9597
+     ],
+     "allianceScore": 186.0,
+     "oppScore": 155.0,
+     "win": true,
+     "breakdown": {
+      "auto": 68.0,
+      "teleop": 113.0,
+      "tower": 0.0,
+      "fuel": 181.0
+     }
+    }
+   ]
+  },
+  {
+   "team": 5515,
+   "name": "Blue Power Robotics",
+   "school": "Novelis , Inc./Autodesk, Inc./Beijing Sineva Co., Ltd./iFlyTech Co., Ltd./Jiangsu Josun Air Conditioner Co., Ltd./Blue Lemon Trade & Business Co., Ltd./Home Think Science & Technology Co., Ltd.&China Urban Youth Robotic Alliance&Shenzhen DADALELE Culture Communication Co., LTD&High School affiliated to Shanghai Jiao Tong University",
+   "country": "China",
+   "rank": 25,
+   "record": {
+    "w": 2,
+    "l": 3,
+    "t": 0
+   },
+   "metrics": {
+    "opr": 5.6,
+    "autoOpr": 15.01,
+    "teleopOpr": -1.4,
+    "towerOpr": 0.0,
+    "autoTowerOpr": 0.0,
+    "endgameTowerOpr": 0.0,
+    "fuelOpr": 13.61,
+    "fuelCountOpr": 15.13,
+    "autoFuelOpr": 15.01,
+    "teleopFuelOpr": -1.4,
+    "transitionOpr": 9.41,
+    "endgameFuelOpr": -6.24,
+    "shift1Opr": 3.88,
+    "shift2Opr": -18.06,
+    "shift3Opr": 8.68,
+    "shift4Opr": 0.93,
+    "dpr": 239.8,
+    "ccwm": -234.2,
+    "matchesPlayed": 5,
+    "winRate": 40,
+    "avgScore": 203.0,
+    "avgRp": 1.8,
+    "energizedRpRate": 40,
+    "superchargedRpRate": 20,
+    "traversalRpRate": 0,
+    "climbRate": 0
+   },
+   "trends": {
+    "opr": [
+     {
+      "m": 10,
+      "v": 123.3
+     },
+     {
+      "m": 11,
+      "v": 123.7
+     },
+     {
+      "m": 12,
+      "v": 127.9
+     },
+     {
+      "m": 13,
+      "v": 115.0
+     },
+     {
+      "m": 14,
+      "v": 114.9
+     },
+     {
+      "m": 15,
+      "v": 102.5
+     },
+     {
+      "m": 16,
+      "v": 100.9
+     },
+     {
+      "m": 17,
+      "v": 91.3
+     },
+     {
+      "m": 18,
+      "v": 88.2
+     },
+     {
+      "m": 19,
+      "v": 69.2
+     },
+     {
+      "m": 20,
+      "v": 76.7
+     },
+     {
+      "m": 21,
+      "v": 77.5
+     },
+     {
+      "m": 22,
+      "v": 82.6
+     },
+     {
+      "m": 23,
+      "v": 80.6
+     },
+     {
+      "m": 24,
+      "v": 76.2
+     },
+     {
+      "m": 25,
+      "v": 46.1
+     },
+     {
+      "m": 26,
+      "v": 29.4
+     },
+     {
+      "m": 27,
+      "v": 25.4
+     },
+     {
+      "m": 28,
+      "v": 24.8
+     },
+     {
+      "m": 29,
+      "v": 20.8
+     },
+     {
+      "m": 30,
+      "v": 15.6
+     },
+     {
+      "m": 31,
+      "v": 5.6
+     }
+    ],
+    "autoOpr": [
+     {
+      "m": 10,
+      "v": 32.8
+     },
+     {
+      "m": 11,
+      "v": 32.6
+     },
+     {
+      "m": 12,
+      "v": 34.5
+     },
+     {
+      "m": 13,
+      "v": 35.3
+     },
+     {
+      "m": 14,
+      "v": 35.5
+     },
+     {
+      "m": 15,
+      "v": 37.2
+     },
+     {
+      "m": 16,
+      "v": 37.3
+     },
+     {
+      "m": 17,
+      "v": 35.8
+     },
+     {
+      "m": 18,
+      "v": 33.1
+     },
+     {
+      "m": 19,
+      "v": 29.1
+     },
+     {
+      "m": 20,
+      "v": 27.2
+     },
+     {
+      "m": 21,
+      "v": 27.2
+     },
+     {
+      "m": 22,
+      "v": 24.8
+     },
+     {
+      "m": 23,
+      "v": 24.8
+     },
+     {
+      "m": 24,
+      "v": 22.4
+     },
+     {
+      "m": 25,
+      "v": 14.5
+     },
+     {
+      "m": 26,
+      "v": 8.3
+     },
+     {
+      "m": 27,
+      "v": 6.3
+     },
+     {
+      "m": 28,
+      "v": 9.4
+     },
+     {
+      "m": 29,
+      "v": 10.1
+     },
+     {
+      "m": 30,
+      "v": 9.6
+     },
+     {
+      "m": 31,
+      "v": 15.0
+     }
+    ],
+    "teleopOpr": [
+     {
+      "m": 10,
+      "v": 92.3
+     },
+     {
+      "m": 11,
+      "v": 92.6
+     },
+     {
+      "m": 12,
+      "v": 93.0
+     },
+     {
+      "m": 13,
+      "v": 81.9
+     },
+     {
+      "m": 14,
+      "v": 81.3
+     },
+     {
+      "m": 15,
+      "v": 66.6
+     },
+     {
+      "m": 16,
+      "v": 65.0
+     },
+     {
+      "m": 17,
+      "v": 53.8
+     },
+     {
+      "m": 18,
+      "v": 53.7
+     },
+     {
+      "m": 19,
+      "v": 43.0
+     },
+     {
+      "m": 20,
+      "v": 52.4
+     },
+     {
+      "m": 21,
+      "v": 53.9
+     },
+     {
+      "m": 22,
+      "v": 62.6
+     },
+     {
+      "m": 23,
+      "v": 60.7
+     },
+     {
+      "m": 24,
+      "v": 58.2
+     },
+     {
+      "m": 25,
+      "v": 35.4
+     },
+     {
+      "m": 26,
+      "v": 24.0
+     },
+     {
+      "m": 27,
+      "v": 22.4
+     },
+     {
+      "m": 28,
+      "v": 19.5
+     },
+     {
+      "m": 29,
+      "v": 14.7
+     },
+     {
+      "m": 30,
+      "v": 14.8
+     },
+     {
+      "m": 31,
+      "v": -1.4
+     }
+    ],
+    "fuelOpr": [
+     {
+      "m": 10,
+      "v": 125.1
+     },
+     {
+      "m": 11,
+      "v": 125.2
+     },
+     {
+      "m": 12,
+      "v": 127.5
+     },
+     {
+      "m": 13,
+      "v": 117.1
+     },
+     {
+      "m": 14,
+      "v": 116.9
+     },
+     {
+      "m": 15,
+      "v": 103.8
+     },
+     {
+      "m": 16,
+      "v": 102.2
+     },
+     {
+      "m": 17,
+      "v": 89.6
+     },
+     {
+      "m": 18,
+      "v": 86.8
+     },
+     {
+      "m": 19,
+      "v": 72.1
+     },
+     {
+      "m": 20,
+      "v": 79.6
+     },
+     {
+      "m": 21,
+      "v": 81.1
+     },
+     {
+      "m": 22,
+      "v": 87.3
+     },
+     {
+      "m": 23,
+      "v": 85.5
+     },
+     {
+      "m": 24,
+      "v": 80.6
+     },
+     {
+      "m": 25,
+      "v": 49.9
+     },
+     {
+      "m": 26,
+      "v": 32.4
+     },
+     {
+      "m": 27,
+      "v": 28.7
+     },
+     {
+      "m": 28,
+      "v": 29.0
+     },
+     {
+      "m": 29,
+      "v": 24.7
+     },
+     {
+      "m": 30,
+      "v": 24.4
+     },
+     {
+      "m": 31,
+      "v": 13.6
+     }
+    ],
+    "towerOpr": [
+     {
+      "m": 10,
+      "v": 0.0
+     },
+     {
+      "m": 11,
+      "v": 0.0
+     },
+     {
+      "m": 12,
+      "v": 0.0
+     },
+     {
+      "m": 13,
+      "v": 0.0
+     },
+     {
+      "m": 14,
+      "v": 0.0
+     },
+     {
+      "m": 15,
+      "v": 0.0
+     },
+     {
+      "m": 16,
+      "v": 0.0
+     },
+     {
+      "m": 17,
+      "v": 0.0
+     },
+     {
+      "m": 18,
+      "v": 0.0
+     },
+     {
+      "m": 19,
+      "v": 0.0
+     },
+     {
+      "m": 20,
+      "v": 0.0
+     },
+     {
+      "m": 21,
+      "v": 0.0
+     },
+     {
+      "m": 22,
+      "v": 0.0
+     },
+     {
+      "m": 23,
+      "v": 0.0
+     },
+     {
+      "m": 24,
+      "v": 0.0
+     },
+     {
+      "m": 25,
+      "v": 0.0
+     },
+     {
+      "m": 26,
+      "v": 0.0
+     },
+     {
+      "m": 27,
+      "v": 0.0
+     },
+     {
+      "m": 28,
+      "v": 0.0
+     },
+     {
+      "m": 29,
+      "v": 0.0
+     },
+     {
+      "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
+      "v": 0.0
+     }
+    ]
+   },
+   "matches": [
+    {
+     "level": "qual",
+     "num": 1,
+     "color": "Blue",
+     "partners": [
+      8015,
+      8810
+     ],
+     "opponents": [
+      9635,
+      7002,
+      9995
+     ],
+     "allianceScore": 278.0,
+     "oppScore": 280.0,
+     "win": false,
+     "breakdown": {
+      "auto": 73.0,
+      "teleop": 205.0,
+      "tower": 0.0,
+      "fuel": 278.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 10,
+     "color": "Red",
+     "partners": [
+      5849,
+      8214
+     ],
+     "opponents": [
+      6766,
+      9992,
+      6494
+     ],
+     "allianceScore": 435.0,
+     "oppScore": 332.0,
+     "win": true,
+     "breakdown": {
+      "auto": 101.0,
+      "teleop": 329.0,
+      "tower": 0.0,
+      "fuel": 430.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 19,
+     "color": "Blue",
+     "partners": [
+      9994,
+      10711
+     ],
+     "opponents": [
+      11019,
+      10479,
+      8011
+     ],
+     "allianceScore": 17.0,
+     "oppScore": 511.0,
+     "win": false,
+     "breakdown": {
+      "auto": 13.0,
+      "teleop": 4.0,
+      "tower": 0.0,
+      "fuel": 17.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 26,
+     "color": "Red",
+     "partners": [
+      6433,
+      9991
+     ],
+     "opponents": [
+      8214,
+      10541,
+      9997
+     ],
+     "allianceScore": 99.0,
+     "oppScore": 840.0,
+     "win": false,
+     "breakdown": {
+      "auto": 4.0,
+      "teleop": 95.0,
+      "tower": 0.0,
+      "fuel": 99.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 31,
+     "color": "Red",
+     "partners": [
+      9999,
+      8011
+     ],
+     "opponents": [
+      6394,
+      5449,
+      9597
+     ],
+     "allianceScore": 186.0,
+     "oppScore": 155.0,
+     "win": true,
+     "breakdown": {
+      "auto": 68.0,
+      "teleop": 113.0,
+      "tower": 0.0,
+      "fuel": 181.0
+     }
     }
    ]
   },
@@ -13765,31 +14900,31 @@
    "name": "Off-Season Demo Team 9992",
    "school": "",
    "country": "USA",
-   "rank": 25,
+   "rank": 26,
    "record": {
     "w": 2,
     "l": 2,
     "t": 0
    },
    "metrics": {
-    "opr": -5.92,
-    "autoOpr": 7.79,
-    "teleopOpr": -9.72,
+    "opr": -15.24,
+    "autoOpr": 5.75,
+    "teleopOpr": -17.14,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": -1.93,
-    "fuelCountOpr": -7.63,
-    "autoFuelOpr": 7.79,
-    "teleopFuelOpr": -9.72,
-    "transitionOpr": 0.65,
-    "endgameFuelOpr": 24.2,
-    "shift1Opr": 10.89,
-    "shift2Opr": -40.16,
-    "shift3Opr": 18.54,
-    "shift4Opr": -23.84,
-    "dpr": -14.94,
-    "ccwm": 9.02,
+    "fuelOpr": -11.39,
+    "fuelCountOpr": -17.3,
+    "autoFuelOpr": 5.75,
+    "teleopFuelOpr": -17.14,
+    "transitionOpr": 1.09,
+    "endgameFuelOpr": 19.3,
+    "shift1Opr": 6.66,
+    "shift2Opr": -38.96,
+    "shift3Opr": 17.7,
+    "shift4Opr": -22.94,
+    "dpr": -21.43,
+    "ccwm": 6.19,
     "matchesPlayed": 4,
     "winRate": 50,
     "avgScore": 183.0,
@@ -13884,6 +15019,10 @@
      {
       "m": 30,
       "v": -5.9
+     },
+     {
+      "m": 31,
+      "v": -15.2
      }
     ],
     "autoOpr": [
@@ -13970,6 +15109,10 @@
      {
       "m": 30,
       "v": 7.8
+     },
+     {
+      "m": 31,
+      "v": 5.7
      }
     ],
     "teleopOpr": [
@@ -14056,6 +15199,10 @@
      {
       "m": 30,
       "v": -9.7
+     },
+     {
+      "m": 31,
+      "v": -17.1
      }
     ],
     "fuelOpr": [
@@ -14142,6 +15289,10 @@
      {
       "m": 30,
       "v": -1.9
+     },
+     {
+      "m": 31,
+      "v": -11.4
      }
     ],
     "towerOpr": [
@@ -14227,6 +15378,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -14331,31 +15486,31 @@
    "name": "HZ4Z",
    "school": "Hangzhou #4 High School",
    "country": "China",
-   "rank": 26,
+   "rank": 27,
    "record": {
     "w": 2,
     "l": 3,
     "t": 0
    },
    "metrics": {
-    "opr": 17.63,
-    "autoOpr": 1.25,
-    "teleopOpr": -0.02,
+    "opr": 13.47,
+    "autoOpr": -0.87,
+    "teleopOpr": -2.02,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 1.23,
-    "fuelCountOpr": 1.66,
-    "autoFuelOpr": 1.25,
-    "teleopFuelOpr": -0.02,
-    "transitionOpr": -5.49,
-    "endgameFuelOpr": 8.81,
-    "shift1Opr": -0.26,
-    "shift2Opr": 7.12,
-    "shift3Opr": -4.76,
-    "shift4Opr": -5.43,
-    "dpr": 167.4,
-    "ccwm": -149.77,
+    "fuelOpr": -2.9,
+    "fuelCountOpr": -2.45,
+    "autoFuelOpr": -0.87,
+    "teleopFuelOpr": -2.02,
+    "transitionOpr": -5.62,
+    "endgameFuelOpr": 7.66,
+    "shift1Opr": -3.09,
+    "shift2Opr": 7.88,
+    "shift3Opr": -5.31,
+    "shift4Opr": -3.54,
+    "dpr": 171.9,
+    "ccwm": -158.43,
     "matchesPlayed": 5,
     "winRate": 40,
     "avgScore": 219.2,
@@ -14434,6 +15589,10 @@
      {
       "m": 30,
       "v": 17.6
+     },
+     {
+      "m": 31,
+      "v": 13.5
      }
     ],
     "autoOpr": [
@@ -14504,6 +15663,10 @@
      {
       "m": 30,
       "v": 1.3
+     },
+     {
+      "m": 31,
+      "v": -0.9
      }
     ],
     "teleopOpr": [
@@ -14574,6 +15737,10 @@
      {
       "m": 30,
       "v": -0.0
+     },
+     {
+      "m": 31,
+      "v": -2.0
      }
     ],
     "fuelOpr": [
@@ -14644,6 +15811,10 @@
      {
       "m": 30,
       "v": 1.2
+     },
+     {
+      "m": 31,
+      "v": -2.9
      }
     ],
     "towerOpr": [
@@ -14713,6 +15884,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -14840,31 +16015,31 @@
    "name": "Neutron Star",
    "school": "Rhinoceros Technology",
    "country": "China",
-   "rank": 27,
+   "rank": 28,
    "record": {
     "w": 2,
     "l": 3,
     "t": 0
    },
    "metrics": {
-    "opr": 53.87,
-    "autoOpr": 25.12,
-    "teleopOpr": 18.14,
+    "opr": 41.62,
+    "autoOpr": 22.13,
+    "teleopOpr": 8.73,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 43.26,
-    "fuelCountOpr": 39.96,
-    "autoFuelOpr": 25.12,
-    "teleopFuelOpr": 18.14,
-    "transitionOpr": 4.13,
-    "endgameFuelOpr": 8.13,
-    "shift1Opr": 16.61,
-    "shift2Opr": -15.9,
-    "shift3Opr": 6.18,
-    "shift4Opr": -1.01,
-    "dpr": 7.79,
-    "ccwm": 46.08,
+    "fuelOpr": 30.86,
+    "fuelCountOpr": 27.31,
+    "autoFuelOpr": 22.13,
+    "teleopFuelOpr": 8.73,
+    "transitionOpr": 4.63,
+    "endgameFuelOpr": 1.97,
+    "shift1Opr": 10.81,
+    "shift2Opr": -14.26,
+    "shift3Opr": 5.03,
+    "shift4Opr": 0.55,
+    "dpr": 1.21,
+    "ccwm": 40.42,
     "matchesPlayed": 5,
     "winRate": 40,
     "avgScore": 176.4,
@@ -14951,6 +16126,10 @@
      {
       "m": 30,
       "v": 53.9
+     },
+     {
+      "m": 31,
+      "v": 41.6
      }
     ],
     "autoOpr": [
@@ -15029,6 +16208,10 @@
      {
       "m": 30,
       "v": 25.1
+     },
+     {
+      "m": 31,
+      "v": 22.1
      }
     ],
     "teleopOpr": [
@@ -15107,6 +16290,10 @@
      {
       "m": 30,
       "v": 18.1
+     },
+     {
+      "m": 31,
+      "v": 8.7
      }
     ],
     "fuelOpr": [
@@ -15185,6 +16372,10 @@
      {
       "m": 30,
       "v": 43.3
+     },
+     {
+      "m": 31,
+      "v": 30.9
      }
     ],
     "towerOpr": [
@@ -15262,6 +16453,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -15385,1713 +16580,35 @@
    ]
   },
   {
-   "team": 5515,
-   "name": "Blue Power Robotics",
-   "school": "Novelis , Inc./Autodesk, Inc./Beijing Sineva Co., Ltd./iFlyTech Co., Ltd./Jiangsu Josun Air Conditioner Co., Ltd./Blue Lemon Trade & Business Co., Ltd./Home Think Science & Technology Co., Ltd.&China Urban Youth Robotic Alliance&Shenzhen DADALELE Culture Communication Co., LTD&High School affiliated to Shanghai Jiao Tong University",
-   "country": "China",
-   "rank": 28,
-   "record": {
-    "w": 1,
-    "l": 3,
-    "t": 0
-   },
-   "metrics": {
-    "opr": 15.58,
-    "autoOpr": 9.62,
-    "teleopOpr": 14.77,
-    "towerOpr": 0.0,
-    "autoTowerOpr": 0.0,
-    "endgameTowerOpr": 0.0,
-    "fuelOpr": 24.38,
-    "fuelCountOpr": 26.86,
-    "autoFuelOpr": 9.62,
-    "teleopFuelOpr": 14.77,
-    "transitionOpr": 6.91,
-    "endgameFuelOpr": 5.47,
-    "shift1Opr": 2.55,
-    "shift2Opr": -17.94,
-    "shift3Opr": 8.49,
-    "shift4Opr": 9.29,
-    "dpr": 292.97,
-    "ccwm": -277.39,
-    "matchesPlayed": 4,
-    "winRate": 25,
-    "avgScore": 207.2,
-    "avgRp": 1.5,
-    "energizedRpRate": 50,
-    "superchargedRpRate": 25,
-    "traversalRpRate": 0,
-    "climbRate": 0
-   },
-   "trends": {
-    "opr": [
-     {
-      "m": 10,
-      "v": 123.3
-     },
-     {
-      "m": 11,
-      "v": 123.7
-     },
-     {
-      "m": 12,
-      "v": 127.9
-     },
-     {
-      "m": 13,
-      "v": 115.0
-     },
-     {
-      "m": 14,
-      "v": 114.9
-     },
-     {
-      "m": 15,
-      "v": 102.5
-     },
-     {
-      "m": 16,
-      "v": 100.9
-     },
-     {
-      "m": 17,
-      "v": 91.3
-     },
-     {
-      "m": 18,
-      "v": 88.2
-     },
-     {
-      "m": 19,
-      "v": 69.2
-     },
-     {
-      "m": 20,
-      "v": 76.7
-     },
-     {
-      "m": 21,
-      "v": 77.5
-     },
-     {
-      "m": 22,
-      "v": 82.6
-     },
-     {
-      "m": 23,
-      "v": 80.6
-     },
-     {
-      "m": 24,
-      "v": 76.2
-     },
-     {
-      "m": 25,
-      "v": 46.1
-     },
-     {
-      "m": 26,
-      "v": 29.4
-     },
-     {
-      "m": 27,
-      "v": 25.4
-     },
-     {
-      "m": 28,
-      "v": 24.8
-     },
-     {
-      "m": 29,
-      "v": 20.8
-     },
-     {
-      "m": 30,
-      "v": 15.6
-     }
-    ],
-    "autoOpr": [
-     {
-      "m": 10,
-      "v": 32.8
-     },
-     {
-      "m": 11,
-      "v": 32.6
-     },
-     {
-      "m": 12,
-      "v": 34.5
-     },
-     {
-      "m": 13,
-      "v": 35.3
-     },
-     {
-      "m": 14,
-      "v": 35.5
-     },
-     {
-      "m": 15,
-      "v": 37.2
-     },
-     {
-      "m": 16,
-      "v": 37.3
-     },
-     {
-      "m": 17,
-      "v": 35.8
-     },
-     {
-      "m": 18,
-      "v": 33.1
-     },
-     {
-      "m": 19,
-      "v": 29.1
-     },
-     {
-      "m": 20,
-      "v": 27.2
-     },
-     {
-      "m": 21,
-      "v": 27.2
-     },
-     {
-      "m": 22,
-      "v": 24.8
-     },
-     {
-      "m": 23,
-      "v": 24.8
-     },
-     {
-      "m": 24,
-      "v": 22.4
-     },
-     {
-      "m": 25,
-      "v": 14.5
-     },
-     {
-      "m": 26,
-      "v": 8.3
-     },
-     {
-      "m": 27,
-      "v": 6.3
-     },
-     {
-      "m": 28,
-      "v": 9.4
-     },
-     {
-      "m": 29,
-      "v": 10.1
-     },
-     {
-      "m": 30,
-      "v": 9.6
-     }
-    ],
-    "teleopOpr": [
-     {
-      "m": 10,
-      "v": 92.3
-     },
-     {
-      "m": 11,
-      "v": 92.6
-     },
-     {
-      "m": 12,
-      "v": 93.0
-     },
-     {
-      "m": 13,
-      "v": 81.9
-     },
-     {
-      "m": 14,
-      "v": 81.3
-     },
-     {
-      "m": 15,
-      "v": 66.6
-     },
-     {
-      "m": 16,
-      "v": 65.0
-     },
-     {
-      "m": 17,
-      "v": 53.8
-     },
-     {
-      "m": 18,
-      "v": 53.7
-     },
-     {
-      "m": 19,
-      "v": 43.0
-     },
-     {
-      "m": 20,
-      "v": 52.4
-     },
-     {
-      "m": 21,
-      "v": 53.9
-     },
-     {
-      "m": 22,
-      "v": 62.6
-     },
-     {
-      "m": 23,
-      "v": 60.7
-     },
-     {
-      "m": 24,
-      "v": 58.2
-     },
-     {
-      "m": 25,
-      "v": 35.4
-     },
-     {
-      "m": 26,
-      "v": 24.0
-     },
-     {
-      "m": 27,
-      "v": 22.4
-     },
-     {
-      "m": 28,
-      "v": 19.5
-     },
-     {
-      "m": 29,
-      "v": 14.7
-     },
-     {
-      "m": 30,
-      "v": 14.8
-     }
-    ],
-    "fuelOpr": [
-     {
-      "m": 10,
-      "v": 125.1
-     },
-     {
-      "m": 11,
-      "v": 125.2
-     },
-     {
-      "m": 12,
-      "v": 127.5
-     },
-     {
-      "m": 13,
-      "v": 117.1
-     },
-     {
-      "m": 14,
-      "v": 116.9
-     },
-     {
-      "m": 15,
-      "v": 103.8
-     },
-     {
-      "m": 16,
-      "v": 102.2
-     },
-     {
-      "m": 17,
-      "v": 89.6
-     },
-     {
-      "m": 18,
-      "v": 86.8
-     },
-     {
-      "m": 19,
-      "v": 72.1
-     },
-     {
-      "m": 20,
-      "v": 79.6
-     },
-     {
-      "m": 21,
-      "v": 81.1
-     },
-     {
-      "m": 22,
-      "v": 87.3
-     },
-     {
-      "m": 23,
-      "v": 85.5
-     },
-     {
-      "m": 24,
-      "v": 80.6
-     },
-     {
-      "m": 25,
-      "v": 49.9
-     },
-     {
-      "m": 26,
-      "v": 32.4
-     },
-     {
-      "m": 27,
-      "v": 28.7
-     },
-     {
-      "m": 28,
-      "v": 29.0
-     },
-     {
-      "m": 29,
-      "v": 24.7
-     },
-     {
-      "m": 30,
-      "v": 24.4
-     }
-    ],
-    "towerOpr": [
-     {
-      "m": 10,
-      "v": 0.0
-     },
-     {
-      "m": 11,
-      "v": 0.0
-     },
-     {
-      "m": 12,
-      "v": 0.0
-     },
-     {
-      "m": 13,
-      "v": 0.0
-     },
-     {
-      "m": 14,
-      "v": 0.0
-     },
-     {
-      "m": 15,
-      "v": 0.0
-     },
-     {
-      "m": 16,
-      "v": 0.0
-     },
-     {
-      "m": 17,
-      "v": 0.0
-     },
-     {
-      "m": 18,
-      "v": 0.0
-     },
-     {
-      "m": 19,
-      "v": 0.0
-     },
-     {
-      "m": 20,
-      "v": 0.0
-     },
-     {
-      "m": 21,
-      "v": 0.0
-     },
-     {
-      "m": 22,
-      "v": 0.0
-     },
-     {
-      "m": 23,
-      "v": 0.0
-     },
-     {
-      "m": 24,
-      "v": 0.0
-     },
-     {
-      "m": 25,
-      "v": 0.0
-     },
-     {
-      "m": 26,
-      "v": 0.0
-     },
-     {
-      "m": 27,
-      "v": 0.0
-     },
-     {
-      "m": 28,
-      "v": 0.0
-     },
-     {
-      "m": 29,
-      "v": 0.0
-     },
-     {
-      "m": 30,
-      "v": 0.0
-     }
-    ]
-   },
-   "matches": [
-    {
-     "level": "qual",
-     "num": 1,
-     "color": "Blue",
-     "partners": [
-      8015,
-      8810
-     ],
-     "opponents": [
-      9635,
-      7002,
-      9995
-     ],
-     "allianceScore": 278.0,
-     "oppScore": 280.0,
-     "win": false,
-     "breakdown": {
-      "auto": 73.0,
-      "teleop": 205.0,
-      "tower": 0.0,
-      "fuel": 278.0
-     }
-    },
-    {
-     "level": "qual",
-     "num": 10,
-     "color": "Red",
-     "partners": [
-      5849,
-      8214
-     ],
-     "opponents": [
-      6766,
-      9992,
-      6494
-     ],
-     "allianceScore": 435.0,
-     "oppScore": 332.0,
-     "win": true,
-     "breakdown": {
-      "auto": 101.0,
-      "teleop": 329.0,
-      "tower": 0.0,
-      "fuel": 430.0
-     }
-    },
-    {
-     "level": "qual",
-     "num": 19,
-     "color": "Blue",
-     "partners": [
-      9994,
-      10711
-     ],
-     "opponents": [
-      11019,
-      10479,
-      8011
-     ],
-     "allianceScore": 17.0,
-     "oppScore": 511.0,
-     "win": false,
-     "breakdown": {
-      "auto": 13.0,
-      "teleop": 4.0,
-      "tower": 0.0,
-      "fuel": 17.0
-     }
-    },
-    {
-     "level": "qual",
-     "num": 26,
-     "color": "Red",
-     "partners": [
-      6433,
-      9991
-     ],
-     "opponents": [
-      8214,
-      10541,
-      9997
-     ],
-     "allianceScore": 99.0,
-     "oppScore": 840.0,
-     "win": false,
-     "breakdown": {
-      "auto": 4.0,
-      "teleop": 95.0,
-      "tower": 0.0,
-      "fuel": 99.0
-     }
-    }
-   ]
-  },
-  {
-   "team": 5449,
-   "name": "Prototype",
-   "school": "Guangdong  QTONE Education CO.,LTD/Royal Furniture Co.,Ltd./Beijing Wonderful Machinery Total CO., Ltd./Beijing Institute of Aerospace Control Devices/Institute of Automation, Chinese Academy of Science/Beijing Megvii Co., Ltd/China Mobile/Beijing Grit Education Technology CO., Ltd/DiDi Luxe&The High School Affiliated to Renmin University of China",
-   "country": "China",
-   "rank": 29,
-   "record": {
-    "w": 2,
-    "l": 2,
-    "t": 0
-   },
-   "metrics": {
-    "opr": -28.99,
-    "autoOpr": -9.48,
-    "teleopOpr": -27.54,
-    "towerOpr": 0.0,
-    "autoTowerOpr": 0.0,
-    "endgameTowerOpr": 0.0,
-    "fuelOpr": -37.02,
-    "fuelCountOpr": -35.97,
-    "autoFuelOpr": -9.48,
-    "teleopFuelOpr": -27.54,
-    "transitionOpr": 3.75,
-    "endgameFuelOpr": -12.59,
-    "shift1Opr": -14.28,
-    "shift2Opr": -7.25,
-    "shift3Opr": -9.43,
-    "shift4Opr": 12.25,
-    "dpr": 166.87,
-    "ccwm": -195.85,
-    "matchesPlayed": 4,
-    "winRate": 50,
-    "avgScore": 138.8,
-    "avgRp": 1.5,
-    "energizedRpRate": 0,
-    "superchargedRpRate": 0,
-    "traversalRpRate": 0,
-    "climbRate": 0
-   },
-   "trends": {
-    "opr": [
-     {
-      "m": 12,
-      "v": 56.6
-     },
-     {
-      "m": 13,
-      "v": 57.2
-     },
-     {
-      "m": 14,
-      "v": 55.3
-     },
-     {
-      "m": 15,
-      "v": 45.4
-     },
-     {
-      "m": 16,
-      "v": 58.6
-     },
-     {
-      "m": 17,
-      "v": 18.5
-     },
-     {
-      "m": 18,
-      "v": 19.3
-     },
-     {
-      "m": 19,
-      "v": 25.5
-     },
-     {
-      "m": 20,
-      "v": 22.3
-     },
-     {
-      "m": 21,
-      "v": 20.5
-     },
-     {
-      "m": 22,
-      "v": 23.8
-     },
-     {
-      "m": 23,
-      "v": 22.4
-     },
-     {
-      "m": 24,
-      "v": 6.3
-     },
-     {
-      "m": 25,
-      "v": 13.5
-     },
-     {
-      "m": 26,
-      "v": 10.0
-     },
-     {
-      "m": 27,
-      "v": -25.6
-     },
-     {
-      "m": 28,
-      "v": -29.8
-     },
-     {
-      "m": 29,
-      "v": -31.4
-     },
-     {
-      "m": 30,
-      "v": -29.0
-     }
-    ],
-    "autoOpr": [
-     {
-      "m": 12,
-      "v": 18.0
-     },
-     {
-      "m": 13,
-      "v": 18.1
-     },
-     {
-      "m": 14,
-      "v": 20.0
-     },
-     {
-      "m": 15,
-      "v": 17.7
-     },
-     {
-      "m": 16,
-      "v": 20.4
-     },
-     {
-      "m": 17,
-      "v": 10.7
-     },
-     {
-      "m": 18,
-      "v": 11.3
-     },
-     {
-      "m": 19,
-      "v": 12.8
-     },
-     {
-      "m": 20,
-      "v": 13.5
-     },
-     {
-      "m": 21,
-      "v": 15.4
-     },
-     {
-      "m": 22,
-      "v": 13.9
-     },
-     {
-      "m": 23,
-      "v": 12.9
-     },
-     {
-      "m": 24,
-      "v": 7.0
-     },
-     {
-      "m": 25,
-      "v": 8.7
-     },
-     {
-      "m": 26,
-      "v": 7.9
-     },
-     {
-      "m": 27,
-      "v": -9.3
-     },
-     {
-      "m": 28,
-      "v": -8.8
-     },
-     {
-      "m": 29,
-      "v": -9.9
-     },
-     {
-      "m": 30,
-      "v": -9.5
-     }
-    ],
-    "teleopOpr": [
-     {
-      "m": 12,
-      "v": 24.5
-     },
-     {
-      "m": 13,
-      "v": 24.8
-     },
-     {
-      "m": 14,
-      "v": 21.1
-     },
-     {
-      "m": 15,
-      "v": 12.7
-     },
-     {
-      "m": 16,
-      "v": 24.2
-     },
-     {
-      "m": 17,
-      "v": 1.4
-     },
-     {
-      "m": 18,
-      "v": 1.4
-     },
-     {
-      "m": 19,
-      "v": 6.1
-     },
-     {
-      "m": 20,
-      "v": 2.0
-     },
-     {
-      "m": 21,
-      "v": -0.8
-     },
-     {
-      "m": 22,
-      "v": 4.9
-     },
-     {
-      "m": 23,
-      "v": 3.6
-     },
-     {
-      "m": 24,
-      "v": -10.8
-     },
-     {
-      "m": 25,
-      "v": -4.7
-     },
-     {
-      "m": 26,
-      "v": -7.4
-     },
-     {
-      "m": 27,
-      "v": -23.6
-     },
-     {
-      "m": 28,
-      "v": -29.1
-     },
-     {
-      "m": 29,
-      "v": -29.5
-     },
-     {
-      "m": 30,
-      "v": -27.5
-     }
-    ],
-    "fuelOpr": [
-     {
-      "m": 12,
-      "v": 42.5
-     },
-     {
-      "m": 13,
-      "v": 42.9
-     },
-     {
-      "m": 14,
-      "v": 41.2
-     },
-     {
-      "m": 15,
-      "v": 30.4
-     },
-     {
-      "m": 16,
-      "v": 44.6
-     },
-     {
-      "m": 17,
-      "v": 12.1
-     },
-     {
-      "m": 18,
-      "v": 12.8
-     },
-     {
-      "m": 19,
-      "v": 18.8
-     },
-     {
-      "m": 20,
-      "v": 15.5
-     },
-     {
-      "m": 21,
-      "v": 14.6
-     },
-     {
-      "m": 22,
-      "v": 18.8
-     },
-     {
-      "m": 23,
-      "v": 16.5
-     },
-     {
-      "m": 24,
-      "v": -3.8
-     },
-     {
-      "m": 25,
-      "v": 4.0
-     },
-     {
-      "m": 26,
-      "v": 0.5
-     },
-     {
-      "m": 27,
-      "v": -32.9
-     },
-     {
-      "m": 28,
-      "v": -37.9
-     },
-     {
-      "m": 29,
-      "v": -39.4
-     },
-     {
-      "m": 30,
-      "v": -37.0
-     }
-    ],
-    "towerOpr": [
-     {
-      "m": 12,
-      "v": 0.0
-     },
-     {
-      "m": 13,
-      "v": 0.0
-     },
-     {
-      "m": 14,
-      "v": 0.0
-     },
-     {
-      "m": 15,
-      "v": 0.0
-     },
-     {
-      "m": 16,
-      "v": 0.0
-     },
-     {
-      "m": 17,
-      "v": 0.0
-     },
-     {
-      "m": 18,
-      "v": 0.0
-     },
-     {
-      "m": 19,
-      "v": 0.0
-     },
-     {
-      "m": 20,
-      "v": 0.0
-     },
-     {
-      "m": 21,
-      "v": 0.0
-     },
-     {
-      "m": 22,
-      "v": 0.0
-     },
-     {
-      "m": 23,
-      "v": 0.0
-     },
-     {
-      "m": 24,
-      "v": 0.0
-     },
-     {
-      "m": 25,
-      "v": 0.0
-     },
-     {
-      "m": 26,
-      "v": 0.0
-     },
-     {
-      "m": 27,
-      "v": 0.0
-     },
-     {
-      "m": 28,
-      "v": 0.0
-     },
-     {
-      "m": 29,
-      "v": 0.0
-     },
-     {
-      "m": 30,
-      "v": 0.0
-     }
-    ]
-   },
-   "matches": [
-    {
-     "level": "qual",
-     "num": 2,
-     "color": "Red",
-     "partners": [
-      6399,
-      6706
-     ],
-     "opponents": [
-      6766,
-      9997,
-      10479
-     ],
-     "allianceScore": 165.0,
-     "oppScore": 623.0,
-     "win": false,
-     "breakdown": {
-      "auto": 26.0,
-      "teleop": 134.0,
-      "tower": 0.0,
-      "fuel": 160.0
-     }
-    },
-    {
-     "level": "qual",
-     "num": 12,
-     "color": "Red",
-     "partners": [
-      10000,
-      11118
-     ],
-     "opponents": [
-      9996,
-      10016,
-      9994
-     ],
-     "allianceScore": 146.0,
-     "oppScore": 121.0,
-     "win": true,
-     "breakdown": {
-      "auto": 67.0,
-      "teleop": 34.0,
-      "tower": 0.0,
-      "fuel": 101.0
-     }
-    },
-    {
-     "level": "qual",
-     "num": 17,
-     "color": "Red",
-     "partners": [
-      8015,
-      5516
-     ],
-     "opponents": [
-      11328,
-      9991,
-      8214
-     ],
-     "allianceScore": 35.0,
-     "oppScore": 618.0,
-     "win": false,
-     "breakdown": {
-      "auto": 18.0,
-      "teleop": 17.0,
-      "tower": 0.0,
-      "fuel": 35.0
-     }
-    },
-    {
-     "level": "qual",
-     "num": 27,
-     "color": "Blue",
-     "partners": [
-      9635,
-      11328
-     ],
-     "opponents": [
-      9992,
-      9597,
-      6487
-     ],
-     "allianceScore": 209.0,
-     "oppScore": 66.0,
-     "win": true,
-     "breakdown": {
-      "auto": 21.0,
-      "teleop": 188.0,
-      "tower": 0.0,
-      "fuel": 209.0
-     }
-    }
-   ]
-  },
-  {
-   "team": 9597,
-   "name": "Luban Robotics",
-   "school": "K Club Robotics/Bambu Lab Technologies&Family/Community",
-   "country": "China",
-   "rank": 30,
-   "record": {
-    "w": 2,
-    "l": 2,
-    "t": 0
-   },
-   "metrics": {
-    "opr": 18.9,
-    "autoOpr": -1.69,
-    "teleopOpr": 21.79,
-    "towerOpr": 0.0,
-    "autoTowerOpr": 0.0,
-    "endgameTowerOpr": 0.0,
-    "fuelOpr": 20.1,
-    "fuelCountOpr": 19.19,
-    "autoFuelOpr": -1.69,
-    "teleopFuelOpr": 21.79,
-    "transitionOpr": -2.1,
-    "endgameFuelOpr": 0.81,
-    "shift1Opr": -11.22,
-    "shift2Opr": 29.08,
-    "shift3Opr": -9.46,
-    "shift4Opr": 14.68,
-    "dpr": -29.92,
-    "ccwm": 48.82,
-    "matchesPlayed": 4,
-    "winRate": 50,
-    "avgScore": 130.0,
-    "avgRp": 1.5,
-    "energizedRpRate": 0,
-    "superchargedRpRate": 0,
-    "traversalRpRate": 0,
-    "climbRate": 0
-   },
-   "trends": {
-    "opr": [
-     {
-      "m": 9,
-      "v": 43.0
-     },
-     {
-      "m": 10,
-      "v": 42.4
-     },
-     {
-      "m": 11,
-      "v": 43.6
-     },
-     {
-      "m": 12,
-      "v": 47.1
-     },
-     {
-      "m": 13,
-      "v": 48.1
-     },
-     {
-      "m": 14,
-      "v": 44.4
-     },
-     {
-      "m": 15,
-      "v": 47.6
-     },
-     {
-      "m": 16,
-      "v": 35.5
-     },
-     {
-      "m": 17,
-      "v": 24.9
-     },
-     {
-      "m": 18,
-      "v": 24.3
-     },
-     {
-      "m": 19,
-      "v": 17.9
-     },
-     {
-      "m": 20,
-      "v": 30.8
-     },
-     {
-      "m": 21,
-      "v": 36.1
-     },
-     {
-      "m": 22,
-      "v": 35.8
-     },
-     {
-      "m": 23,
-      "v": 42.2
-     },
-     {
-      "m": 24,
-      "v": 52.5
-     },
-     {
-      "m": 25,
-      "v": 47.0
-     },
-     {
-      "m": 26,
-      "v": 35.6
-     },
-     {
-      "m": 27,
-      "v": 12.5
-     },
-     {
-      "m": 28,
-      "v": 13.2
-     },
-     {
-      "m": 29,
-      "v": 16.6
-     },
-     {
-      "m": 30,
-      "v": 18.9
-     }
-    ],
-    "autoOpr": [
-     {
-      "m": 9,
-      "v": 10.3
-     },
-     {
-      "m": 10,
-      "v": 10.1
-     },
-     {
-      "m": 11,
-      "v": 9.6
-     },
-     {
-      "m": 12,
-      "v": 11.2
-     },
-     {
-      "m": 13,
-      "v": 11.1
-     },
-     {
-      "m": 14,
-      "v": 15.2
-     },
-     {
-      "m": 15,
-      "v": 16.4
-     },
-     {
-      "m": 16,
-      "v": 16.2
-     },
-     {
-      "m": 17,
-      "v": 13.9
-     },
-     {
-      "m": 18,
-      "v": 13.4
-     },
-     {
-      "m": 19,
-      "v": 11.9
-     },
-     {
-      "m": 20,
-      "v": 16.5
-     },
-     {
-      "m": 21,
-      "v": 12.5
-     },
-     {
-      "m": 22,
-      "v": 13.5
-     },
-     {
-      "m": 23,
-      "v": 14.4
-     },
-     {
-      "m": 24,
-      "v": 16.2
-     },
-     {
-      "m": 25,
-      "v": 14.9
-     },
-     {
-      "m": 26,
-      "v": 11.9
-     },
-     {
-      "m": 27,
-      "v": 1.1
-     },
-     {
-      "m": 28,
-      "v": -0.2
-     },
-     {
-      "m": 29,
-      "v": -1.9
-     },
-     {
-      "m": 30,
-      "v": -1.7
-     }
-    ],
-    "teleopOpr": [
-     {
-      "m": 9,
-      "v": 34.5
-     },
-     {
-      "m": 10,
-      "v": 34.1
-     },
-     {
-      "m": 11,
-      "v": 34.3
-     },
-     {
-      "m": 12,
-      "v": 34.7
-     },
-     {
-      "m": 13,
-      "v": 35.6
-     },
-     {
-      "m": 14,
-      "v": 27.8
-     },
-     {
-      "m": 15,
-      "v": 30.0
-     },
-     {
-      "m": 16,
-      "v": 18.2
-     },
-     {
-      "m": 17,
-      "v": 11.0
-     },
-     {
-      "m": 18,
-      "v": 10.9
-     },
-     {
-      "m": 19,
-      "v": 5.8
-     },
-     {
-      "m": 20,
-      "v": 15.5
-     },
-     {
-      "m": 21,
-      "v": 24.3
-     },
-     {
-      "m": 22,
-      "v": 22.1
-     },
-     {
-      "m": 23,
-      "v": 28.2
-     },
-     {
-      "m": 24,
-      "v": 41.1
-     },
-     {
-      "m": 25,
-      "v": 36.4
-     },
-     {
-      "m": 26,
-      "v": 27.6
-     },
-     {
-      "m": 27,
-      "v": 14.4
-     },
-     {
-      "m": 28,
-      "v": 16.2
-     },
-     {
-      "m": 29,
-      "v": 21.7
-     },
-     {
-      "m": 30,
-      "v": 21.8
-     }
-    ],
-    "fuelOpr": [
-     {
-      "m": 9,
-      "v": 44.8
-     },
-     {
-      "m": 10,
-      "v": 44.2
-     },
-     {
-      "m": 11,
-      "v": 44.0
-     },
-     {
-      "m": 12,
-      "v": 45.9
-     },
-     {
-      "m": 13,
-      "v": 46.7
-     },
-     {
-      "m": 14,
-      "v": 43.0
-     },
-     {
-      "m": 15,
-      "v": 46.4
-     },
-     {
-      "m": 16,
-      "v": 34.5
-     },
-     {
-      "m": 17,
-      "v": 24.9
-     },
-     {
-      "m": 18,
-      "v": 24.3
-     },
-     {
-      "m": 19,
-      "v": 17.7
-     },
-     {
-      "m": 20,
-      "v": 32.0
-     },
-     {
-      "m": 21,
-      "v": 36.8
-     },
-     {
-      "m": 22,
-      "v": 35.7
-     },
-     {
-      "m": 23,
-      "v": 42.6
-     },
-     {
-      "m": 24,
-      "v": 57.3
-     },
-     {
-      "m": 25,
-      "v": 51.3
-     },
-     {
-      "m": 26,
-      "v": 39.5
-     },
-     {
-      "m": 27,
-      "v": 15.5
-     },
-     {
-      "m": 28,
-      "v": 16.0
-     },
-     {
-      "m": 29,
-      "v": 19.8
-     },
-     {
-      "m": 30,
-      "v": 20.1
-     }
-    ],
-    "towerOpr": [
-     {
-      "m": 9,
-      "v": 0.0
-     },
-     {
-      "m": 10,
-      "v": 0.0
-     },
-     {
-      "m": 11,
-      "v": 0.0
-     },
-     {
-      "m": 12,
-      "v": 0.0
-     },
-     {
-      "m": 13,
-      "v": 0.0
-     },
-     {
-      "m": 14,
-      "v": 0.0
-     },
-     {
-      "m": 15,
-      "v": 0.0
-     },
-     {
-      "m": 16,
-      "v": 0.0
-     },
-     {
-      "m": 17,
-      "v": 0.0
-     },
-     {
-      "m": 18,
-      "v": 0.0
-     },
-     {
-      "m": 19,
-      "v": 0.0
-     },
-     {
-      "m": 20,
-      "v": 0.0
-     },
-     {
-      "m": 21,
-      "v": 0.0
-     },
-     {
-      "m": 22,
-      "v": 0.0
-     },
-     {
-      "m": 23,
-      "v": 0.0
-     },
-     {
-      "m": 24,
-      "v": 0.0
-     },
-     {
-      "m": 25,
-      "v": 0.0
-     },
-     {
-      "m": 26,
-      "v": 0.0
-     },
-     {
-      "m": 27,
-      "v": 0.0
-     },
-     {
-      "m": 28,
-      "v": 0.0
-     },
-     {
-      "m": 29,
-      "v": 0.0
-     },
-     {
-      "m": 30,
-      "v": 0.0
-     }
-    ]
-   },
-   "matches": [
-    {
-     "level": "qual",
-     "num": 4,
-     "color": "Blue",
-     "partners": [
-      5823,
-      11019
-     ],
-     "opponents": [
-      5849,
-      11118,
-      5516
-     ],
-     "allianceScore": 217.0,
-     "oppScore": 66.0,
-     "win": true,
-     "breakdown": {
-      "auto": 38.0,
-      "teleop": 179.0,
-      "tower": 0.0,
-      "fuel": 217.0
-     }
-    },
-    {
-     "level": "qual",
-     "num": 9,
-     "color": "Red",
-     "partners": [
-      7002,
-      6399
-     ],
-     "opponents": [
-      6353,
-      11352,
-      11256
-     ],
-     "allianceScore": 150.0,
-     "oppScore": 73.0,
-     "win": true,
-     "breakdown": {
-      "auto": 41.0,
-      "teleop": 109.0,
-      "tower": 0.0,
-      "fuel": 150.0
-     }
-    },
-    {
-     "level": "qual",
-     "num": 21,
-     "color": "Blue",
-     "partners": [
-      5516,
-      10000
-     ],
-     "opponents": [
-      6433,
-      9992,
-      6941
-     ],
-     "allianceScore": 87.0,
-     "oppScore": 122.0,
-     "win": false,
-     "breakdown": {
-      "auto": 27.0,
-      "teleop": 40.0,
-      "tower": 0.0,
-      "fuel": 67.0
-     }
-    },
-    {
-     "level": "qual",
-     "num": 27,
-     "color": "Red",
-     "partners": [
-      9992,
-      6487
-     ],
-     "opponents": [
-      9635,
-      5449,
-      11328
-     ],
-     "allianceScore": 66.0,
-     "oppScore": 209.0,
-     "win": false,
-     "breakdown": {
-      "auto": 21.0,
-      "teleop": 45.0,
-      "tower": 0.0,
-      "fuel": 66.0
-     }
-    }
-   ]
-  },
-  {
    "team": 10120,
    "name": "Wulfa the Wolf",
    "school": "Shanghai United International School，Wanyuan Campus",
    "country": "China",
-   "rank": 31,
+   "rank": 29,
    "record": {
     "w": 1,
     "l": 4,
     "t": 0
    },
    "metrics": {
-    "opr": 65.43,
-    "autoOpr": 8.67,
-    "teleopOpr": 62.48,
+    "opr": 69.95,
+    "autoOpr": 9.26,
+    "teleopOpr": 66.51,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 71.15,
-    "fuelCountOpr": 71.54,
-    "autoFuelOpr": 8.67,
-    "teleopFuelOpr": 62.48,
-    "transitionOpr": 0.28,
-    "endgameFuelOpr": 11.2,
-    "shift1Opr": 23.3,
-    "shift2Opr": 1.61,
-    "shift3Opr": 29.49,
-    "shift4Opr": -3.4,
-    "dpr": 150.03,
-    "ccwm": -84.6,
+    "fuelOpr": 75.77,
+    "fuelCountOpr": 76.3,
+    "autoFuelOpr": 9.26,
+    "teleopFuelOpr": 66.51,
+    "transitionOpr": -0.05,
+    "endgameFuelOpr": 13.91,
+    "shift1Opr": 25.05,
+    "shift2Opr": 1.1,
+    "shift3Opr": 29.84,
+    "shift4Opr": -3.34,
+    "dpr": 155.61,
+    "ccwm": -85.66,
     "matchesPlayed": 5,
     "winRate": 20,
     "avgScore": 242.0,
@@ -17182,6 +16699,10 @@
      {
       "m": 30,
       "v": 65.4
+     },
+     {
+      "m": 31,
+      "v": 70.0
      }
     ],
     "autoOpr": [
@@ -17264,6 +16785,10 @@
      {
       "m": 30,
       "v": 8.7
+     },
+     {
+      "m": 31,
+      "v": 9.3
      }
     ],
     "teleopOpr": [
@@ -17346,6 +16871,10 @@
      {
       "m": 30,
       "v": 62.5
+     },
+     {
+      "m": 31,
+      "v": 66.5
      }
     ],
     "fuelOpr": [
@@ -17428,6 +16957,10 @@
      {
       "m": 30,
       "v": 71.2
+     },
+     {
+      "m": 31,
+      "v": 75.8
      }
     ],
     "towerOpr": [
@@ -17509,6 +17042,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -17636,31 +17173,31 @@
    "name": "风云蹦豆",
    "school": "FIRST&Shanxi youth robotics education asociation&山西省青少年机器人教育协会&太原市十二中学校",
    "country": "China",
-   "rank": 32,
+   "rank": 30,
    "record": {
     "w": 2,
     "l": 3,
     "t": 0
    },
    "metrics": {
-    "opr": 26.41,
-    "autoOpr": 19.62,
-    "teleopOpr": 3.5,
+    "opr": 25.43,
+    "autoOpr": 19.44,
+    "teleopOpr": 2.69,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 23.12,
-    "fuelCountOpr": 26.71,
-    "autoFuelOpr": 19.62,
-    "teleopFuelOpr": 3.5,
-    "transitionOpr": 10.35,
-    "endgameFuelOpr": -7.02,
-    "shift1Opr": 3.43,
-    "shift2Opr": -6.85,
-    "shift3Opr": 20.5,
-    "shift4Opr": -16.9,
-    "dpr": 103.1,
-    "ccwm": -76.69,
+    "fuelOpr": 22.12,
+    "fuelCountOpr": 25.7,
+    "autoFuelOpr": 19.44,
+    "teleopFuelOpr": 2.69,
+    "transitionOpr": 10.4,
+    "endgameFuelOpr": -7.56,
+    "shift1Opr": 3.02,
+    "shift2Opr": -6.73,
+    "shift3Opr": 20.41,
+    "shift4Opr": -16.85,
+    "dpr": 102.22,
+    "ccwm": -76.79,
     "matchesPlayed": 5,
     "winRate": 40,
     "avgScore": 164.4,
@@ -17759,6 +17296,10 @@
      {
       "m": 30,
       "v": 26.4
+     },
+     {
+      "m": 31,
+      "v": 25.4
      }
     ],
     "autoOpr": [
@@ -17849,6 +17390,10 @@
      {
       "m": 30,
       "v": 19.6
+     },
+     {
+      "m": 31,
+      "v": 19.4
      }
     ],
     "teleopOpr": [
@@ -17939,6 +17484,10 @@
      {
       "m": 30,
       "v": 3.5
+     },
+     {
+      "m": 31,
+      "v": 2.7
      }
     ],
     "fuelOpr": [
@@ -18029,6 +17578,10 @@
      {
       "m": 30,
       "v": 23.1
+     },
+     {
+      "m": 31,
+      "v": 22.1
      }
     ],
     "towerOpr": [
@@ -18118,6 +17671,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -18245,31 +17802,31 @@
    "name": "Golem",
    "school": "Shenzhen Senior High School Group/Shenzhen Longing Innovative Aviation Technology Co., Ltd./MEIYA BUSINESS TRAVEL GROUP/UBTECH Robotics Corp/USI Electronics (Shenzhen) Co., Ltd&Shenzhen Senior High School",
    "country": "China",
-   "rank": 33,
+   "rank": 31,
    "record": {
     "w": 1,
     "l": 3,
     "t": 0
    },
    "metrics": {
-    "opr": 109.35,
-    "autoOpr": 10.79,
-    "teleopOpr": 103.8,
+    "opr": 102.45,
+    "autoOpr": 8.47,
+    "teleopOpr": 99.19,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 114.6,
-    "fuelCountOpr": 114.78,
-    "autoFuelOpr": 10.79,
-    "teleopFuelOpr": 103.8,
-    "transitionOpr": 4.19,
-    "endgameFuelOpr": 43.71,
-    "shift1Opr": 40.17,
-    "shift2Opr": -19.79,
-    "shift3Opr": 57.08,
-    "shift4Opr": -21.55,
-    "dpr": 198.75,
-    "ccwm": -89.4,
+    "fuelOpr": 107.66,
+    "fuelCountOpr": 107.76,
+    "autoFuelOpr": 8.47,
+    "teleopFuelOpr": 99.19,
+    "transitionOpr": 4.3,
+    "endgameFuelOpr": 40.78,
+    "shift1Opr": 36.41,
+    "shift2Opr": -18.75,
+    "shift3Opr": 56.34,
+    "shift4Opr": -19.89,
+    "dpr": 198.91,
+    "ccwm": -96.46,
     "matchesPlayed": 4,
     "winRate": 25,
     "avgScore": 239.2,
@@ -18372,6 +17929,10 @@
      {
       "m": 30,
       "v": 109.4
+     },
+     {
+      "m": 31,
+      "v": 102.4
      }
     ],
     "autoOpr": [
@@ -18466,6 +18027,10 @@
      {
       "m": 30,
       "v": 10.8
+     },
+     {
+      "m": 31,
+      "v": 8.5
      }
     ],
     "teleopOpr": [
@@ -18560,6 +18125,10 @@
      {
       "m": 30,
       "v": 103.8
+     },
+     {
+      "m": 31,
+      "v": 99.2
      }
     ],
     "fuelOpr": [
@@ -18654,6 +18223,10 @@
      {
       "m": 30,
       "v": 114.6
+     },
+     {
+      "m": 31,
+      "v": 107.7
      }
     ],
     "towerOpr": [
@@ -18747,6 +18320,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -18851,31 +18428,31 @@
    "name": "EFZ Robotics",
    "school": "Shanghai Zhangjiang Group Co., Ltd. 张江集团/Dadalele Culture/Apple Inc./Haiming Jin&No.2 High School of East China Normal University",
    "country": "China",
-   "rank": 34,
+   "rank": 32,
    "record": {
     "w": 1,
     "l": 4,
     "t": 0
    },
    "metrics": {
-    "opr": 55.29,
-    "autoOpr": 8.85,
-    "teleopOpr": 38.75,
+    "opr": 56.08,
+    "autoOpr": 10.06,
+    "teleopOpr": 38.25,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 47.6,
-    "fuelCountOpr": 46.89,
-    "autoFuelOpr": 8.85,
-    "teleopFuelOpr": 38.75,
-    "transitionOpr": 16.01,
-    "endgameFuelOpr": 7.72,
-    "shift1Opr": 11.53,
-    "shift2Opr": -8.65,
-    "shift3Opr": 10.17,
-    "shift4Opr": 1.97,
-    "dpr": 92.42,
-    "ccwm": -37.13,
+    "fuelOpr": 48.31,
+    "fuelCountOpr": 47.52,
+    "autoFuelOpr": 10.06,
+    "teleopFuelOpr": 38.25,
+    "transitionOpr": 16.25,
+    "endgameFuelOpr": 7.25,
+    "shift1Opr": 12.69,
+    "shift2Opr": -8.95,
+    "shift3Opr": 10.39,
+    "shift4Opr": 0.63,
+    "dpr": 86.67,
+    "ccwm": -30.59,
     "matchesPlayed": 5,
     "winRate": 20,
     "avgScore": 217.0,
@@ -18974,6 +18551,10 @@
      {
       "m": 30,
       "v": 55.3
+     },
+     {
+      "m": 31,
+      "v": 56.1
      }
     ],
     "autoOpr": [
@@ -19064,6 +18645,10 @@
      {
       "m": 30,
       "v": 8.9
+     },
+     {
+      "m": 31,
+      "v": 10.1
      }
     ],
     "teleopOpr": [
@@ -19154,6 +18739,10 @@
      {
       "m": 30,
       "v": 38.7
+     },
+     {
+      "m": 31,
+      "v": 38.3
      }
     ],
     "fuelOpr": [
@@ -19244,6 +18833,10 @@
      {
       "m": 30,
       "v": 47.6
+     },
+     {
+      "m": 31,
+      "v": 48.3
      }
     ],
     "towerOpr": [
@@ -19333,6 +18926,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -19456,6 +19053,1204 @@
    ]
   },
   {
+   "team": 5449,
+   "name": "Prototype",
+   "school": "Guangdong  QTONE Education CO.,LTD/Royal Furniture Co.,Ltd./Beijing Wonderful Machinery Total CO., Ltd./Beijing Institute of Aerospace Control Devices/Institute of Automation, Chinese Academy of Science/Beijing Megvii Co., Ltd/China Mobile/Beijing Grit Education Technology CO., Ltd/DiDi Luxe&The High School Affiliated to Renmin University of China",
+   "country": "China",
+   "rank": 33,
+   "record": {
+    "w": 2,
+    "l": 3,
+    "t": 0
+   },
+   "metrics": {
+    "opr": -1.62,
+    "autoOpr": -2.0,
+    "teleopOpr": -7.37,
+    "towerOpr": 0.0,
+    "autoTowerOpr": 0.0,
+    "endgameTowerOpr": 0.0,
+    "fuelOpr": -9.37,
+    "fuelCountOpr": -7.85,
+    "autoFuelOpr": -2.0,
+    "teleopFuelOpr": -7.37,
+    "transitionOpr": 2.85,
+    "endgameFuelOpr": 0.49,
+    "shift1Opr": -0.7,
+    "shift2Opr": -11.05,
+    "shift3Opr": -6.76,
+    "shift4Opr": 7.79,
+    "dpr": 176.77,
+    "ccwm": -178.39,
+    "matchesPlayed": 5,
+    "winRate": 40,
+    "avgScore": 142.0,
+    "avgRp": 1.2,
+    "energizedRpRate": 0,
+    "superchargedRpRate": 0,
+    "traversalRpRate": 0,
+    "climbRate": 0
+   },
+   "trends": {
+    "opr": [
+     {
+      "m": 12,
+      "v": 56.6
+     },
+     {
+      "m": 13,
+      "v": 57.2
+     },
+     {
+      "m": 14,
+      "v": 55.3
+     },
+     {
+      "m": 15,
+      "v": 45.4
+     },
+     {
+      "m": 16,
+      "v": 58.6
+     },
+     {
+      "m": 17,
+      "v": 18.5
+     },
+     {
+      "m": 18,
+      "v": 19.3
+     },
+     {
+      "m": 19,
+      "v": 25.5
+     },
+     {
+      "m": 20,
+      "v": 22.3
+     },
+     {
+      "m": 21,
+      "v": 20.5
+     },
+     {
+      "m": 22,
+      "v": 23.8
+     },
+     {
+      "m": 23,
+      "v": 22.4
+     },
+     {
+      "m": 24,
+      "v": 6.3
+     },
+     {
+      "m": 25,
+      "v": 13.5
+     },
+     {
+      "m": 26,
+      "v": 10.0
+     },
+     {
+      "m": 27,
+      "v": -25.6
+     },
+     {
+      "m": 28,
+      "v": -29.8
+     },
+     {
+      "m": 29,
+      "v": -31.4
+     },
+     {
+      "m": 30,
+      "v": -29.0
+     },
+     {
+      "m": 31,
+      "v": -1.6
+     }
+    ],
+    "autoOpr": [
+     {
+      "m": 12,
+      "v": 18.0
+     },
+     {
+      "m": 13,
+      "v": 18.1
+     },
+     {
+      "m": 14,
+      "v": 20.0
+     },
+     {
+      "m": 15,
+      "v": 17.7
+     },
+     {
+      "m": 16,
+      "v": 20.4
+     },
+     {
+      "m": 17,
+      "v": 10.7
+     },
+     {
+      "m": 18,
+      "v": 11.3
+     },
+     {
+      "m": 19,
+      "v": 12.8
+     },
+     {
+      "m": 20,
+      "v": 13.5
+     },
+     {
+      "m": 21,
+      "v": 15.4
+     },
+     {
+      "m": 22,
+      "v": 13.9
+     },
+     {
+      "m": 23,
+      "v": 12.9
+     },
+     {
+      "m": 24,
+      "v": 7.0
+     },
+     {
+      "m": 25,
+      "v": 8.7
+     },
+     {
+      "m": 26,
+      "v": 7.9
+     },
+     {
+      "m": 27,
+      "v": -9.3
+     },
+     {
+      "m": 28,
+      "v": -8.8
+     },
+     {
+      "m": 29,
+      "v": -9.9
+     },
+     {
+      "m": 30,
+      "v": -9.5
+     },
+     {
+      "m": 31,
+      "v": -2.0
+     }
+    ],
+    "teleopOpr": [
+     {
+      "m": 12,
+      "v": 24.5
+     },
+     {
+      "m": 13,
+      "v": 24.8
+     },
+     {
+      "m": 14,
+      "v": 21.1
+     },
+     {
+      "m": 15,
+      "v": 12.7
+     },
+     {
+      "m": 16,
+      "v": 24.2
+     },
+     {
+      "m": 17,
+      "v": 1.4
+     },
+     {
+      "m": 18,
+      "v": 1.4
+     },
+     {
+      "m": 19,
+      "v": 6.1
+     },
+     {
+      "m": 20,
+      "v": 2.0
+     },
+     {
+      "m": 21,
+      "v": -0.8
+     },
+     {
+      "m": 22,
+      "v": 4.9
+     },
+     {
+      "m": 23,
+      "v": 3.6
+     },
+     {
+      "m": 24,
+      "v": -10.8
+     },
+     {
+      "m": 25,
+      "v": -4.7
+     },
+     {
+      "m": 26,
+      "v": -7.4
+     },
+     {
+      "m": 27,
+      "v": -23.6
+     },
+     {
+      "m": 28,
+      "v": -29.1
+     },
+     {
+      "m": 29,
+      "v": -29.5
+     },
+     {
+      "m": 30,
+      "v": -27.5
+     },
+     {
+      "m": 31,
+      "v": -7.4
+     }
+    ],
+    "fuelOpr": [
+     {
+      "m": 12,
+      "v": 42.5
+     },
+     {
+      "m": 13,
+      "v": 42.9
+     },
+     {
+      "m": 14,
+      "v": 41.2
+     },
+     {
+      "m": 15,
+      "v": 30.4
+     },
+     {
+      "m": 16,
+      "v": 44.6
+     },
+     {
+      "m": 17,
+      "v": 12.1
+     },
+     {
+      "m": 18,
+      "v": 12.8
+     },
+     {
+      "m": 19,
+      "v": 18.8
+     },
+     {
+      "m": 20,
+      "v": 15.5
+     },
+     {
+      "m": 21,
+      "v": 14.6
+     },
+     {
+      "m": 22,
+      "v": 18.8
+     },
+     {
+      "m": 23,
+      "v": 16.5
+     },
+     {
+      "m": 24,
+      "v": -3.8
+     },
+     {
+      "m": 25,
+      "v": 4.0
+     },
+     {
+      "m": 26,
+      "v": 0.5
+     },
+     {
+      "m": 27,
+      "v": -32.9
+     },
+     {
+      "m": 28,
+      "v": -37.9
+     },
+     {
+      "m": 29,
+      "v": -39.4
+     },
+     {
+      "m": 30,
+      "v": -37.0
+     },
+     {
+      "m": 31,
+      "v": -9.4
+     }
+    ],
+    "towerOpr": [
+     {
+      "m": 12,
+      "v": 0.0
+     },
+     {
+      "m": 13,
+      "v": 0.0
+     },
+     {
+      "m": 14,
+      "v": 0.0
+     },
+     {
+      "m": 15,
+      "v": 0.0
+     },
+     {
+      "m": 16,
+      "v": 0.0
+     },
+     {
+      "m": 17,
+      "v": 0.0
+     },
+     {
+      "m": 18,
+      "v": 0.0
+     },
+     {
+      "m": 19,
+      "v": 0.0
+     },
+     {
+      "m": 20,
+      "v": 0.0
+     },
+     {
+      "m": 21,
+      "v": 0.0
+     },
+     {
+      "m": 22,
+      "v": 0.0
+     },
+     {
+      "m": 23,
+      "v": 0.0
+     },
+     {
+      "m": 24,
+      "v": 0.0
+     },
+     {
+      "m": 25,
+      "v": 0.0
+     },
+     {
+      "m": 26,
+      "v": 0.0
+     },
+     {
+      "m": 27,
+      "v": 0.0
+     },
+     {
+      "m": 28,
+      "v": 0.0
+     },
+     {
+      "m": 29,
+      "v": 0.0
+     },
+     {
+      "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
+      "v": 0.0
+     }
+    ]
+   },
+   "matches": [
+    {
+     "level": "qual",
+     "num": 2,
+     "color": "Red",
+     "partners": [
+      6399,
+      6706
+     ],
+     "opponents": [
+      6766,
+      9997,
+      10479
+     ],
+     "allianceScore": 165.0,
+     "oppScore": 623.0,
+     "win": false,
+     "breakdown": {
+      "auto": 26.0,
+      "teleop": 134.0,
+      "tower": 0.0,
+      "fuel": 160.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 12,
+     "color": "Red",
+     "partners": [
+      10000,
+      11118
+     ],
+     "opponents": [
+      9996,
+      10016,
+      9994
+     ],
+     "allianceScore": 146.0,
+     "oppScore": 121.0,
+     "win": true,
+     "breakdown": {
+      "auto": 67.0,
+      "teleop": 34.0,
+      "tower": 0.0,
+      "fuel": 101.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 17,
+     "color": "Red",
+     "partners": [
+      8015,
+      5516
+     ],
+     "opponents": [
+      11328,
+      9991,
+      8214
+     ],
+     "allianceScore": 35.0,
+     "oppScore": 618.0,
+     "win": false,
+     "breakdown": {
+      "auto": 18.0,
+      "teleop": 17.0,
+      "tower": 0.0,
+      "fuel": 35.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 27,
+     "color": "Blue",
+     "partners": [
+      9635,
+      11328
+     ],
+     "opponents": [
+      9992,
+      9597,
+      6487
+     ],
+     "allianceScore": 209.0,
+     "oppScore": 66.0,
+     "win": true,
+     "breakdown": {
+      "auto": 21.0,
+      "teleop": 188.0,
+      "tower": 0.0,
+      "fuel": 209.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 31,
+     "color": "Blue",
+     "partners": [
+      6394,
+      9597
+     ],
+     "opponents": [
+      9999,
+      5515,
+      8011
+     ],
+     "allianceScore": 155.0,
+     "oppScore": 186.0,
+     "win": false,
+     "breakdown": {
+      "auto": 31.0,
+      "teleop": 124.0,
+      "tower": 0.0,
+      "fuel": 155.0
+     }
+    }
+   ]
+  },
+  {
+   "team": 9597,
+   "name": "Luban Robotics",
+   "school": "K Club Robotics/Bambu Lab Technologies&Family/Community",
+   "country": "China",
+   "rank": 34,
+   "record": {
+    "w": 2,
+    "l": 3,
+    "t": 0
+   },
+   "metrics": {
+    "opr": 47.21,
+    "autoOpr": 5.62,
+    "teleopOpr": 43.11,
+    "towerOpr": 0.0,
+    "autoTowerOpr": 0.0,
+    "endgameTowerOpr": 0.0,
+    "fuelOpr": 48.73,
+    "fuelCountOpr": 48.34,
+    "autoFuelOpr": 5.62,
+    "teleopFuelOpr": 43.11,
+    "transitionOpr": -3.14,
+    "endgameFuelOpr": 14.7,
+    "shift1Opr": 2.49,
+    "shift2Opr": 25.23,
+    "shift3Opr": -6.76,
+    "shift4Opr": 10.59,
+    "dpr": -17.07,
+    "ccwm": 64.28,
+    "matchesPlayed": 5,
+    "winRate": 40,
+    "avgScore": 135.0,
+    "avgRp": 1.2,
+    "energizedRpRate": 0,
+    "superchargedRpRate": 0,
+    "traversalRpRate": 0,
+    "climbRate": 0
+   },
+   "trends": {
+    "opr": [
+     {
+      "m": 9,
+      "v": 43.0
+     },
+     {
+      "m": 10,
+      "v": 42.4
+     },
+     {
+      "m": 11,
+      "v": 43.6
+     },
+     {
+      "m": 12,
+      "v": 47.1
+     },
+     {
+      "m": 13,
+      "v": 48.1
+     },
+     {
+      "m": 14,
+      "v": 44.4
+     },
+     {
+      "m": 15,
+      "v": 47.6
+     },
+     {
+      "m": 16,
+      "v": 35.5
+     },
+     {
+      "m": 17,
+      "v": 24.9
+     },
+     {
+      "m": 18,
+      "v": 24.3
+     },
+     {
+      "m": 19,
+      "v": 17.9
+     },
+     {
+      "m": 20,
+      "v": 30.8
+     },
+     {
+      "m": 21,
+      "v": 36.1
+     },
+     {
+      "m": 22,
+      "v": 35.8
+     },
+     {
+      "m": 23,
+      "v": 42.2
+     },
+     {
+      "m": 24,
+      "v": 52.5
+     },
+     {
+      "m": 25,
+      "v": 47.0
+     },
+     {
+      "m": 26,
+      "v": 35.6
+     },
+     {
+      "m": 27,
+      "v": 12.5
+     },
+     {
+      "m": 28,
+      "v": 13.2
+     },
+     {
+      "m": 29,
+      "v": 16.6
+     },
+     {
+      "m": 30,
+      "v": 18.9
+     },
+     {
+      "m": 31,
+      "v": 47.2
+     }
+    ],
+    "autoOpr": [
+     {
+      "m": 9,
+      "v": 10.3
+     },
+     {
+      "m": 10,
+      "v": 10.1
+     },
+     {
+      "m": 11,
+      "v": 9.6
+     },
+     {
+      "m": 12,
+      "v": 11.2
+     },
+     {
+      "m": 13,
+      "v": 11.1
+     },
+     {
+      "m": 14,
+      "v": 15.2
+     },
+     {
+      "m": 15,
+      "v": 16.4
+     },
+     {
+      "m": 16,
+      "v": 16.2
+     },
+     {
+      "m": 17,
+      "v": 13.9
+     },
+     {
+      "m": 18,
+      "v": 13.4
+     },
+     {
+      "m": 19,
+      "v": 11.9
+     },
+     {
+      "m": 20,
+      "v": 16.5
+     },
+     {
+      "m": 21,
+      "v": 12.5
+     },
+     {
+      "m": 22,
+      "v": 13.5
+     },
+     {
+      "m": 23,
+      "v": 14.4
+     },
+     {
+      "m": 24,
+      "v": 16.2
+     },
+     {
+      "m": 25,
+      "v": 14.9
+     },
+     {
+      "m": 26,
+      "v": 11.9
+     },
+     {
+      "m": 27,
+      "v": 1.1
+     },
+     {
+      "m": 28,
+      "v": -0.2
+     },
+     {
+      "m": 29,
+      "v": -1.9
+     },
+     {
+      "m": 30,
+      "v": -1.7
+     },
+     {
+      "m": 31,
+      "v": 5.6
+     }
+    ],
+    "teleopOpr": [
+     {
+      "m": 9,
+      "v": 34.5
+     },
+     {
+      "m": 10,
+      "v": 34.1
+     },
+     {
+      "m": 11,
+      "v": 34.3
+     },
+     {
+      "m": 12,
+      "v": 34.7
+     },
+     {
+      "m": 13,
+      "v": 35.6
+     },
+     {
+      "m": 14,
+      "v": 27.8
+     },
+     {
+      "m": 15,
+      "v": 30.0
+     },
+     {
+      "m": 16,
+      "v": 18.2
+     },
+     {
+      "m": 17,
+      "v": 11.0
+     },
+     {
+      "m": 18,
+      "v": 10.9
+     },
+     {
+      "m": 19,
+      "v": 5.8
+     },
+     {
+      "m": 20,
+      "v": 15.5
+     },
+     {
+      "m": 21,
+      "v": 24.3
+     },
+     {
+      "m": 22,
+      "v": 22.1
+     },
+     {
+      "m": 23,
+      "v": 28.2
+     },
+     {
+      "m": 24,
+      "v": 41.1
+     },
+     {
+      "m": 25,
+      "v": 36.4
+     },
+     {
+      "m": 26,
+      "v": 27.6
+     },
+     {
+      "m": 27,
+      "v": 14.4
+     },
+     {
+      "m": 28,
+      "v": 16.2
+     },
+     {
+      "m": 29,
+      "v": 21.7
+     },
+     {
+      "m": 30,
+      "v": 21.8
+     },
+     {
+      "m": 31,
+      "v": 43.1
+     }
+    ],
+    "fuelOpr": [
+     {
+      "m": 9,
+      "v": 44.8
+     },
+     {
+      "m": 10,
+      "v": 44.2
+     },
+     {
+      "m": 11,
+      "v": 44.0
+     },
+     {
+      "m": 12,
+      "v": 45.9
+     },
+     {
+      "m": 13,
+      "v": 46.7
+     },
+     {
+      "m": 14,
+      "v": 43.0
+     },
+     {
+      "m": 15,
+      "v": 46.4
+     },
+     {
+      "m": 16,
+      "v": 34.5
+     },
+     {
+      "m": 17,
+      "v": 24.9
+     },
+     {
+      "m": 18,
+      "v": 24.3
+     },
+     {
+      "m": 19,
+      "v": 17.7
+     },
+     {
+      "m": 20,
+      "v": 32.0
+     },
+     {
+      "m": 21,
+      "v": 36.8
+     },
+     {
+      "m": 22,
+      "v": 35.7
+     },
+     {
+      "m": 23,
+      "v": 42.6
+     },
+     {
+      "m": 24,
+      "v": 57.3
+     },
+     {
+      "m": 25,
+      "v": 51.3
+     },
+     {
+      "m": 26,
+      "v": 39.5
+     },
+     {
+      "m": 27,
+      "v": 15.5
+     },
+     {
+      "m": 28,
+      "v": 16.0
+     },
+     {
+      "m": 29,
+      "v": 19.8
+     },
+     {
+      "m": 30,
+      "v": 20.1
+     },
+     {
+      "m": 31,
+      "v": 48.7
+     }
+    ],
+    "towerOpr": [
+     {
+      "m": 9,
+      "v": 0.0
+     },
+     {
+      "m": 10,
+      "v": 0.0
+     },
+     {
+      "m": 11,
+      "v": 0.0
+     },
+     {
+      "m": 12,
+      "v": 0.0
+     },
+     {
+      "m": 13,
+      "v": 0.0
+     },
+     {
+      "m": 14,
+      "v": 0.0
+     },
+     {
+      "m": 15,
+      "v": 0.0
+     },
+     {
+      "m": 16,
+      "v": 0.0
+     },
+     {
+      "m": 17,
+      "v": 0.0
+     },
+     {
+      "m": 18,
+      "v": 0.0
+     },
+     {
+      "m": 19,
+      "v": 0.0
+     },
+     {
+      "m": 20,
+      "v": 0.0
+     },
+     {
+      "m": 21,
+      "v": 0.0
+     },
+     {
+      "m": 22,
+      "v": 0.0
+     },
+     {
+      "m": 23,
+      "v": 0.0
+     },
+     {
+      "m": 24,
+      "v": 0.0
+     },
+     {
+      "m": 25,
+      "v": 0.0
+     },
+     {
+      "m": 26,
+      "v": 0.0
+     },
+     {
+      "m": 27,
+      "v": 0.0
+     },
+     {
+      "m": 28,
+      "v": 0.0
+     },
+     {
+      "m": 29,
+      "v": 0.0
+     },
+     {
+      "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
+      "v": 0.0
+     }
+    ]
+   },
+   "matches": [
+    {
+     "level": "qual",
+     "num": 4,
+     "color": "Blue",
+     "partners": [
+      5823,
+      11019
+     ],
+     "opponents": [
+      5849,
+      11118,
+      5516
+     ],
+     "allianceScore": 217.0,
+     "oppScore": 66.0,
+     "win": true,
+     "breakdown": {
+      "auto": 38.0,
+      "teleop": 179.0,
+      "tower": 0.0,
+      "fuel": 217.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 9,
+     "color": "Red",
+     "partners": [
+      7002,
+      6399
+     ],
+     "opponents": [
+      6353,
+      11352,
+      11256
+     ],
+     "allianceScore": 150.0,
+     "oppScore": 73.0,
+     "win": true,
+     "breakdown": {
+      "auto": 41.0,
+      "teleop": 109.0,
+      "tower": 0.0,
+      "fuel": 150.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 21,
+     "color": "Blue",
+     "partners": [
+      5516,
+      10000
+     ],
+     "opponents": [
+      6433,
+      9992,
+      6941
+     ],
+     "allianceScore": 87.0,
+     "oppScore": 122.0,
+     "win": false,
+     "breakdown": {
+      "auto": 27.0,
+      "teleop": 40.0,
+      "tower": 0.0,
+      "fuel": 67.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 27,
+     "color": "Red",
+     "partners": [
+      9992,
+      6487
+     ],
+     "opponents": [
+      9635,
+      5449,
+      11328
+     ],
+     "allianceScore": 66.0,
+     "oppScore": 209.0,
+     "win": false,
+     "breakdown": {
+      "auto": 21.0,
+      "teleop": 45.0,
+      "tower": 0.0,
+      "fuel": 66.0
+     }
+    },
+    {
+     "level": "qual",
+     "num": 31,
+     "color": "Blue",
+     "partners": [
+      6394,
+      5449
+     ],
+     "opponents": [
+      9999,
+      5515,
+      8011
+     ],
+     "allianceScore": 155.0,
+     "oppScore": 186.0,
+     "win": false,
+     "breakdown": {
+      "auto": 31.0,
+      "teleop": 124.0,
+      "tower": 0.0,
+      "fuel": 155.0
+     }
+    }
+   ]
+  },
+  {
    "team": 9996,
    "name": "Off-Season Demo Team 9996",
    "school": "",
@@ -19467,24 +20262,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 51.53,
-    "autoOpr": 5.77,
-    "teleopOpr": 50.74,
+    "opr": 55.66,
+    "autoOpr": 6.97,
+    "teleopOpr": 53.72,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 56.52,
-    "fuelCountOpr": 57.08,
-    "autoFuelOpr": 5.77,
-    "teleopFuelOpr": 50.74,
-    "transitionOpr": 6.74,
-    "endgameFuelOpr": 3.28,
-    "shift1Opr": 3.74,
-    "shift2Opr": 13.24,
-    "shift3Opr": 5.72,
-    "shift4Opr": 18.02,
-    "dpr": 140.01,
-    "ccwm": -88.47,
+    "fuelOpr": 60.68,
+    "fuelCountOpr": 61.32,
+    "autoFuelOpr": 6.97,
+    "teleopFuelOpr": 53.72,
+    "transitionOpr": 6.62,
+    "endgameFuelOpr": 5.2,
+    "shift1Opr": 5.84,
+    "shift2Opr": 12.66,
+    "shift3Opr": 6.13,
+    "shift4Opr": 17.27,
+    "dpr": 141.12,
+    "ccwm": -85.46,
     "matchesPlayed": 4,
     "winRate": 25,
     "avgScore": 163.0,
@@ -19571,6 +20366,10 @@
      {
       "m": 30,
       "v": 51.5
+     },
+     {
+      "m": 31,
+      "v": 55.7
      }
     ],
     "autoOpr": [
@@ -19649,6 +20448,10 @@
      {
       "m": 30,
       "v": 5.8
+     },
+     {
+      "m": 31,
+      "v": 7.0
      }
     ],
     "teleopOpr": [
@@ -19727,6 +20530,10 @@
      {
       "m": 30,
       "v": 50.7
+     },
+     {
+      "m": 31,
+      "v": 53.7
      }
     ],
     "fuelOpr": [
@@ -19805,6 +20612,10 @@
      {
       "m": 30,
       "v": 56.5
+     },
+     {
+      "m": 31,
+      "v": 60.7
      }
     ],
     "towerOpr": [
@@ -19882,6 +20693,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -19993,24 +20808,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 6.37,
-    "autoOpr": 8.74,
-    "teleopOpr": -11.53,
+    "opr": 0.68,
+    "autoOpr": 7.98,
+    "teleopOpr": -16.59,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": -2.79,
-    "fuelCountOpr": -1.18,
-    "autoFuelOpr": 8.74,
-    "teleopFuelOpr": -11.53,
-    "transitionOpr": -5.13,
-    "endgameFuelOpr": -7.06,
-    "shift1Opr": 11.23,
-    "shift2Opr": 6.49,
-    "shift3Opr": -8.28,
-    "shift4Opr": -8.78,
-    "dpr": 158.37,
-    "ccwm": -152.0,
+    "fuelOpr": -8.61,
+    "fuelCountOpr": -7.16,
+    "autoFuelOpr": 7.98,
+    "teleopFuelOpr": -16.59,
+    "transitionOpr": -4.73,
+    "endgameFuelOpr": -10.46,
+    "shift1Opr": 9.03,
+    "shift2Opr": 7.13,
+    "shift3Opr": -8.72,
+    "shift4Opr": -8.84,
+    "dpr": 151.44,
+    "ccwm": -150.76,
     "matchesPlayed": 5,
     "winRate": 20,
     "avgScore": 141.8,
@@ -20113,6 +20928,10 @@
      {
       "m": 30,
       "v": 6.4
+     },
+     {
+      "m": 31,
+      "v": 0.7
      }
     ],
     "autoOpr": [
@@ -20207,6 +21026,10 @@
      {
       "m": 30,
       "v": 8.7
+     },
+     {
+      "m": 31,
+      "v": 8.0
      }
     ],
     "teleopOpr": [
@@ -20301,6 +21124,10 @@
      {
       "m": 30,
       "v": -11.5
+     },
+     {
+      "m": 31,
+      "v": -16.6
      }
     ],
     "fuelOpr": [
@@ -20395,6 +21222,10 @@
      {
       "m": 30,
       "v": -2.8
+     },
+     {
+      "m": 31,
+      "v": -8.6
      }
     ],
     "towerOpr": [
@@ -20488,6 +21319,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -20618,32 +21453,32 @@
    "rank": 37,
    "record": {
     "w": 1,
-    "l": 3,
+    "l": 4,
     "t": 0
    },
    "metrics": {
-    "opr": 5.89,
-    "autoOpr": -0.24,
-    "teleopOpr": 11.24,
+    "opr": 34.54,
+    "autoOpr": 7.58,
+    "teleopOpr": 32.37,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 11.0,
-    "fuelCountOpr": 8.05,
-    "autoFuelOpr": -0.24,
-    "teleopFuelOpr": 11.24,
-    "transitionOpr": 5.88,
-    "endgameFuelOpr": -0.27,
-    "shift1Opr": 3.42,
-    "shift2Opr": 0.07,
-    "shift3Opr": 4.5,
-    "shift4Opr": -2.36,
-    "dpr": -15.42,
-    "ccwm": 21.3,
-    "matchesPlayed": 4,
-    "winRate": 25,
-    "avgScore": 143.8,
-    "avgRp": 0.75,
+    "fuelOpr": 39.95,
+    "fuelCountOpr": 37.48,
+    "autoFuelOpr": 7.58,
+    "teleopFuelOpr": 32.37,
+    "transitionOpr": 4.93,
+    "endgameFuelOpr": 13.44,
+    "shift1Opr": 17.61,
+    "shift2Opr": -3.9,
+    "shift3Opr": 7.3,
+    "shift4Opr": -7.01,
+    "dpr": -4.93,
+    "ccwm": 39.47,
+    "matchesPlayed": 5,
+    "winRate": 20,
+    "avgScore": 146.0,
+    "avgRp": 0.6,
     "energizedRpRate": 0,
     "superchargedRpRate": 0,
     "traversalRpRate": 0,
@@ -20718,6 +21553,10 @@
      {
       "m": 30,
       "v": 5.9
+     },
+     {
+      "m": 31,
+      "v": 34.5
      }
     ],
     "autoOpr": [
@@ -20788,6 +21627,10 @@
      {
       "m": 30,
       "v": -0.2
+     },
+     {
+      "m": 31,
+      "v": 7.6
      }
     ],
     "teleopOpr": [
@@ -20858,6 +21701,10 @@
      {
       "m": 30,
       "v": 11.2
+     },
+     {
+      "m": 31,
+      "v": 32.4
      }
     ],
     "fuelOpr": [
@@ -20928,6 +21775,10 @@
      {
       "m": 30,
       "v": 11.0
+     },
+     {
+      "m": 31,
+      "v": 39.9
      }
     ],
     "towerOpr": [
@@ -20997,6 +21848,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -21093,6 +21948,29 @@
       "tower": 0.0,
       "fuel": 200.0
      }
+    },
+    {
+     "level": "qual",
+     "num": 31,
+     "color": "Blue",
+     "partners": [
+      5449,
+      9597
+     ],
+     "opponents": [
+      9999,
+      5515,
+      8011
+     ],
+     "allianceScore": 155.0,
+     "oppScore": 186.0,
+     "win": false,
+     "breakdown": {
+      "auto": 31.0,
+      "teleop": 124.0,
+      "tower": 0.0,
+      "fuel": 155.0
+     }
     }
    ]
   },
@@ -21108,24 +21986,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 40.6,
-    "autoOpr": 18.06,
-    "teleopOpr": 23.75,
+    "opr": 38.71,
+    "autoOpr": 16.16,
+    "teleopOpr": 23.86,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": 41.81,
-    "fuelCountOpr": 41.16,
-    "autoFuelOpr": 18.06,
-    "teleopFuelOpr": 23.75,
-    "transitionOpr": 5.38,
-    "endgameFuelOpr": 17.83,
-    "shift1Opr": -6.76,
-    "shift2Opr": 3.3,
-    "shift3Opr": -10.32,
-    "shift4Opr": 14.33,
-    "dpr": 153.81,
-    "ccwm": -113.21,
+    "fuelOpr": 40.02,
+    "fuelCountOpr": 39.47,
+    "autoFuelOpr": 16.16,
+    "teleopFuelOpr": 23.86,
+    "transitionOpr": 5.07,
+    "endgameFuelOpr": 18.11,
+    "shift1Opr": -8.77,
+    "shift2Opr": 3.81,
+    "shift3Opr": -10.7,
+    "shift4Opr": 16.34,
+    "dpr": 161.55,
+    "ccwm": -122.84,
     "matchesPlayed": 5,
     "winRate": 0,
     "avgScore": 175.8,
@@ -21208,6 +22086,10 @@
      {
       "m": 30,
       "v": 40.6
+     },
+     {
+      "m": 31,
+      "v": 38.7
      }
     ],
     "autoOpr": [
@@ -21282,6 +22164,10 @@
      {
       "m": 30,
       "v": 18.1
+     },
+     {
+      "m": 31,
+      "v": 16.2
      }
     ],
     "teleopOpr": [
@@ -21356,6 +22242,10 @@
      {
       "m": 30,
       "v": 23.8
+     },
+     {
+      "m": 31,
+      "v": 23.9
      }
     ],
     "fuelOpr": [
@@ -21430,6 +22320,10 @@
      {
       "m": 30,
       "v": 41.8
+     },
+     {
+      "m": 31,
+      "v": 40.0
      }
     ],
     "towerOpr": [
@@ -21503,6 +22397,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -21637,24 +22535,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": 8.07,
-    "autoOpr": -1.71,
-    "teleopOpr": 0.14,
+    "opr": 1.27,
+    "autoOpr": -2.46,
+    "teleopOpr": -6.06,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": -1.57,
-    "fuelCountOpr": -1.32,
-    "autoFuelOpr": -1.71,
-    "teleopFuelOpr": 0.14,
-    "transitionOpr": -4.87,
-    "endgameFuelOpr": 4.14,
-    "shift1Opr": 10.48,
-    "shift2Opr": -16.73,
-    "shift3Opr": 20.91,
-    "shift4Opr": -13.78,
-    "dpr": -37.87,
-    "ccwm": 45.94,
+    "fuelOpr": -8.53,
+    "fuelCountOpr": -8.5,
+    "autoFuelOpr": -2.46,
+    "teleopFuelOpr": -6.06,
+    "transitionOpr": -4.35,
+    "endgameFuelOpr": -0.05,
+    "shift1Opr": 7.97,
+    "shift2Opr": -15.99,
+    "shift3Opr": 20.4,
+    "shift4Opr": -14.03,
+    "dpr": -47.08,
+    "ccwm": 48.35,
     "matchesPlayed": 4,
     "winRate": 0,
     "avgScore": 132.8,
@@ -21741,6 +22639,10 @@
      {
       "m": 30,
       "v": 8.1
+     },
+     {
+      "m": 31,
+      "v": 1.3
      }
     ],
     "autoOpr": [
@@ -21819,6 +22721,10 @@
      {
       "m": 30,
       "v": -1.7
+     },
+     {
+      "m": 31,
+      "v": -2.5
      }
     ],
     "teleopOpr": [
@@ -21897,6 +22803,10 @@
      {
       "m": 30,
       "v": 0.1
+     },
+     {
+      "m": 31,
+      "v": -6.1
      }
     ],
     "fuelOpr": [
@@ -21975,6 +22885,10 @@
      {
       "m": 30,
       "v": -1.6
+     },
+     {
+      "m": 31,
+      "v": -8.5
      }
     ],
     "towerOpr": [
@@ -22052,6 +22966,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -22163,24 +23081,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": -5.63,
-    "autoOpr": 0.3,
-    "teleopOpr": -7.99,
+    "opr": -9.14,
+    "autoOpr": -1.9,
+    "teleopOpr": -9.23,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": -7.69,
-    "fuelCountOpr": -6.76,
-    "autoFuelOpr": 0.3,
-    "teleopFuelOpr": -7.99,
-    "transitionOpr": -2.0,
-    "endgameFuelOpr": 0.32,
-    "shift1Opr": 12.53,
-    "shift2Opr": -19.5,
-    "shift3Opr": 20.03,
-    "shift4Opr": -19.38,
-    "dpr": 160.17,
-    "ccwm": -165.8,
+    "fuelOpr": -11.13,
+    "fuelCountOpr": -10.14,
+    "autoFuelOpr": -1.9,
+    "teleopFuelOpr": -9.23,
+    "transitionOpr": -2.22,
+    "endgameFuelOpr": -0.3,
+    "shift1Opr": 9.83,
+    "shift2Opr": -18.78,
+    "shift3Opr": 19.51,
+    "shift4Opr": -17.28,
+    "dpr": 166.46,
+    "ccwm": -175.6,
     "matchesPlayed": 4,
     "winRate": 0,
     "avgScore": 75.8,
@@ -22267,6 +23185,10 @@
      {
       "m": 30,
       "v": -5.6
+     },
+     {
+      "m": 31,
+      "v": -9.1
      }
     ],
     "autoOpr": [
@@ -22345,6 +23267,10 @@
      {
       "m": 30,
       "v": 0.3
+     },
+     {
+      "m": 31,
+      "v": -1.9
      }
     ],
     "teleopOpr": [
@@ -22423,6 +23349,10 @@
      {
       "m": 30,
       "v": -8.0
+     },
+     {
+      "m": 31,
+      "v": -9.2
      }
     ],
     "fuelOpr": [
@@ -22501,6 +23431,10 @@
      {
       "m": 30,
       "v": -7.7
+     },
+     {
+      "m": 31,
+      "v": -11.1
      }
     ],
     "towerOpr": [
@@ -22578,6 +23512,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -22689,24 +23627,24 @@
     "t": 0
    },
    "metrics": {
-    "opr": -29.16,
-    "autoOpr": -11.86,
-    "teleopOpr": -11.73,
+    "opr": -22.29,
+    "autoOpr": -11.43,
+    "teleopOpr": -5.11,
     "towerOpr": 0.0,
     "autoTowerOpr": 0.0,
     "endgameTowerOpr": 0.0,
-    "fuelOpr": -23.59,
-    "fuelCountOpr": -23.82,
-    "autoFuelOpr": -11.86,
-    "teleopFuelOpr": -11.73,
-    "transitionOpr": -11.16,
-    "endgameFuelOpr": -2.07,
-    "shift1Opr": 1.55,
-    "shift2Opr": -1.0,
-    "shift3Opr": 9.58,
-    "shift4Opr": -8.61,
-    "dpr": 265.47,
-    "ccwm": -294.62,
+    "fuelOpr": -16.53,
+    "fuelCountOpr": -16.51,
+    "autoFuelOpr": -11.43,
+    "teleopFuelOpr": -5.11,
+    "transitionOpr": -11.78,
+    "endgameFuelOpr": 2.44,
+    "shift1Opr": 3.83,
+    "shift2Opr": -1.69,
+    "shift3Opr": 10.04,
+    "shift4Opr": -7.96,
+    "dpr": 276.75,
+    "ccwm": -299.04,
     "matchesPlayed": 4,
     "winRate": 0,
     "avgScore": 65.2,
@@ -22805,6 +23743,10 @@
      {
       "m": 30,
       "v": -29.2
+     },
+     {
+      "m": 31,
+      "v": -22.3
      }
     ],
     "autoOpr": [
@@ -22895,6 +23837,10 @@
      {
       "m": 30,
       "v": -11.9
+     },
+     {
+      "m": 31,
+      "v": -11.4
      }
     ],
     "teleopOpr": [
@@ -22985,6 +23931,10 @@
      {
       "m": 30,
       "v": -11.7
+     },
+     {
+      "m": 31,
+      "v": -5.1
      }
     ],
     "fuelOpr": [
@@ -23075,6 +24025,10 @@
      {
       "m": 30,
       "v": -23.6
+     },
+     {
+      "m": 31,
+      "v": -16.5
      }
     ],
     "towerOpr": [
@@ -23164,6 +24118,10 @@
      },
      {
       "m": 30,
+      "v": 0.0
+     },
+     {
+      "m": 31,
       "v": 0.0
      }
     ]
@@ -23286,11 +24244,11 @@
   {
    "rank": 3,
    "team": 8011,
-   "avgRp": 5.0,
-   "w": 4,
+   "avgRp": 4.6,
+   "w": 5,
    "l": 0,
    "t": 0,
-   "played": 4
+   "played": 5
   },
   {
    "rank": 4,
@@ -23475,14 +24433,23 @@
   {
    "rank": 24,
    "team": 9999,
-   "avgRp": 1.75,
-   "w": 1,
+   "avgRp": 2.0,
+   "w": 2,
    "l": 3,
    "t": 0,
-   "played": 4
+   "played": 5
   },
   {
    "rank": 25,
+   "team": 5515,
+   "avgRp": 1.8,
+   "w": 2,
+   "l": 3,
+   "t": 0,
+   "played": 5
+  },
+  {
+   "rank": 26,
    "team": 9992,
    "avgRp": 1.75,
    "w": 2,
@@ -23491,7 +24458,7 @@
    "played": 4
   },
   {
-   "rank": 26,
+   "rank": 27,
    "team": 6433,
    "avgRp": 1.6,
    "w": 2,
@@ -23500,7 +24467,7 @@
    "played": 5
   },
   {
-   "rank": 27,
+   "rank": 28,
    "team": 10000,
    "avgRp": 1.6,
    "w": 2,
@@ -23509,34 +24476,7 @@
    "played": 5
   },
   {
-   "rank": 28,
-   "team": 5515,
-   "avgRp": 1.5,
-   "w": 1,
-   "l": 3,
-   "t": 0,
-   "played": 4
-  },
-  {
    "rank": 29,
-   "team": 5449,
-   "avgRp": 1.5,
-   "w": 2,
-   "l": 2,
-   "t": 0,
-   "played": 4
-  },
-  {
-   "rank": 30,
-   "team": 9597,
-   "avgRp": 1.5,
-   "w": 2,
-   "l": 2,
-   "t": 0,
-   "played": 4
-  },
-  {
-   "rank": 31,
    "team": 10120,
    "avgRp": 1.4,
    "w": 1,
@@ -23545,7 +24485,7 @@
    "played": 5
   },
   {
-   "rank": 32,
+   "rank": 30,
    "team": 7002,
    "avgRp": 1.4,
    "w": 2,
@@ -23554,7 +24494,7 @@
    "played": 5
   },
   {
-   "rank": 33,
+   "rank": 31,
    "team": 6706,
    "avgRp": 1.25,
    "w": 1,
@@ -23563,11 +24503,29 @@
    "played": 4
   },
   {
-   "rank": 34,
+   "rank": 32,
    "team": 6353,
    "avgRp": 1.2,
    "w": 1,
    "l": 4,
+   "t": 0,
+   "played": 5
+  },
+  {
+   "rank": 33,
+   "team": 5449,
+   "avgRp": 1.2,
+   "w": 2,
+   "l": 3,
+   "t": 0,
+   "played": 5
+  },
+  {
+   "rank": 34,
+   "team": 9597,
+   "avgRp": 1.2,
+   "w": 2,
+   "l": 3,
    "t": 0,
    "played": 5
   },
@@ -23592,11 +24550,11 @@
   {
    "rank": 37,
    "team": 6394,
-   "avgRp": 0.75,
+   "avgRp": 0.6,
    "w": 1,
-   "l": 3,
+   "l": 4,
    "t": 0,
-   "played": 4
+   "played": 5
   },
   {
    "rank": 38,
@@ -25389,6 +26347,63 @@
      "rp": 2.0,
      "energized": true,
      "supercharged": true
+    }
+   }
+  },
+  {
+   "level": "qual",
+   "num": 31,
+   "desc": "Qualification 31",
+   "red": [
+    9999,
+    5515,
+    8011
+   ],
+   "blue": [
+    6394,
+    5449,
+    9597
+   ],
+   "redScore": 186.0,
+   "blueScore": 155.0,
+   "detail": {
+    "Red": {
+     "auto": 68.0,
+     "teleop": 113.0,
+     "tower": 0.0,
+     "autoTower": 0.0,
+     "endgameTower": 0.0,
+     "fuel": 181.0,
+     "fuelCount": 181.0,
+     "autoFuel": 68.0,
+     "teleopFuel": 113.0,
+     "transition": 38.0,
+     "endgameFuel": 8.0,
+     "shift1": 0.0,
+     "shift2": 48.0,
+     "shift3": 0.0,
+     "shift4": 19.0,
+     "foul": 5.0,
+     "rp": 3.0
+    },
+    "Blue": {
+     "auto": 31.0,
+     "teleop": 124.0,
+     "tower": 0.0,
+     "autoTower": 0.0,
+     "endgameTower": 0.0,
+     "fuel": 155.0,
+     "fuelCount": 155.0,
+     "autoFuel": 31.0,
+     "teleopFuel": 124.0,
+     "transition": 2.0,
+     "endgameFuel": 65.0,
+     "shift1": 56.0,
+     "shift2": 0.0,
+     "shift3": 1.0,
+     "shift4": 0.0,
+     "foul": 0.0,
+     "rp": 0.0
     }
    }
   }

@@ -123,6 +123,7 @@ async function boot() {
   bindTabs();
   bindControls();
   renderAll();
+  switchView(state.view); // ensure the default view is shown even if HTML/class is stale
 }
 
 function prepareMeta() {

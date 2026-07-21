@@ -408,8 +408,11 @@ def main():
         },
         "notes": build_notes(playoff, solved),
     }
-    matches_out = [{"level": m["level"], "num": m["num"], "red": m["red"], "blue": m["blue"],
-                    "redScore": m["redScore"], "blueScore": m["blueScore"]}
+    matches_out = [{"level": m["level"], "num": m["num"], "desc": m.get("desc"),
+                    "red": m["red"], "blue": m["blue"],
+                    "redScore": m["redScore"], "blueScore": m["blueScore"],
+                    "detail": {"Red": match_detail(m["comps"].get("Red")),
+                               "Blue": match_detail(m["comps"].get("Blue"))}}
                    for m in all_matches if m["played"]]
 
     out = {
@@ -430,6 +433,23 @@ def main():
     print("Metrics solved (%d): %s" % (len(solved), ", ".join(sorted(solved.keys()))))
 
 
+def match_detail(comp):
+    """JSON-friendly per-alliance score breakdown for the match-detail modal."""
+    if not comp:
+        return None
+    keys = ["auto", "teleop", "tower", "autoTower", "endgameTower", "fuel",
+            "fuelCount", "autoFuel", "teleopFuel", "transition", "endgameFuel",
+            "shift1", "shift2", "shift3", "shift4", "foul"]
+    d = {k: comp.get(k) for k in keys if comp.get(k) is not None}
+    if comp.get("_rpEarned") is not None:
+        d["rp"] = comp.get("_rpEarned")
+    rp = comp.get("_rp") or {}
+    for nm in ("energized", "supercharged", "traversal"):
+        if rp.get(nm):
+            d[nm] = True
+    return d
+
+
 def team_match_rows(tn, matches):
     rows = []
     for m in matches:
@@ -444,8 +464,8 @@ def team_match_rows(tn, matches):
         opps = m["blue"] if color == "Red" else m["red"]
         bd = m["comps"].get(color, {}) or {}
         rows.append({
-            "level": "Qualification" if m["level"] == "qual" else "Playoff",
-            "num": m["num"], "color": color, "partners": mates, "opponents": opps,
+            "level": m["level"], "num": m["num"], "color": color,
+            "partners": mates, "opponents": opps,
             "allianceScore": own, "oppScore": opp,
             "win": (own is not None and opp is not None and own > opp),
             "breakdown": {k: bd.get(k) for k in ("auto", "teleop", "tower", "fuel") if bd.get(k) is not None},
@@ -500,7 +520,7 @@ def fmt_dates(ev):
 def build_notes(playoff, solved):
     notes = []
     if not any(m["played"] for m in playoff):
-        notes.append("季后赛数据尚未产生或未开始；当前分析基于排位赛。")
+        notes.append("淘汰赛数据尚未产生或未开始；当前分析基于排位赛。")
     if any(k.startswith("shift") for k in solved):
         notes.append("数据源提供逐班次燃料明细，已计算“分班次 OPR”（转场 + 第1–4班次 + 终局窗口）。")
     notes.append("赛事进行中、样本较少时 OPR 波动较大（并肩作战的队友可能得到相近数值），随比赛增多会趋于稳定。")

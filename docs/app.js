@@ -100,7 +100,7 @@ document.addEventListener("click", (e) => {
   }
   if (!e.target.closest("#popover")) closePopover();
 });
-document.addEventListener("keydown", (e) => { if (e.key === "Escape") closePopover(); });
+document.addEventListener("keydown", (e) => { if (e.key === "Escape") { closePopover(); closeMatchModal(); } });
 window.addEventListener("resize", closePopover);
 
 /* --------------------------------------------------------------- init/load */
@@ -221,7 +221,7 @@ function renderNotes() {
   const notes = (m.notes || []).slice();
   if (m.isMock) notes.unshift("⚠️ 当前为占位示例数据，非真实比赛结果。");
   $("#ovCount").textContent = `${(state.data.teams || []).length} 支队伍 · 排位赛 ${m.counts?.qualPlayed ?? "?"}/${m.counts?.qualTotal ?? "?"} 场` +
-    (m.counts?.playoffPlayed ? ` · 季后赛 ${m.counts.playoffPlayed} 场` : "");
+    (m.counts?.playoffPlayed ? ` · 淘汰赛 ${m.counts.playoffPlayed} 场` : "");
   if (!notes.length) return;
   const b = el("div", { class: "banner" });
   b.append(el("b", {}, "说明 · Notes"));
@@ -447,20 +447,31 @@ function buildTeamMatches(t) {
     el("th", {}, "本方"), el("th", {}, "对方"), el("th", {}, "结果")));
   const tbody = el("tbody", {});
   t.matches.forEach(mm => {
-    tbody.append(el("tr", {},
+    const tr = el("tr", { style: "cursor:pointer" },
       el("td", { class: "left" }, matchLabel(mm)),
       el("td", { class: "left" }, el("span", { class: mm.color === "Red" ? "neg" : "" }, mm.color === "Red" ? "红" : "蓝")),
       el("td", { class: "left team-num" }, (mm.partners || []).join(", ") || "–"),
       el("td", { class: "left team-num" }, (mm.opponents || []).join(", ") || "–"),
       el("td", {}, mm.allianceScore ?? "–"),
       el("td", {}, mm.oppScore ?? "–"),
-      el("td", {}, el("span", { class: mm.win ? "pos" : "neg" }, mm.win ? "胜" : "负"))));
+      el("td", {}, el("span", { class: mm.win ? "pos" : "neg" }, mm.win ? "胜" : "负")));
+    tr.addEventListener("click", () => { const gm = findMatch(mm.level, mm.num); if (gm) openMatchModal(gm); });
+    tbody.append(tr);
   });
   table.append(thead, tbody); wrap.append(table); return wrap;
 }
 function matchLabel(mm) {
-  const map = { Qualification: "排位", Playoff: "季后", Final: "决赛" };
+  const map = { qual: "排位赛", playoff: "淘汰赛", Qualification: "排位赛", Playoff: "淘汰赛", Final: "决赛" };
   return (map[mm.level] || mm.level || "") + " " + (mm.num ?? "");
+}
+function officialMatchUrl(m) {
+  const s = (state.data.meta || {}).season || "2026";
+  const ev = (state.data.meta || {}).event || "";
+  const phase = m.level === "qual" ? "qualifications" : "playoffs";
+  return `https://frc-events.firstinspires.org/${s}/${ev}/${phase}/${m.num}`;
+}
+function findMatch(level, num) {
+  return (state.data.matches || []).find(m => m.level === level && m.num === num);
 }
 
 /* ------------------------------------------------------------------- charts */
@@ -539,35 +550,133 @@ function rerenderCharts() {
 /* ----------------------------------------------------------------- matches */
 function renderMatchSeg() {
   const seg = $("#matchSeg"); if (!seg) return; seg.innerHTML = "";
-  [["qual", "排位赛"], ["playoff", "季后赛"]].forEach(([k, lab]) => {
+  [["qual", "排位赛"], ["playoff", "淘汰赛"]].forEach(([k, lab]) => {
     const b = el("button", { class: state.matchLevel === k ? "active" : "", type: "button" }, lab);
     b.addEventListener("click", () => { state.matchLevel = k; renderMatchSeg(); renderMatches(); });
     seg.append(b);
   });
 }
 function renderMatches() {
-  const all = state.data.matches || [];
-  const lvl = state.matchLevel === "qual" ? "Qualification" : "Playoff";
-  const rows = all.filter(m => (m.level || "").startsWith(lvl === "Qualification" ? "Qual" : "Play") ||
-    (lvl === "Playoff" && /final/i.test(m.level || "")));
-  $("#mCount").textContent = rows.length + " 场";
+  const all = (state.data.matches || []).filter(m => m.level === state.matchLevel)
+    .sort((a, b) => (a.num || 0) - (b.num || 0));
+  $("#mCount").textContent = all.length + " 场";
   const head = $("#mHead"); head.innerHTML = "";
   head.append(el("tr", {},
     el("th", { class: "left" }, "场次"),
     el("th", { class: "left" }, "红方"), el("th", {}, "红分"),
-    el("th", {}, "蓝分"), el("th", { class: "left" }, "蓝方"), el("th", {}, "胜")));
+    el("th", {}, "蓝分"), el("th", { class: "left" }, "蓝方"), el("th", {}, "胜"), el("th", {}, "")));
   const body = $("#mBody"); body.innerHTML = "";
-  if (!rows.length) { body.append(el("tr", {}, el("td", { class: "left muted", colspan: 6 }, "暂无该阶段比赛数据。"))); return; }
-  rows.forEach(m => {
-    const redWin = (m.redScore ?? 0) > (m.blueScore ?? 0);
-    body.append(el("tr", {},
-      el("td", { class: "left" }, matchLabel({ level: m.level, num: m.num })),
+  if (!all.length) { body.append(el("tr", {}, el("td", { class: "left muted", colspan: 7 }, "暂无该阶段比赛数据。"))); return; }
+  all.forEach(m => {
+    const redWin = (m.redScore ?? -1) > (m.blueScore ?? -1);
+    const blueWin = (m.blueScore ?? -1) > (m.redScore ?? -1);
+    const tr = el("tr", { style: "cursor:pointer" });
+    tr.addEventListener("click", () => openMatchModal(m));
+    tr.append(
+      el("td", { class: "left nowrap" }, matchLabel(m)),
       el("td", { class: "left team-num" }, (m.red || []).join(", ")),
       el("td", { class: redWin ? "pos" : "" }, m.redScore ?? "–"),
-      el("td", { class: !redWin && m.blueScore != null ? "pos" : "" }, m.blueScore ?? "–"),
+      el("td", { class: blueWin ? "pos" : "" }, m.blueScore ?? "–"),
       el("td", { class: "left team-num" }, (m.blue || []).join(", ")),
-      el("td", {}, redWin ? "红" : (m.blueScore != null ? "蓝" : "–"))));
+      el("td", {}, redWin ? "红" : (blueWin ? "蓝" : "–")),
+      el("td", { style: "color:var(--accent)" }, "详情 ›"));
+    body.append(tr);
   });
+}
+
+// component-key -> label for the match-detail breakdown (order = display order)
+const BD_ROWS = [
+  ["auto", "自动总分"], ["teleop", "手动总分"], ["tower", "爬塔总分"],
+  ["fuel", "燃料(Hub)得分"], ["autoFuel", "自动投料"], ["teleopFuel", "手动投料"],
+  ["transition", "转场班次"], ["shift1", "第 1 班次"], ["shift2", "第 2 班次"],
+  ["shift3", "第 3 班次"], ["shift4", "第 4 班次"], ["endgameFuel", "终局投料"],
+  ["autoTower", "自动爬塔"], ["endgameTower", "终局爬塔"],
+  ["fuelCount", "燃料吞吐(个)"], ["foul", "获得犯规分"], ["rp", "排位分 RP"],
+];
+const RP_BADGES = [["energized", "Energized"], ["supercharged", "Supercharged"], ["traversal", "Traversal"]];
+
+function ensureMatchModal() {
+  let ov = document.getElementById("matchOverlay");
+  if (ov) return ov;
+  ov = el("div", { id: "matchOverlay", class: "overlay" });
+  ov.addEventListener("click", (e) => { if (e.target === ov) closeMatchModal(); });
+  const modal = el("div", { class: "modal card", id: "matchModal" });
+  ov.append(modal);
+  document.body.append(ov);
+  return ov;
+}
+function closeMatchModal() {
+  const ov = document.getElementById("matchOverlay");
+  if (ov) ov.classList.remove("show");
+}
+function openMatchModal(m) {
+  closePopover();
+  const ov = ensureMatchModal();
+  const modal = document.getElementById("matchModal");
+  modal.innerHTML = "";
+  const rd = (m.detail && m.detail.Red) || {}, bd = (m.detail && m.detail.Blue) || {};
+  const redWin = (m.redScore ?? -1) > (m.blueScore ?? -1);
+  const blueWin = (m.blueScore ?? -1) > (m.redScore ?? -1);
+
+  // header
+  const head = el("div", { class: "modal-head" });
+  head.append(el("div", {},
+    el("div", { class: "modal-title" }, matchLabel(m)),
+    el("a", { class: "official-link", href: officialMatchUrl(m), target: "_blank", rel: "noopener" }, "官方明细 ↗")));
+  head.append(el("button", { class: "icon-btn", "aria-label": "关闭", onclick: closeMatchModal }, "✕"));
+  modal.append(head);
+
+  // scoreboard
+  const sb = el("div", { class: "scoreboard" });
+  sb.append(allianceHead("红方", m.red, m.redScore, redWin, "red"));
+  sb.append(el("div", { class: "vs" }, "VS"));
+  sb.append(allianceHead("蓝方", m.blue, m.blueScore, blueWin, "blue"));
+  modal.append(sb);
+
+  // RP badges
+  const badgeRow = el("div", { class: "badge-row" });
+  [["red", rd], ["blue", bd]].forEach(([side, d]) => {
+    const got = RP_BADGES.filter(([k]) => d[k]);
+    if (got.length) badgeRow.append(el("div", { class: "badges " + side },
+      ...got.map(([, lab]) => el("span", { class: "badge " + side }, lab))));
+  });
+  if (badgeRow.children.length) modal.append(badgeRow);
+
+  // breakdown comparison table
+  const rows = BD_ROWS.filter(([k]) => rd[k] != null || bd[k] != null);
+  if (rows.length) {
+    const tbl = el("table", { class: "bd-table" });
+    tbl.append(el("thead", {}, el("tr", {},
+      el("th", { class: "r" }, "红"), el("th", { class: "c" }, "项目"), el("th", { class: "l" }, "蓝"))));
+    const tb = el("tbody", {});
+    rows.forEach(([k, lab]) => {
+      const rv = rd[k], bv = bd[k];
+      const rMore = rv != null && bv != null && rv > bv;
+      const bMore = rv != null && bv != null && bv > rv;
+      tb.append(el("tr", {},
+        el("td", { class: "r " + (rMore ? "hi-red" : "") }, fmtBd(rv)),
+        el("td", { class: "c" }, lab),
+        el("td", { class: "l " + (bMore ? "hi-blue" : "") }, fmtBd(bv))));
+    });
+    tbl.append(tb);
+    modal.append(el("div", { class: "bd-wrap" }, tbl));
+  } else {
+    modal.append(el("p", { class: "muted small" }, "该场暂无得分明细。"));
+  }
+  modal.append(el("div", { class: "muted small", style: "margin-top:10px" },
+    "点击“官方明细”可在 FRC Events 官网查看该场完整记录。"));
+  ov.classList.add("show");
+}
+function allianceHead(name, teams, score, win, side) {
+  return el("div", { class: "al " + side + (win ? " win" : "") },
+    el("div", { class: "al-name" }, name, win ? el("span", { class: "wintag" }, "胜") : null),
+    el("div", { class: "al-score" }, score ?? "–"),
+    el("div", { class: "al-teams team-num" }, (teams || []).join("  ")));
+}
+function fmtBd(v) {
+  if (v === true) return "✓";
+  if (v == null) return "–";
+  return Number.isInteger(v) ? String(v) : String(Math.round(v * 10) / 10);
 }
 
 /* ---------------------------------------------------------------- glossary */
@@ -615,7 +724,7 @@ function renderAbout() {
     <h3>局限性</h3>
     <ul>
       <li>OPR 假设“联盟得分 = 各队贡献之和”，忽略了配合增益、防守干扰等交互效应。</li>
-      <li>比赛场次较少时（尤其赛事早期或季后赛），OPR 噪声较大，请谨慎解读。</li>
+      <li>比赛场次较少时（尤其赛事早期或淘汰赛），OPR 噪声较大，请谨慎解读。</li>
       <li>本站为独立分析工具，与 FIRST® 官方无隶属关系。</li>
     </ul>
     <p class="muted small">生成时间：${escapeHtml(m.generatedAt || "")} · 数据源：${escapeHtml(m.dataSource || "FRC Events API")}</p>

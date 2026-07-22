@@ -52,17 +52,17 @@
           "surrogate": false
         },
         {
-          "teamNumber": 9635,
+          "teamNumber": 9992,
           "station": "Red2",
           "surrogate": false
         },
         {
-          "teamNumber": 9992,
+          "teamNumber": 9635,
           "station": "Red3",
           "surrogate": false
         },
         {
-          "teamNumber": 6940,
+          "teamNumber": 9994,
           "station": "Blue1",
           "surrogate": false
         },
@@ -72,7 +72,7 @@
           "surrogate": false
         },
         {
-          "teamNumber": 9994,
+          "teamNumber": 6940,
           "station": "Blue3",
           "surrogate": false
         }
@@ -179,17 +179,17 @@
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 6766,
           "station": "Blue1",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 9992,
           "station": "Blue2",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 9635,
           "station": "Blue3",
           "surrogate": false
         }
@@ -257,17 +257,17 @@
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 9994,
           "station": "Blue1",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 10479,
           "station": "Blue2",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 6940,
           "station": "Blue3",
           "surrogate": false
         }

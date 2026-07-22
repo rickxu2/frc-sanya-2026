@@ -437,17 +437,17 @@
       "tournamentLevel": "Playoff",
       "teams": [
         {
-          "teamNumber": null,
+          "teamNumber": 9995,
           "station": "Red1",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 6487,
           "station": "Red2",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 9597,
           "station": "Red3",
           "surrogate": false
         },

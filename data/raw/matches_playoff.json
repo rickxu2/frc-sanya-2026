@@ -533,16 +533,16 @@
       "matchVideoLink": null,
       "description": "Match 12 (R4)",
       "matchNumber": 12,
-      "scoreRedFinal": null,
-      "scoreRedFoul": null,
-      "scoreRedAuto": null,
-      "scoreBlueFinal": null,
-      "scoreBlueFoul": null,
-      "scoreBlueAuto": null,
-      "autoStartTime": "2026-07-22T03:42:00",
-      "actualStartTime": null,
+      "scoreRedFinal": 267,
+      "scoreRedFoul": 0,
+      "scoreRedAuto": 22,
+      "scoreBlueFinal": 402,
+      "scoreBlueFoul": 50,
+      "scoreBlueAuto": 16,
+      "autoStartTime": "2026-07-22T04:20:42.85",
+      "actualStartTime": "2026-07-22T04:20:42.85",
       "tournamentLevel": "Playoff",
-      "postResultTime": null,
+      "postResultTime": "2026-07-22T04:24:31.823",
       "teams": [
         {
           "teamNumber": 9995,
@@ -608,17 +608,17 @@
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 6907,
           "station": "Blue1",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 5823,
           "station": "Blue2",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 6941,
           "station": "Blue3",
           "dq": false
         }

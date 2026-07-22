@@ -197,16 +197,16 @@
       "matchVideoLink": null,
       "description": "Match 5 (R2)",
       "matchNumber": 5,
-      "scoreRedFinal": null,
-      "scoreRedFoul": null,
-      "scoreRedAuto": null,
-      "scoreBlueFinal": null,
-      "scoreBlueFoul": null,
-      "scoreBlueAuto": null,
-      "autoStartTime": "2026-07-22T02:18:00",
-      "actualStartTime": null,
+      "scoreRedFinal": 345,
+      "scoreRedFoul": 0,
+      "scoreRedAuto": 86,
+      "scoreBlueFinal": 326,
+      "scoreBlueFoul": 0,
+      "scoreBlueAuto": 109,
+      "autoStartTime": "2026-07-22T02:36:29.713",
+      "actualStartTime": "2026-07-22T02:36:29.713",
       "tournamentLevel": "Playoff",
-      "postResultTime": null,
+      "postResultTime": "2026-07-22T02:43:37.537",
       "teams": [
         {
           "teamNumber": 9995,
@@ -464,17 +464,17 @@
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 9995,
           "station": "Blue1",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 6487,
           "station": "Blue2",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 9597,
           "station": "Blue3",
           "dq": false
         }

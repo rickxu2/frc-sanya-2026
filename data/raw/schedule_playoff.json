@@ -476,17 +476,17 @@
       "tournamentLevel": "Playoff",
       "teams": [
         {
-          "teamNumber": null,
+          "teamNumber": 7002,
           "station": "Red1",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 9997,
           "station": "Red2",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 11118,
           "station": "Red3",
           "surrogate": false
         },
@@ -515,17 +515,17 @@
       "tournamentLevel": "Playoff",
       "teams": [
         {
-          "teamNumber": null,
+          "teamNumber": 9996,
           "station": "Red1",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 8214,
           "station": "Red2",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 8810,
           "station": "Red3",
           "surrogate": false
         },
@@ -554,17 +554,17 @@
       "tournamentLevel": "Playoff",
       "teams": [
         {
-          "teamNumber": null,
+          "teamNumber": 9996,
           "station": "Red1",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 8214,
           "station": "Red2",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 8810,
           "station": "Red3",
           "surrogate": false
         },
@@ -593,17 +593,17 @@
       "tournamentLevel": "Playoff",
       "teams": [
         {
-          "teamNumber": null,
+          "teamNumber": 9996,
           "station": "Red1",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 8214,
           "station": "Red2",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 8810,
           "station": "Red3",
           "surrogate": false
         },

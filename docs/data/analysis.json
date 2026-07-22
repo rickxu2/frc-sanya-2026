@@ -9,7 +9,7 @@
   "city": "Sanya",
   "season": "2026",
   "gameName": "REBUILT presented by Haas",
-  "generatedAt": "2026-07-22T07:55:34Z",
+  "generatedAt": "2026-07-22T08:05:55Z",
   "dataSource": "FRC Events API",
   "isMock": false,
   "counts": {
@@ -17,7 +17,7 @@
    "teamsPlayed": 41,
    "qualPlayed": 48,
    "qualTotal": 48,
-   "playoffPlayed": 10
+   "playoffPlayed": 11
   },
   "notes": [
    "数据源提供逐班次燃料明细，已计算“分班次 OPR”（转场 + 第1–4班次 + 终局窗口）。",
@@ -1346,6 +1346,29 @@
       "tower": 0.0,
       "fuel": 709.0
      }
+    },
+    {
+     "level": "playoff",
+     "num": 11,
+     "color": "Red",
+     "partners": [
+      9996,
+      8810
+     ],
+     "opponents": [
+      7002,
+      9997,
+      11118
+     ],
+     "allianceScore": 636.0,
+     "oppScore": 404.0,
+     "win": true,
+     "breakdown": {
+      "auto": 129.0,
+      "teleop": 502.0,
+      "tower": 0.0,
+      "fuel": 631.0
+     }
     }
    ]
   },
@@ -2326,6 +2349,29 @@
       "teleop": 296.0,
       "tower": 0.0,
       "fuel": 356.0
+     }
+    },
+    {
+     "level": "playoff",
+     "num": 11,
+     "color": "Blue",
+     "partners": [
+      7002,
+      11118
+     ],
+     "opponents": [
+      9996,
+      8214,
+      8810
+     ],
+     "allianceScore": 404.0,
+     "oppScore": 636.0,
+     "win": false,
+     "breakdown": {
+      "auto": 57.0,
+      "teleop": 347.0,
+      "tower": 0.0,
+      "fuel": 404.0
      }
     }
    ]
@@ -5315,6 +5361,29 @@
       "teleop": 555.0,
       "tower": 0.0,
       "fuel": 709.0
+     }
+    },
+    {
+     "level": "playoff",
+     "num": 11,
+     "color": "Red",
+     "partners": [
+      9996,
+      8214
+     ],
+     "opponents": [
+      7002,
+      9997,
+      11118
+     ],
+     "allianceScore": 636.0,
+     "oppScore": 404.0,
+     "win": true,
+     "breakdown": {
+      "auto": 129.0,
+      "teleop": 502.0,
+      "tower": 0.0,
+      "fuel": 631.0
      }
     }
    ]
@@ -8501,6 +8570,29 @@
       "teleop": 296.0,
       "tower": 0.0,
       "fuel": 356.0
+     }
+    },
+    {
+     "level": "playoff",
+     "num": 11,
+     "color": "Blue",
+     "partners": [
+      7002,
+      9997
+     ],
+     "opponents": [
+      9996,
+      8214,
+      8810
+     ],
+     "allianceScore": 404.0,
+     "oppScore": 636.0,
+     "win": false,
+     "breakdown": {
+      "auto": 57.0,
+      "teleop": 347.0,
+      "tower": 0.0,
+      "fuel": 404.0
      }
     }
    ]
@@ -28218,6 +28310,29 @@
       "tower": 0.0,
       "fuel": 356.0
      }
+    },
+    {
+     "level": "playoff",
+     "num": 11,
+     "color": "Blue",
+     "partners": [
+      9997,
+      11118
+     ],
+     "opponents": [
+      9996,
+      8214,
+      8810
+     ],
+     "allianceScore": 404.0,
+     "oppScore": 636.0,
+     "win": false,
+     "breakdown": {
+      "auto": 57.0,
+      "teleop": 347.0,
+      "tower": 0.0,
+      "fuel": 404.0
+     }
     }
    ]
   },
@@ -38958,6 +39073,29 @@
       "tower": 0.0,
       "fuel": 709.0
      }
+    },
+    {
+     "level": "playoff",
+     "num": 11,
+     "color": "Red",
+     "partners": [
+      8214,
+      8810
+     ],
+     "opponents": [
+      7002,
+      9997,
+      11118
+     ],
+     "allianceScore": 636.0,
+     "oppScore": 404.0,
+     "win": true,
+     "breakdown": {
+      "auto": 129.0,
+      "teleop": 502.0,
+      "tower": 0.0,
+      "fuel": 631.0
+     }
     }
    ]
   },
@@ -45714,6 +45852,63 @@
      "shift3": 68.0,
      "shift4": 0.0,
      "foul": 5.0,
+     "rp": 0.0
+    }
+   }
+  },
+  {
+   "level": "playoff",
+   "num": 11,
+   "desc": "Match 11 (R4)",
+   "red": [
+    9996,
+    8214,
+    8810
+   ],
+   "blue": [
+    7002,
+    9997,
+    11118
+   ],
+   "redScore": 636.0,
+   "blueScore": 404.0,
+   "detail": {
+    "Red": {
+     "auto": 129.0,
+     "teleop": 502.0,
+     "tower": 0.0,
+     "autoTower": 0.0,
+     "endgameTower": 0.0,
+     "fuel": 631.0,
+     "fuelCount": 631.0,
+     "autoFuel": 129.0,
+     "teleopFuel": 502.0,
+     "transition": 76.0,
+     "endgameFuel": 155.0,
+     "shift1": 0.0,
+     "shift2": 191.0,
+     "shift3": 0.0,
+     "shift4": 80.0,
+     "foul": 5.0,
+     "rp": 0.0
+    },
+    "Blue": {
+     "auto": 57.0,
+     "teleop": 347.0,
+     "tower": 0.0,
+     "autoTower": 0.0,
+     "endgameTower": 0.0,
+     "fuel": 404.0,
+     "fuelCount": 406.0,
+     "autoFuel": 57.0,
+     "teleopFuel": 347.0,
+     "transition": 41.0,
+     "endgameFuel": 128.0,
+     "shift1": 62.0,
+     "shift2": 0.0,
+     "shift3": 116.0,
+     "shift4": 0.0,
+     "foul": 0.0,
      "rp": 0.0
     }
    }

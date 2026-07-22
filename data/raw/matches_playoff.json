@@ -389,16 +389,16 @@
       "matchVideoLink": null,
       "description": "Match 9 (R3)",
       "matchNumber": 9,
-      "scoreRedFinal": null,
-      "scoreRedFoul": null,
-      "scoreRedAuto": null,
-      "scoreBlueFinal": null,
-      "scoreBlueFoul": null,
-      "scoreBlueAuto": null,
-      "autoStartTime": "2026-07-22T03:06:00",
-      "actualStartTime": null,
+      "scoreRedFinal": 98,
+      "scoreRedFoul": 0,
+      "scoreRedAuto": 25,
+      "scoreBlueFinal": 447,
+      "scoreBlueFoul": 0,
+      "scoreBlueAuto": 79,
+      "autoStartTime": "2026-07-22T03:30:15.357",
+      "actualStartTime": "2026-07-22T03:30:15.357",
       "tournamentLevel": "Playoff",
-      "postResultTime": null,
+      "postResultTime": "2026-07-22T03:38:15.883",
       "teams": [
         {
           "teamNumber": 9994,
@@ -560,17 +560,17 @@
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 6907,
           "station": "Blue1",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 5823,
           "station": "Blue2",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 6941,
           "station": "Blue3",
           "dq": false
         }

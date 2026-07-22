@@ -341,16 +341,16 @@
       "matchVideoLink": null,
       "description": "Match 8 (R2)",
       "matchNumber": 8,
-      "scoreRedFinal": null,
-      "scoreRedFoul": null,
-      "scoreRedAuto": null,
-      "scoreBlueFinal": null,
-      "scoreBlueFoul": null,
-      "scoreBlueAuto": null,
-      "autoStartTime": "2026-07-22T02:54:00",
-      "actualStartTime": null,
+      "scoreRedFinal": 356,
+      "scoreRedFoul": 0,
+      "scoreRedAuto": 60,
+      "scoreBlueFinal": 212,
+      "scoreBlueFoul": 5,
+      "scoreBlueAuto": 69,
+      "autoStartTime": "2026-07-22T03:15:26.107",
+      "actualStartTime": "2026-07-22T03:15:26.107",
       "tournamentLevel": "Playoff",
-      "postResultTime": null,
+      "postResultTime": "2026-07-22T03:22:38.14",
       "teams": [
         {
           "teamNumber": 7002,
@@ -449,17 +449,17 @@
       "postResultTime": null,
       "teams": [
         {
-          "teamNumber": 0,
+          "teamNumber": 11328,
           "station": "Red1",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 6494,
           "station": "Red2",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 8011,
           "station": "Red3",
           "dq": false
         },
@@ -512,17 +512,17 @@
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 7002,
           "station": "Blue1",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 9997,
           "station": "Blue2",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 11118,
           "station": "Blue3",
           "dq": false
         }

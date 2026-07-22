@@ -9,7 +9,7 @@
   "city": "Sanya",
   "season": "2026",
   "gameName": "REBUILT presented by Haas",
-  "generatedAt": "2026-07-22T03:45:35Z",
+  "generatedAt": "2026-07-22T04:20:35Z",
   "dataSource": "FRC Events API",
   "isMock": false,
   "counts": {
@@ -40879,7 +40879,88 @@
    "played": 7
   }
  ],
- "alliances": [],
+ "alliances": [
+  {
+   "number": 1,
+   "captain": 8214,
+   "round1": 8810,
+   "round2": 9996,
+   "round3": null,
+   "backup": null,
+   "backupReplaced": null,
+   "name": "Alliance 1"
+  },
+  {
+   "number": 2,
+   "captain": 9997,
+   "round1": 11118,
+   "round2": 7002,
+   "round3": null,
+   "backup": null,
+   "backupReplaced": null,
+   "name": "Alliance 2"
+  },
+  {
+   "number": 3,
+   "captain": 11328,
+   "round1": 8011,
+   "round2": 6494,
+   "round3": null,
+   "backup": null,
+   "backupReplaced": null,
+   "name": "Alliance 3"
+  },
+  {
+   "number": 4,
+   "captain": 9635,
+   "round1": 6766,
+   "round2": 9992,
+   "round3": null,
+   "backup": null,
+   "backupReplaced": null,
+   "name": "Alliance 4"
+  },
+  {
+   "number": 5,
+   "captain": 10479,
+   "round1": 6940,
+   "round2": 9994,
+   "round3": null,
+   "backup": null,
+   "backupReplaced": null,
+   "name": "Alliance 5"
+  },
+  {
+   "number": 6,
+   "captain": 6907,
+   "round1": 6941,
+   "round2": 5823,
+   "round3": null,
+   "backup": null,
+   "backupReplaced": null,
+   "name": "Alliance 6"
+  },
+  {
+   "number": 7,
+   "captain": 9991,
+   "round1": 10541,
+   "round2": 11019,
+   "round3": null,
+   "backup": null,
+   "backupReplaced": null,
+   "name": "Alliance 7"
+  },
+  {
+   "number": 8,
+   "captain": 9995,
+   "round1": 9597,
+   "round2": 6487,
+   "round3": null,
+   "backup": null,
+   "backupReplaced": null,
+   "name": "Alliance 8"
+  }
+ ],
  "matches": [
   {
    "level": "qual",

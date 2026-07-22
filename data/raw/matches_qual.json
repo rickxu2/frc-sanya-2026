@@ -1767,7 +1767,7 @@
         {
           "teamNumber": 9994,
           "station": "Blue2",
-          "dq": false
+          "dq": true
         },
         {
           "teamNumber": 9997,
@@ -1781,16 +1781,16 @@
       "matchVideoLink": null,
       "description": "Qualification 38",
       "matchNumber": 38,
-      "scoreRedFinal": null,
-      "scoreRedFoul": null,
-      "scoreRedAuto": null,
-      "scoreBlueFinal": null,
-      "scoreBlueFoul": null,
-      "scoreBlueAuto": null,
-      "autoStartTime": "2026-07-21T21:12:00",
-      "actualStartTime": null,
+      "scoreRedFinal": 3,
+      "scoreRedFoul": 0,
+      "scoreRedAuto": 2,
+      "scoreBlueFinal": 97,
+      "scoreBlueFoul": 0,
+      "scoreBlueAuto": 48,
+      "autoStartTime": "2026-07-21T21:16:07.67",
+      "actualStartTime": "2026-07-21T21:16:07.67",
       "tournamentLevel": "Qualification",
-      "postResultTime": null,
+      "postResultTime": "2026-07-21T21:19:13.933",
       "teams": [
         {
           "teamNumber": 5515,

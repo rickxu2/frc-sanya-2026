@@ -320,17 +320,17 @@
       "tournamentLevel": "Playoff",
       "teams": [
         {
-          "teamNumber": null,
+          "teamNumber": 9994,
           "station": "Red1",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 10479,
           "station": "Red2",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 6940,
           "station": "Red3",
           "surrogate": false
         },
@@ -398,17 +398,17 @@
       "tournamentLevel": "Playoff",
       "teams": [
         {
-          "teamNumber": null,
+          "teamNumber": 9996,
           "station": "Red1",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 8214,
           "station": "Red2",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 8810,
           "station": "Red3",
           "surrogate": false
         },

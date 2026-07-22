@@ -245,16 +245,16 @@
       "matchVideoLink": null,
       "description": "Match 6 (R2)",
       "matchNumber": 6,
-      "scoreRedFinal": null,
-      "scoreRedFoul": null,
-      "scoreRedAuto": null,
-      "scoreBlueFinal": null,
-      "scoreBlueFoul": null,
-      "scoreBlueAuto": null,
-      "autoStartTime": "2026-07-22T02:30:00",
-      "actualStartTime": null,
+      "scoreRedFinal": 285,
+      "scoreRedFoul": 10,
+      "scoreRedAuto": 33,
+      "scoreBlueFinal": 330,
+      "scoreBlueFoul": 0,
+      "scoreBlueAuto": 61,
+      "autoStartTime": "2026-07-22T02:52:14.387",
+      "actualStartTime": "2026-07-22T02:52:14.387",
       "tournamentLevel": "Playoff",
-      "postResultTime": null,
+      "postResultTime": "2026-07-22T02:55:40.793",
       "teams": [
         {
           "teamNumber": 9991,
@@ -416,17 +416,17 @@
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 6907,
           "station": "Blue1",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 5823,
           "station": "Blue2",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 6941,
           "station": "Blue3",
           "dq": false
         }

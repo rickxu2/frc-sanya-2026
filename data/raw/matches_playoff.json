@@ -149,44 +149,44 @@
       "matchVideoLink": null,
       "description": "Match 4 (R1)",
       "matchNumber": 4,
-      "scoreRedFinal": null,
-      "scoreRedFoul": null,
-      "scoreRedAuto": null,
-      "scoreBlueFinal": null,
-      "scoreBlueFoul": null,
-      "scoreBlueAuto": null,
-      "autoStartTime": "2026-07-22T02:06:00",
-      "actualStartTime": null,
+      "scoreRedFinal": 553,
+      "scoreRedFoul": 40,
+      "scoreRedAuto": 81,
+      "scoreBlueFinal": 308,
+      "scoreBlueFoul": 0,
+      "scoreBlueAuto": 81,
+      "autoStartTime": "2026-07-22T02:18:18.05",
+      "actualStartTime": "2026-07-22T02:18:18.05",
       "tournamentLevel": "Playoff",
-      "postResultTime": null,
+      "postResultTime": "2026-07-22T02:22:57.1",
       "teams": [
         {
-          "teamNumber": 8011,
+          "teamNumber": 11328,
           "station": "Red1",
           "dq": false
         },
         {
-          "teamNumber": 11328,
+          "teamNumber": 6494,
           "station": "Red2",
           "dq": false
         },
         {
-          "teamNumber": 6494,
+          "teamNumber": 8011,
           "station": "Red3",
           "dq": false
         },
         {
-          "teamNumber": 6941,
+          "teamNumber": 6907,
           "station": "Blue1",
           "dq": false
         },
         {
-          "teamNumber": 6907,
+          "teamNumber": 5823,
           "station": "Blue2",
           "dq": false
         },
         {
-          "teamNumber": 5823,
+          "teamNumber": 6941,
           "station": "Blue3",
           "dq": false
         }
@@ -272,17 +272,17 @@
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 6907,
           "station": "Blue1",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 5823,
           "station": "Blue2",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 6941,
           "station": "Blue3",
           "dq": false
         }
@@ -368,17 +368,17 @@
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 11328,
           "station": "Blue1",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 6494,
           "station": "Blue2",
           "dq": false
         },
         {
-          "teamNumber": 0,
+          "teamNumber": 8011,
           "station": "Blue3",
           "dq": false
         }

@@ -125,32 +125,32 @@
       "tournamentLevel": "Playoff",
       "teams": [
         {
-          "teamNumber": 8011,
+          "teamNumber": 11328,
           "station": "Red1",
           "surrogate": false
         },
         {
-          "teamNumber": 11328,
+          "teamNumber": 6494,
           "station": "Red2",
           "surrogate": false
         },
         {
-          "teamNumber": 6494,
+          "teamNumber": 8011,
           "station": "Red3",
           "surrogate": false
         },
         {
-          "teamNumber": 6941,
+          "teamNumber": 6907,
           "station": "Blue1",
           "surrogate": false
         },
         {
-          "teamNumber": 6907,
+          "teamNumber": 5823,
           "station": "Blue2",
           "surrogate": false
         },
         {
-          "teamNumber": 5823,
+          "teamNumber": 6941,
           "station": "Blue3",
           "surrogate": false
         }
@@ -218,17 +218,17 @@
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 6907,
           "station": "Blue1",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 5823,
           "station": "Blue2",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 6941,
           "station": "Blue3",
           "surrogate": false
         }
@@ -296,17 +296,17 @@
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 11328,
           "station": "Blue1",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 6494,
           "station": "Blue2",
           "surrogate": false
         },
         {
-          "teamNumber": null,
+          "teamNumber": 8011,
           "station": "Blue3",
           "surrogate": false
         }
